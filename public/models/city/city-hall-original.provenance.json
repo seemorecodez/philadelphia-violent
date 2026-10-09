@@ -1,0 +1,124 @@
+{
+  "output": "public/models/city/city-hall-original.glb",
+  "source": "https://tiles.arcgis.com/tiles/z2tnIkrLQ2BRzr6P/arcgis/rest/services/philadelphia_Bldgs_text_untex/SceneServer/layers/0",
+  "objectIds": [
+    2849,
+    2422
+  ],
+  "origin": [
+    -75.16352595809857,
+    39.952655848260356,
+    95.25236157141626
+  ],
+  "triangles": 11591,
+  "textureAtlases": [
+    {
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "width": 4096,
+      "height": 4096
+    }
+  ],
+  "bytes": 5522056,
+  "sha256": "8194a25963e3b4517b285315053e44cf7805026d737be713501f60bcdc619301",
+  "parts": [
+    {
+      "source": "https://tiles.arcgis.com/tiles/z2tnIkrLQ2BRzr6P/arcgis/rest/services/philadelphia_Bldgs_text_untex/SceneServer/layers/0",
+      "objectId": 2849,
+      "nodeIndex": 641,
+      "resource": 640,
+      "sourceVersion": "661CEFCA-6729-484D-8D30-2AFC7F274213",
+      "originalGeometrySha256": "7617c002fcacc46123e41687bb17fae5f7c2eb3ed498859bc3bc871098a69f0b",
+      "originalAtlasSha256": "5b568f694eda62d37f46f54e6921a2027c5711f6d1af35f9580f87095b368355",
+      "outputSha256": "f566765ba85680fe2e8e3f6dc9dc686f2f31d80a365c85f679d5fb5a97216047",
+      "output": "public/models/city/city-hall-2849.glb",
+      "bytes": 2860616,
+      "triangles": 6960,
+      "origin": [
+        -75.16352595809857,
+        39.952655848260356,
+        95.25236157141626
+      ],
+      "localBounds": {
+        "min": [
+          -68.47921752929688,
+          -84.73416137695312,
+          -47.15318298339844
+        ],
+        "max": [
+          71.14134216308594,
+          85.03864288330078,
+          49.40928268432617
+        ]
+      },
+      "maxFloatStorageErrors": [
+        0.000003812834620475769,
+        3.76484670105981e-8,
+        0,
+        0
+      ],
+      "originalJpegBytesPreserved": true,
+      "sourceTriangleOrderPreserved": true,
+      "UV": "Original UVs cropped by per-vertex UInt16 atlas region exactly as Cesium; no V flip",
+      "verification": "Read-back passed; rendered verification pending",
+      "limitations": [
+        "Historical photographed lighting, vegetation and occlusion remain",
+        "No interiors or gameplay collision authoring",
+        "Height datum follows existing browser convention; not survey corrected"
+      ]
+    },
+    {
+      "source": "https://tiles.arcgis.com/tiles/z2tnIkrLQ2BRzr6P/arcgis/rest/services/philadelphia_Bldgs_text_untex/SceneServer/layers/0",
+      "objectId": 2422,
+      "nodeIndex": 640,
+      "resource": 639,
+      "sourceVersion": "661CEFCA-6729-484D-8D30-2AFC7F274213",
+      "originalGeometrySha256": "48328155fef2e406298affe529eaa4875771779c0a7042be09195d9cc2290591",
+      "originalAtlasSha256": "c304c87dcf088ea60f9b9bcf6e581bf332f4c0b17d1fc92c5df55f0b26b1f721",
+      "outputSha256": "f1e28e0a2a69a4ef8a59e2e1d43e1b3b8f4710c08a58923d5ed9bddd4cd07f8d",
+      "output": "public/models/city/city-hall-2422.glb",
+      "bytes": 2661944,
+      "triangles": 4631,
+      "origin": [
+        -75.16362006744467,
+        39.95225948704121,
+        50.026468583382666
+      ],
+      "localBounds": {
+        "min": [
+          -74.46282958984375,
+          -39.50648498535156,
+          -61.43038558959961
+        ],
+        "max": [
+          74.20690155029297,
+          39.59881591796875,
+          62.443016052246094
+        ]
+      },
+      "maxFloatStorageErrors": [
+        0.0000038070138543844223,
+        3.625308231391955e-8,
+        0,
+        0
+      ],
+      "originalJpegBytesPreserved": true,
+      "sourceTriangleOrderPreserved": true,
+      "UV": "Original UVs cropped by per-vertex UInt16 atlas region exactly as Cesium; no V flip",
+      "verification": "Read-back passed; rendered verification pending",
+      "limitations": [
+        "Historical photographed lighting, vegetation and occlusion remain",
+        "No interiors or gameplay collision authoring",
+        "Height datum follows existing browser convention; not survey corrected"
+      ]
+    }
+  ],
+  "verification": "Both original geometry/texture buffer payloads preserved byte for byte in assembly; rendered verification pending",
+  "limitations": [
+    "Source City Hall asset; not a new reconstruction",
+    "Historical photographic shadows and occlusion remain",
+    "No authored interior or final game collision"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "createdUtc": "2026-09-11T15:30:04.855446+00:00",
+  "tool": "Blender 5.2.1 LTS",
+  "source": "Original authored game interior geometry and textures; not surveyed city interiors",
+  "visualReview": "Corrected lobby, shop and home Blender overview previews inspected",
+  "files": [
+    {
+      "path": "scripts/build-interiors.py",
+      "bytes": 37558,
+      "sha256": "ba5e5f2dfa6630c261dc4a82bab09928eb943a7f5b4aa8445065ad87f72f3e69"
+    },
+    {
+      "path": "assets/interiors/home.blend",
+      "bytes": 1642856,
+      "sha256": "bcba5ec18dcdc638882575c0b06a7c93d8e01e0b5c792e0154c4377a2acd962d"
+    },
+    {
+      "path": "assets/interiors/lobby.blend",
+      "bytes": 1564022,
+      "sha256": "7ddd702765016eb82c8198b5b63ce4d2febf9a7307f6d9c5b978876ee7eac177"
+    },
+    {
+      "path": "assets/interiors/shop.blend",
+      "bytes": 1661955,
+      "sha256": "4405ab383cea2519290aab39aaf59130bb2d4906f6dd31b9a1341299dc4cac00"
+    },
+    {
+      "path": "public/models/interiors/home.glb",
+      "bytes": 4105144,
+      "sha256": "11fcfe253607804e7868559f73b905071e607844ff8fd964ccb6ce5704cad80d"
+    },
+    {
+      "path": "public/models/interiors/lobby.glb",
+      "bytes": 3113660,
+      "sha256": "4d9d18ad8d559be4103c484018dcc303ded0615c47c02dafbedcb66a66126a0d"
+    },
+    {
+      "path": "public/models/interiors/shop.glb",
+      "bytes": 5628180,
+      "sha256": "d565bb6012ae034f1836ed3ab2240b3cd466355007478432f755fd784ca8eb30"
+    },
+    {
+      "path": "public/models/interiors/home-preview.png",
+      "bytes": 1348494,
+      "sha256": "cf48e4d7bb55829e49b6c9877757939c5bc1707d94b7e7aa43b10db8b72a5770"
+    },
+    {
+      "path": "public/models/interiors/lobby-preview.png",
+      "bytes": 1296761,
+      "sha256": "860c2fa7fe23007cf929e5c7cd2ca0541b99bdb1dc5aef469830eaf31b0e1e0d"
+    },
+    {
+      "path": "public/models/interiors/shop-preview.png",
+      "bytes": 1338821,
+      "sha256": "2828b2a30acca26215f3fe8a7929ccebbd14d397fcf1e349cc6826a63421e78e"
+    },
+    {
+      "path": "public/models/interiors/layout-contract.json",
+      "bytes": 3548,
+      "sha256": "614fad10f2c3eeb68578bbcbd55c8ea224b9e63559cc60563744dcc28d265b2d"
+    }
+  ]
+}

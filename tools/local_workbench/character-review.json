@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "name": "Philadelphia character source review",
+  "inputs": {"character": "../../public/models/character/human-motion.glb"},
+  "steps": [
+    {"id": "inventory", "tool": "asset.inspect_glb", "input": "character"},
+    {"id": "front", "tool": "blender.preview", "input": "character", "depends_on": ["inventory"], "params": {"view": "front", "size": 512, "samples": 16}},
+    {"id": "back", "tool": "blender.preview", "input": "character", "depends_on": ["inventory"], "params": {"view": "back", "size": 512, "samples": 16}},
+    {"id": "left", "tool": "blender.preview", "input": "character", "depends_on": ["inventory"], "params": {"view": "left", "size": 512, "samples": 16}},
+    {"id": "right", "tool": "blender.preview", "input": "character", "depends_on": ["inventory"], "params": {"view": "right", "size": 512, "samples": 16}},
+    {"id": "review-sheet", "tool": "ffmpeg.contact_sheet", "depends_on": ["front", "back", "left", "right"]}
+  ]
+}

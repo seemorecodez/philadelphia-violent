@@ -1,0 +1,94 @@
+{
+  "status": "verified original-source conversion; visual integration and identity remain unverified",
+  "source_directory_url": "https://www.pasda.psu.edu/download/philacity/data/3D_Models/2010/",
+  "source_terms_url": "https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=Philadelphia_Building_3DModels.xml",
+  "source_terms_note": "Original City/PASDA data terms remain applicable; application MIT license does not relicense photographs.",
+  "source_created": "2009-01-16T17:06:17Z",
+  "source_author": "Nverse Photo",
+  "source_files_sha256": {
+    "philly_0051.dae": "aa578ccf45b09e0286effd7083b6169b1afeb4fd56a96da52533361476d6c22c",
+    "philly_0051.kml": "96556957a0ea2792ee7b08df391ab7c23f325d05c1dbcd43a2740d1254beeffc",
+    "tmaps/pphilly_0051-51.jpg": "1c3ed5131da3e47f9b0794da690dc21cb5e24f5e50f00b91add8ead23d7951d3"
+  },
+  "output_bytes": 97640,
+  "output_sha256": "aa5ba73d14812f3bd61382875c0fc8a980ff170f281d12b88c62b306dadd452d",
+  "source_position_entries": 141,
+  "triangles": 190,
+  "primitives": [
+    {
+      "material": "pphilly_0051-51_48",
+      "triangles": 190,
+      "gltf_attribute_vertices": 352
+    }
+  ],
+  "source_bounds_xyz_metres": {
+    "min": [
+      -12.496,
+      -9.951,
+      -0.001
+    ],
+    "max": [
+      13.793,
+      20.249,
+      16.048
+    ]
+  },
+  "dimensions_xyz_metres": [
+    26.289,
+    30.2,
+    16.049
+  ],
+  "max_roundoff": {
+    "position_metres": 9.460449206244448e-07,
+    "normal_components": 2.7847290029470173e-08,
+    "uv_components": 2.9792785682936085e-08
+  },
+  "triangle_corner_order_preserved": true,
+  "embedded_images": [
+    {
+      "name": "pphilly_0051-51.jpg",
+      "bytes": 82649,
+      "dimensions_pixels": [
+        512,
+        512
+      ],
+      "sha256": "1c3ed5131da3e47f9b0794da690dc21cb5e24f5e50f00b91add8ead23d7951d3"
+    }
+  ],
+  "source_placement": {
+    "longitude": -75.154702,
+    "latitude": 39.954456,
+    "altitude": 0.0,
+    "altitudeMode": "clampToGround",
+    "orientation": {
+      "heading": 0.0,
+      "tilt": 0.0,
+      "roll": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  "placement_contract": {
+    "glb_up_axis": "Y",
+    "cesium_upAxis": "Axis.Y",
+    "cesium_forwardAxis": "Axis.X",
+    "matrix": "Transforms.eastNorthUpToFixedFrame(Cartesian3.fromDegrees(source longitude, source latitude, loaded terrain height))",
+    "scale": 1,
+    "recentered": false,
+    "absolute_elevation_verified": false,
+    "source_to_gltf": "(x,y,z) -> (x,z,-y)",
+    "cesium_axis_recovery": "(x,z,-y) -> (x,y,z), preserving source east/north/up",
+    "source_uv_origin": "top-left",
+    "uv_conversion": "(u,v) -> (u,v)"
+  },
+  "material_note": "Original diffuse photograph/color shown unlit and double-sided for reference, matching the existing source inspection; not de-lit or production PBR.",
+  "limitations": [
+    "Historical source; building identity and present-day condition unverified",
+    "Original baked vehicles, vegetation, shadows and stretched/occluded facade pixels retained",
+    "No added geometry, cleanup, decimation, normal recomputation or image recompression",
+    "Unified glTF indices duplicate source positions at normal/UV seams without changing triangles"
+  ]
+}

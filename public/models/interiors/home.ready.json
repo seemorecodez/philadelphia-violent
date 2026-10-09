@@ -1,0 +1,8 @@
+{
+  "layout": "home",
+  "triangles": 47856,
+  "materialGroups": 22,
+  "bytes": 4105144,
+  "editable": "assets/interiors/home.blend",
+  "model": "public/models/interiors/home.glb"
+}

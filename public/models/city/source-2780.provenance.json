@@ -1,0 +1,55 @@
+{
+  "source": "https://tiles.arcgis.com/tiles/z2tnIkrLQ2BRzr6P/arcgis/rest/services/philadelphia_Bldgs_text_untex/SceneServer/layers/0",
+  "objectId": 2780,
+  "nodeIndex": 754,
+  "resource": 753,
+  "sourceVersion": "661CEFCA-6729-484D-8D30-2AFC7F274213",
+  "originalGeometrySha256": "a605811807064401e9cf23478a1e4432ccabfe3c434a420ae0898e3925667cbf",
+  "originalAtlasSha256": "17a855c9c4409f8bde1c869cc112b447479f05cdf7072412b58c6bfd81f98c5d",
+  "textureDimensions": {
+    "width": 4096,
+    "height": 4096
+  },
+  "outputSha256": "e63c7e8c0869ec4aaa05f1cc5c98fac4a03e6558397a442691b400ef3cadcd8e",
+  "output": "public/models/city/source-2780.glb",
+  "bytes": 2334352,
+  "triangles": 3902,
+  "sourceFeatureIndex": 0,
+  "sourceFaceRange": [
+    0,
+    3901
+  ],
+  "sourceFileFeatureCount": 1,
+  "origin": [
+    -75.15771564178223,
+    39.95268103241535,
+    37.533080061897635
+  ],
+  "localBounds": {
+    "min": [
+      -73.84712219238281,
+      -24.858539581298828,
+      -114.8736343383789
+    ],
+    "max": [
+      112.4331283569336,
+      25.80306625366211,
+      110.15648651123047
+    ]
+  },
+  "maxFloatStorageErrors": [
+    0.0000038063153624534607,
+    3.2931138260750004e-8,
+    0,
+    0
+  ],
+  "originalJpegBytesPreserved": true,
+  "sourceTriangleOrderPreserved": true,
+  "UV": "Original UVs cropped by per-vertex UInt16 atlas region exactly as Cesium; no V flip",
+  "verification": "Read-back passed; rendered verification pending",
+  "limitations": [
+    "Historical photographed lighting, vegetation and occlusion remain",
+    "No interiors or gameplay collision authoring",
+    "Height datum follows existing browser convention; not survey corrected"
+  ]
+}

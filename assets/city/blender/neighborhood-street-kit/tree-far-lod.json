@@ -1,0 +1,7 @@
+{
+  "kind": "tree-far-lod",
+  "file": "assets/city/blender/neighborhood-street-kit/tree-far-lod.glb",
+  "triangles": 6,
+  "source": "public/models/street/tree-small-02.glb",
+  "sha256": "9a2d4e66fba886c98ab06757c365a4e739e417be08ee5b3370058c3201bd208d"
+}

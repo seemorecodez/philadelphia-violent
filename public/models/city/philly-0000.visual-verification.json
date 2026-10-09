@@ -1,0 +1,27 @@
+{
+  "reference_render": "assets/city/reference/philly-0000/original-source-review.png",
+  "converted_glb_render": "public/models/city/philly-0000-glb-review.png",
+  "image_size": [
+    1200,
+    900
+  ],
+  "same_size": true,
+  "mean_absolute_rgb_error_0_to_255": [
+    5.092592592592592e-05,
+    4.814814814814815e-05,
+    5.833333333333333e-05
+  ],
+  "rms_rgb_error_0_to_255": [
+    0.007136240321480627,
+    0.006938886664887109,
+    0.007637626158259733
+  ],
+  "channel_max_difference": [
+    1,
+    1,
+    1
+  ],
+  "reference_sha256": "8ccf06ac7f165c1fa0d4917296606dcd2ad19b6d3f7613bbec819ab10f727e0a",
+  "converted_render_sha256": "f3045b0bcdb442869066fec24ebdb5d974025853461a92e37ab2a849b1b1a6b7",
+  "note": "Same existing orthographic camera, unlit source inspection material, Cycles CPU 8 samples. This image comparison does not establish geographic identity or source cleanup."
+}

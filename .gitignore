@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.npm-cache/
+.env
+.env.*
+!.env.example
+artifacts/
+*.log
+__pycache__/
+*.pyc
+*.blend1
+Unreal/**/Binaries/
+Unreal/**/Intermediate/
+Unreal/**/Saved/
+Unreal/**/DerivedDataCache/

@@ -1,0 +1,185 @@
+{
+  "pack": "river",
+  "name": "Delaware waterfront / Penn Treaty Park",
+  "cells": [
+    {
+      "id": "25_16",
+      "x": 25,
+      "y": 16,
+      "sha256": "512812f38e66735c5172864726ebcdb67f18acf132d00c862cffacf5b012ec4d"
+    },
+    {
+      "id": "25_17",
+      "x": 25,
+      "y": 17,
+      "sha256": "454b1da7db6aad17bf852bef119e3fbbeaa1e5774196fbd13e6935a6ec23425d"
+    },
+    {
+      "id": "25_18",
+      "x": 25,
+      "y": 18,
+      "sha256": "0a738bc094c408c5a145f3488eceba8842eaed98c99b3838e424e9db17a015c8"
+    },
+    {
+      "id": "25_19",
+      "x": 25,
+      "y": 19,
+      "sha256": "f76d37189caddce305904b772603a5adce79eb8d0e86dfc919bc11267f585315"
+    },
+    {
+      "id": "25_20",
+      "x": 25,
+      "y": 20,
+      "sha256": "99ba5bd3341ef2a8faf48c2fd3eba7eabdf68896638cd329f98f28c49111b67d"
+    },
+    {
+      "id": "26_16",
+      "x": 26,
+      "y": 16,
+      "sha256": "9808b19e4c5c924e5e119635381bdb1d95b9db9c3c18083ac030e4be3703bff4"
+    },
+    {
+      "id": "26_17",
+      "x": 26,
+      "y": 17,
+      "sha256": "2d8612c7f776aee7fb2c59d16df66853096a7760a9007b7c0fac951921eaefab"
+    },
+    {
+      "id": "26_18",
+      "x": 26,
+      "y": 18,
+      "sha256": "08a78764c4a025dc1b6a141070d5ae81eacee20c42c3adb8ed2936a7b3794067"
+    },
+    {
+      "id": "26_19",
+      "x": 26,
+      "y": 19,
+      "sha256": "e6043429601c2deab5e5667c052a1eceeeb6b286c562dc35544d2b1b5bcb9e7f"
+    },
+    {
+      "id": "26_20",
+      "x": 26,
+      "y": 20,
+      "sha256": "ab967eca30faefaea8550f91df101774ffaca0011d3840967b36a83a78390b65"
+    },
+    {
+      "id": "27_16",
+      "x": 27,
+      "y": 16,
+      "sha256": "298d29d8b92dbaad3870846ad2f21131635748474ba629909a5ab6fb3e7823ea"
+    },
+    {
+      "id": "27_17",
+      "x": 27,
+      "y": 17,
+      "sha256": "029d8043f54fd2a5256f9225eab48b68ebf62714fd39825f6361f7e5c9fe1b63"
+    },
+    {
+      "id": "27_18",
+      "x": 27,
+      "y": 18,
+      "sha256": "3fec7a38178f3c7f80fa887d6e0a90e83f7e8763d79a3356f053ba43c56d5b70"
+    },
+    {
+      "id": "27_19",
+      "x": 27,
+      "y": 19,
+      "sha256": "45f428bd381cbafa4e7bad10438f76c300c3d295504381a20ca744f1e0cc105e"
+    },
+    {
+      "id": "27_20",
+      "x": 27,
+      "y": 20,
+      "sha256": "c2bae5d77e2a735f72fd844ef03cc67b8c7fa1fc49a5b94a8902f9f0da0c2f22"
+    },
+    {
+      "id": "28_16",
+      "x": 28,
+      "y": 16,
+      "sha256": "3729d09476b67453bb2e0cdacf5e98bbd52735d772bd222058f669b245425fd8"
+    },
+    {
+      "id": "28_17",
+      "x": 28,
+      "y": 17,
+      "sha256": "1be8ed4b8d25290a05c10cd017f8d89e77dd126c40d071930f670a8c34954cd3"
+    },
+    {
+      "id": "28_18",
+      "x": 28,
+      "y": 18,
+      "sha256": "f9cebc10e6c91476ac45b1183683a1148aeaedc914133963a79d497d79f27e13"
+    },
+    {
+      "id": "28_19",
+      "x": 28,
+      "y": 19,
+      "sha256": "dbd78e4894a86058a944ef3333ee11ce36b5561abb628defa69d9c7d9449339e"
+    },
+    {
+      "id": "28_20",
+      "x": 28,
+      "y": 20,
+      "sha256": "daa59b63cb0f697904abd12bcaca75511a3d1dfd9f4492ecc75ec4407557e34e"
+    },
+    {
+      "id": "29_16",
+      "x": 29,
+      "y": 16,
+      "sha256": "0fb4c4d031811c73289bb52007492e573513452498f1543a8ca4e32f2c1232d2"
+    },
+    {
+      "id": "29_17",
+      "x": 29,
+      "y": 17,
+      "sha256": "54b211e937a38d634424138eee98f0a665803f44896a70429ceaa944593ab73e"
+    },
+    {
+      "id": "29_18",
+      "x": 29,
+      "y": 18,
+      "sha256": "9726308a5cca9b7f0d6e20eee49d62aaf4b1a0bc9b6eac2e0d6134a000788c8e"
+    },
+    {
+      "id": "29_19",
+      "x": 29,
+      "y": 19,
+      "sha256": "bf9ac5ff62de357f0d49a71787262e2b48ce6e7851fd60754a9710ba9007a5d0"
+    },
+    {
+      "id": "29_20",
+      "x": 29,
+      "y": 20,
+      "sha256": "79b9b30e31880efccd90ca0ac687713ecb223fca7338d480e1f8240be9f3f442"
+    }
+  ],
+  "bounds": [
+    -75.13070489136294,
+    39.96437297879986,
+    -75.12484586963554,
+    39.968864534674815
+  ],
+  "longitude": -75.128,
+  "latitude": 39.9662,
+  "reference": {
+    "id": "river",
+    "name": "Delaware waterfront / Penn Treaty Park",
+    "longitude": -75.128,
+    "latitude": 39.9662,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99274/76365",
+    "image": "/data/neighborhoods/river.jpg",
+    "bounds": [
+      -75.12863159179688,
+      39.965543219966044,
+      -75.12725830078125,
+      39.9665957444875
+    ],
+    "sha256": "b151016a8df997bfcd23d80482d084ff3617c250c3a070b2d93741e734b40b88",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  },
+  "buildingSource": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Building_Footprints/FeatureServer/0/query",
+  "buildingCount": 70,
+  "buildingSha256": "1c9b46548aa01162a53c4a0de27099edc9ca6aef841334da3892f22b6871bdd4",
+  "retrieved": "2026-09-13T19:23:40.314Z",
+  "classification": "Retained public source observations; native conversion and visual acceptance pending"
+}

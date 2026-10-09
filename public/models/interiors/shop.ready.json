@@ -1,0 +1,8 @@
+{
+  "layout": "shop",
+  "triangles": 67504,
+  "materialGroups": 20,
+  "bytes": 5628180,
+  "editable": "assets/interiors/shop.blend",
+  "model": "public/models/interiors/shop.glb"
+}

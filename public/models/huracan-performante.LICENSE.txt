@@ -1,0 +1,23 @@
+Original work: Lamborghini Huracan Performante
+Creator: George (georgezaky108)
+License: Creative Commons Attribution (CC BY), as stated by the creator's
+matching model listing. The live listing does not specify a version; this
+notice does not substitute a guessed license version.
+
+Creator's license listing:
+https://blendswap.com/blend/20021
+
+Original creator post and public source attachment:
+https://blenderartists.org/t/lamborghini-huracan-performante/692996
+https://blenderartists.org/uploads/default/original/4X/2/3/a/23aaf24c1ed27a47d12d17898915707de430158b.blend
+
+Retrieved 2026-09-11. This distribution is a modified derivative.
+Modifications: removed visible front badge and rear lettering; omitted the
+studio, lights, camera, and non-rendering modeling helpers; converted legacy
+Cycles materials into glTF PBR materials; normalized to 4.506 metres long;
+applied original modeled geometry, bevels and selected subdivision levels;
+removed unused non-rendering vertices; exported with Draco compression.
+
+Retain this attribution and identify further changes when redistributing.
+No endorsement by the original creator or the vehicle manufacturer is implied.
+The project's MIT license does not relicense this third-party model.

@@ -1,0 +1,6 @@
+{
+  "url": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Planning_Districts/FeatureServer/0/query?where=1%3D1&outFields=objectid,dist_name,abbrev&returnGeometry=true&outSR=4326&f=geojson",
+  "count": 18,
+  "sha256": "75e8c212778196507ea03bed08f7845082499d6bf8d5ccf379030c748777dba9",
+  "purpose": "Public planning boundaries, not individual neighborhood boundaries"
+}

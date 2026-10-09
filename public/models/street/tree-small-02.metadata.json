@@ -1,0 +1,39 @@
+{
+  "source_object": "tree_small_02_LOD1",
+  "source": "https://polyhaven.com/a/tree_small_02",
+  "license": "CC0-1.0",
+  "author": "Rico Cilliers",
+  "parts": [
+    {
+      "material": "tree_small_02_trunk",
+      "source_triangles": 14145,
+      "runtime_triangles": 6999
+    },
+    {
+      "material": "tree_small_02_branches",
+      "source_triangles": 94814,
+      "runtime_triangles": 9999
+    },
+    {
+      "material": "tree_small_02_leaves",
+      "source_triangles": 386574,
+      "runtime_triangles": 109865
+    }
+  ],
+  "minimum_before_grounding": [
+    -1.310724139213562,
+    -2.914323091506958,
+    -0.024194231256842613
+  ],
+  "maximum_before_grounding": [
+    1.6149373054504395,
+    1.3876118659973145,
+    4.55165433883667
+  ],
+  "height_metres": 4.5758485700935125,
+  "triangles": 126863,
+  "bytes": 14840160,
+  "sha256": "bf13178b90779699b3a4d0c57211dbb1ee41df602ad1a6d3391eae2b125073df",
+  "leaf_alpha_mode": "MASK",
+  "leaf_alpha_cutoff": 0.4
+}

@@ -1,0 +1,288 @@
+{
+  "schema": 1,
+  "units": "centimetres",
+  "axes": "X east, Y south, Z up",
+  "origin": [
+    -75.16,
+    39.95
+  ],
+  "originHeight": 11.501941601038554,
+  "terrain": "Shared 10m piecewise-planar grid from Terrarium z15 observations",
+  "surfaceConformance": {
+    "gridMeters": 10,
+    "sourceTriangles": 120926,
+    "outputTriangles": 469986,
+    "maxOriginalVertexHeightAdjustmentM": 0.8728155302298113
+  },
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60
+  },
+  "cells": [
+    {
+      "id": "-52_-2",
+      "x": -515000,
+      "y": 15000,
+      "sourceSha256": "cf5fec085df49f42f868a9cb94c5e324f5644d3fa7527b0681636d211fb5edd1"
+    },
+    {
+      "id": "-52_-1",
+      "x": -515000,
+      "y": 5000,
+      "sourceSha256": "e753adee7b5de59b6397fa0a2f8411c19b63d205f9445699ef8963b9a8187966"
+    },
+    {
+      "id": "-52_0",
+      "x": -515000,
+      "y": -5000,
+      "sourceSha256": "6a59a127d50e73fe3d5fc1dc26ad15cd2abc551ea13fa9b25f6015e01167b7ba"
+    },
+    {
+      "id": "-52_1",
+      "x": -515000,
+      "y": -15000,
+      "sourceSha256": "17e314a439fb0a50a0a0b2eb5e912e176f0def70bd84b8c3897ef9d4919f0d7f"
+    },
+    {
+      "id": "-52_2",
+      "x": -515000,
+      "y": -25000,
+      "sourceSha256": "6e4fc3fbd8a80520c350db688db2f4035a9af56a9ee754ae8b8799a806a246e4"
+    },
+    {
+      "id": "-51_-2",
+      "x": -505000,
+      "y": 15000,
+      "sourceSha256": "5fdd3308fba03a5db13d471c075ed6b89ceea58d0f041a84cbf5418017596075"
+    },
+    {
+      "id": "-51_-1",
+      "x": -505000,
+      "y": 5000,
+      "sourceSha256": "a96738ea26a2e11c68d301f237466006697b69dd44164196a077c85106933880"
+    },
+    {
+      "id": "-51_0",
+      "x": -505000,
+      "y": -5000,
+      "sourceSha256": "b6727336f49484f0598d6c775f014817983c25e1fce89249814443b62ec103cc"
+    },
+    {
+      "id": "-51_1",
+      "x": -505000,
+      "y": -15000,
+      "sourceSha256": "dfffcb22d8bf2b85a2140afaf98bb2a1943c267d4d450e19fb748e7f00489ec9"
+    },
+    {
+      "id": "-51_2",
+      "x": -505000,
+      "y": -25000,
+      "sourceSha256": "89cb3b8e2d2d99ee94e3e5c036fe2d62e0fd55fbf18da91f286b880abdfb2f27"
+    },
+    {
+      "id": "-50_-2",
+      "x": -495000,
+      "y": 15000,
+      "sourceSha256": "6345ecfa8586826757b9ce9db4aff7f2f72576bc1f9666fe5810ae43328b04f6"
+    },
+    {
+      "id": "-50_-1",
+      "x": -495000,
+      "y": 5000,
+      "sourceSha256": "a9a76236bfb4f0e6c221addf380752c1f9f66327c709d150d0199e15e186fb0f"
+    },
+    {
+      "id": "-50_0",
+      "x": -495000,
+      "y": -5000,
+      "sourceSha256": "d1efbac3ccc0a59a46b645ab67ee74786d09456ef8480d47e7e5b68445b799ee"
+    },
+    {
+      "id": "-50_1",
+      "x": -495000,
+      "y": -15000,
+      "sourceSha256": "f11deecacbf076d6371af0d9eb3eee9eec67b0b98efe53899ee20c051bd58aa8"
+    },
+    {
+      "id": "-50_2",
+      "x": -495000,
+      "y": -25000,
+      "sourceSha256": "efb35dc12c8cd9b32975dea487a10e00a544f86b94b01eb32c8eed8a3f40f7d1"
+    },
+    {
+      "id": "-49_-2",
+      "x": -485000,
+      "y": 15000,
+      "sourceSha256": "c462b354e98e9b2e2a348aa4532b82c0fa0277099908defd592b1d29038351b1"
+    },
+    {
+      "id": "-49_-1",
+      "x": -485000,
+      "y": 5000,
+      "sourceSha256": "99f9016981a899ebe4d4d78d2f0dfb64b08f0ff74b9f84aa6d5cbd0cd4e3a81c"
+    },
+    {
+      "id": "-49_0",
+      "x": -485000,
+      "y": -5000,
+      "sourceSha256": "e505cd5ffa458e7d4ebcf3e5cd144d6479d70244dc8e44b01e292e397dfc8904"
+    },
+    {
+      "id": "-49_1",
+      "x": -485000,
+      "y": -15000,
+      "sourceSha256": "41749f2f89533a7a95e237a4be98ab261f08aafea17cd4c685072f7629d1f556"
+    },
+    {
+      "id": "-49_2",
+      "x": -485000,
+      "y": -25000,
+      "sourceSha256": "c3ff0890e9b3d917c150068041a6cb17681a505a5e26802c784fbd67f0d7aabd"
+    },
+    {
+      "id": "-48_-2",
+      "x": -475000,
+      "y": 15000,
+      "sourceSha256": "ee6311a1d5ff0c11bbebba87408cbcdc1f36aba0c4813f62b933121b36b26ca9"
+    },
+    {
+      "id": "-48_-1",
+      "x": -475000,
+      "y": 5000,
+      "sourceSha256": "c075d92020b57366d257d629c9ffa2e80a399bed2623a8f5d24c1cb121547310"
+    },
+    {
+      "id": "-48_0",
+      "x": -475000,
+      "y": -5000,
+      "sourceSha256": "f24f27d553105a445003bcf9ad280ebfab8c5198305b7b98ce071a38f00da6dc"
+    },
+    {
+      "id": "-48_1",
+      "x": -475000,
+      "y": -15000,
+      "sourceSha256": "9af5e7082981312ffb689b9e078869567716754bf607159919d8751bb8bbdac7"
+    },
+    {
+      "id": "-48_2",
+      "x": -475000,
+      "y": -25000,
+      "sourceSha256": "79050459958c574fb45af3838ef4b3a4e494f26f7baa9fe3b4d4171163aadc09"
+    }
+  ],
+  "spawn": [
+    -496390.33333333326,
+    -10547.633333333335,
+    1627.7916621704103
+  ],
+  "landmark": [
+    41141.68050818046,
+    -62695.423999983606,
+    16.21516173149562
+  ],
+  "sourceManifestSha256": "66b0f773069694fbd570d3987958be50210bbd66e89436025ec8e677d8ab6c8c",
+  "terrainSources": {
+    "artifacts\\unreal\\terrain\\15-9543-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12410.png",
+      "sha256": "ce9292d64c5d947488d6223c414829dd3a8b69e3801921b37e1d8dfd19afdaf9"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12411.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12411.png",
+      "sha256": "bed53c45535ef1f1496107738ca9c1fb64402f84590c0090b131896be0fe5aa2"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12410.png",
+      "sha256": "7d95b03c3f134f5bc413621fd867f456567bd367829f9ea009bbbdb990a05772"
+    }
+  },
+  "limitations": [
+    "Historical source geometry is not final architecture.",
+    "Terrain source is not a surveyed road or bridge deck."
+  ],
+  "yawDegrees": -80.5,
+  "name": "West Philadelphia",
+  "houseCount": 659,
+  "houseTriangles": 24221,
+  "skippedBuildings": [
+    {
+      "id": "309162",
+      "name": "",
+      "height": 2.4384
+    },
+    {
+      "id": "316060",
+      "name": "",
+      "height": 2.4384
+    },
+    {
+      "id": "490288",
+      "name": "",
+      "height": 15.24
+    },
+    {
+      "id": "490871",
+      "name": "",
+      "height": 13.1064
+    },
+    {
+      "id": "490993",
+      "name": "",
+      "height": 23.1648
+    },
+    {
+      "id": "490996",
+      "name": "",
+      "height": 14.325600000000001
+    },
+    {
+      "id": "491005",
+      "name": "The Church Of The Lord Jesus Christ Of The Apostolic Faith, Inc. Headquarters",
+      "height": 13.716000000000001
+    },
+    {
+      "id": "491554",
+      "name": "",
+      "height": 49.3776
+    },
+    {
+      "id": "491841",
+      "name": "",
+      "height": 19.5072
+    },
+    {
+      "id": "492044",
+      "name": "Renewal Presbyterian Church",
+      "height": 14.9352
+    },
+    {
+      "id": "492169",
+      "name": "",
+      "height": 16.764
+    },
+    {
+      "id": "492944",
+      "name": "",
+      "height": 18.288
+    }
+  ],
+  "streetDetails": {
+    "style": "west",
+    "classification": "Interpreted street dressing constrained by retained city geometry; not surveyed prop locations",
+    "counts": {
+      "lamp": 114,
+      "hydrant": 34,
+      "bin": 76,
+      "utility-pole": 53,
+      "parking-sign": 31,
+      "tree": 449,
+      "planter": 149,
+      "garden-fence": 12,
+      "cable": 84,
+      "mailbox": 593,
+      "parked-car": 33
+    },
+    "units": "Unreal centimetres",
+    "version": 1
+  }
+}

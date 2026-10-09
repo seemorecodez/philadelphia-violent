@@ -1,0 +1,30 @@
+{
+  "blender": "5.2.1 LTS",
+  "models": [
+    {
+      "layout": "lobby",
+      "triangles": 29352,
+      "materialGroups": 18,
+      "bytes": 3113660,
+      "editable": "assets/interiors/lobby.blend",
+      "model": "public/models/interiors/lobby.glb"
+    },
+    {
+      "layout": "shop",
+      "triangles": 67504,
+      "materialGroups": 20,
+      "bytes": 5628180,
+      "editable": "assets/interiors/shop.blend",
+      "model": "public/models/interiors/shop.glb"
+    },
+    {
+      "layout": "home",
+      "triangles": 47856,
+      "materialGroups": 22,
+      "bytes": 4105144,
+      "editable": "assets/interiors/home.blend",
+      "model": "public/models/interiors/home.glb"
+    }
+  ],
+  "seconds": 487.42353320121765
+}

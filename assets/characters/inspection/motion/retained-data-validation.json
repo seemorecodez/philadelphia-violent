@@ -1,0 +1,14 @@
+{
+  "retainedMeshAttributesExact": true,
+  "retainedPackedImagesExact": true,
+  "retainedMaterialsExact": true,
+  "retainedIdleExact": true,
+  "retainedWalkExact": true,
+  "candidateClips": [
+    "Idle",
+    "Run",
+    "Walk"
+  ],
+  "maximumRunLoopEndpointDifference": 0,
+  "runLoopClosed": true
+}

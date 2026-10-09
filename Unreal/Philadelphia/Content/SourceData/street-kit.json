@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "kind": "lamp",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/lamp/lamp.lamp",
+      "collision": true,
+      "cullDistanceCm": 26000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 663.6968383789062,
+      "boundsCm": [
+        [
+          -22.0,
+          -22.0,
+          0.0
+        ],
+        [
+          216.00001525878906,
+          22.0,
+          663.6968383789062
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/lamp.glb",
+      "sourceSha256": "dac2125b746800d0e9abaf0bec4e64efd23a58be13fe029b2740817fa3f1c2c7"
+    },
+    {
+      "kind": "hydrant",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/hydrant/hydrant.hydrant",
+      "collision": true,
+      "cullDistanceCm": 14000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 89.04999542236328,
+      "boundsCm": [
+        [
+          -20.0,
+          -20.200000762939453,
+          0.0
+        ],
+        [
+          26.0,
+          20.200002670288086,
+          89.04999542236328
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/hydrant.glb",
+      "sourceSha256": "15d75019e09033c07cb1750e2517e6806c23f7eb1d2d4ab4950c8defa9082ff7"
+    },
+    {
+      "kind": "bin",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/bin/bin.bin",
+      "collision": true,
+      "cullDistanceCm": 14000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 93.75000047683716,
+      "boundsCm": [
+        [
+          -28.5,
+          -32.0,
+          0.4999995231628418
+        ],
+        [
+          28.5,
+          32.0,
+          94.25
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/bin.glb",
+      "sourceSha256": "6d2f010a211a990f816be627553cae28152bc3c053071da07b1b303efd4d41ac"
+    },
+    {
+      "kind": "utility-pole",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/utility_pole/utility-pole.utility-pole",
+      "collision": true,
+      "cullDistanceCm": 26000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 870.0,
+      "boundsCm": [
+        [
+          -15.199999809265137,
+          -77.5,
+          0.0
+        ],
+        [
+          15.199999809265137,
+          77.5,
+          870.0
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/utility-pole.glb",
+      "sourceSha256": "0bf6253d9d4052dbf554441d2a79a420e96156b19a51a3040b329eb1010cc1eb"
+    },
+    {
+      "kind": "parking-sign",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/parking_sign/parking-sign.parking-sign",
+      "collision": true,
+      "cullDistanceCm": 14000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 294.0,
+      "boundsCm": [
+        [
+          -2.200000047683716,
+          -20.0,
+          0.0
+        ],
+        [
+          5.299999713897705,
+          20.0,
+          294.0
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/parking-sign.glb",
+      "sourceSha256": "3bacc9e16ee94252c9e38efdd73802e870d23242b0a74a58aa79286a442b6895"
+    },
+    {
+      "kind": "planter",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/planter/planter.planter",
+      "collision": true,
+      "cullDistanceCm": 14000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 84.89065551757812,
+      "boundsCm": [
+        [
+          -37.5,
+          -37.25,
+          0.0
+        ],
+        [
+          37.5,
+          37.25,
+          84.89065551757812
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/planter.glb",
+      "sourceSha256": "9e4ff89a20bb63fb51ecc494729f92b446c4e84fa6e766231b79ddb16c395af3"
+    },
+    {
+      "kind": "garden-fence",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/garden_fence/garden-fence.garden-fence",
+      "collision": true,
+      "cullDistanceCm": 14000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 112.40000915527344,
+      "boundsCm": [
+        [
+          -79.4000015258789,
+          -4.400000095367432,
+          0.0
+        ],
+        [
+          79.4000015258789,
+          4.400000095367432,
+          112.40000915527344
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/garden-fence.glb",
+      "sourceSha256": "d51f832e4e7d479a3dced1bbf6eb6a086e205d67874367698fbfd9ef12339991"
+    },
+    {
+      "kind": "mailbox",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/mailbox/mailbox.mailbox",
+      "collision": true,
+      "cullDistanceCm": 14000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 24.25,
+      "boundsCm": [
+        [
+          -5.0,
+          -14.25,
+          0.0
+        ],
+        [
+          7.450000286102295,
+          14.25,
+          24.25
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/mailbox.glb",
+      "sourceSha256": "1066a4d2ae454a00aec3650ce97a93dc59dcbfc3667280846929d0c43089830f"
+    },
+    {
+      "kind": "cable",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/cable/cable.cable",
+      "collision": false,
+      "cullDistanceCm": 26000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 1.7999999523162842,
+      "boundsCm": [
+        [
+          0.0,
+          -0.7794206738471985,
+          -0.8999978303909302
+        ],
+        [
+          100.0,
+          0.7794250249862671,
+          0.900002121925354
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/cable.glb",
+      "sourceSha256": "cd87ccaa57942b32792bece9d7fee2653214303d789b2b353165b8483981bfa5"
+    },
+    {
+      "kind": "tree",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/tree_full/tree-small-02.tree-small-02",
+      "collision": true,
+      "cullDistanceCm": 20000,
+      "lods": 3,
+      "materialSlots": 6,
+      "heightCm": 457.5848693847656,
+      "boundsCm": [
+        [
+          -131.07242584228516,
+          -138.76119232177734,
+          0.0
+        ],
+        [
+          161.49373626708984,
+          291.3500747680664,
+          457.5848693847656
+        ]
+      ],
+      "source": "public/models/street/tree-small-02.glb",
+      "sourceSha256": "bf13178b90779699b3a4d0c57211dbb1ee41df602ad1a6d3391eae2b125073df",
+      "farLodSource": "assets/city/blender/neighborhood-street-kit/tree-far-lod.glb",
+      "farLodTriangles": 6
+    },
+    {
+      "kind": "parked-car",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/parked_car/parked-car.parked-car",
+      "collision": true,
+      "cullDistanceCm": 18000,
+      "lods": 3,
+      "materialSlots": 1,
+      "heightCm": 141.12057495117188,
+      "boundsCm": [
+        [
+          -107.15626525878906,
+          -238.68716430664062,
+          -0.256561279296875
+        ],
+        [
+          107.11083984375,
+          238.81231689453125,
+          140.864013671875
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/parked-car.glb",
+      "sourceSha256": "312e7c84b8c195a3dae6455d3424a81670f6a8d7faa0cf57ca224f3b7196c711"
+    },
+    {
+      "kind": "tree-far-lod",
+      "mesh": "/Game/Philadelphia/Assets/StreetKit/tree_far_lod/tree-far-lod.tree-far-lod",
+      "collision": false,
+      "cullDistanceCm": 14000,
+      "lods": 1,
+      "materialSlots": 3,
+      "heightCm": 485.03997802734375,
+      "boundsCm": [
+        [
+          -227.30936431884766,
+          -166.22557830810547,
+          -13.7275390625
+        ],
+        [
+          257.73067474365234,
+          318.81446075439453,
+          471.31243896484375
+        ]
+      ],
+      "source": "assets/city/blender/neighborhood-street-kit/tree-far-lod.glb",
+      "sourceSha256": "9a2d4e66fba886c98ab06757c365a4e739e417be08ee5b3370058c3201bd208d"
+    }
+  ]
+}

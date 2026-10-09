@@ -1,0 +1,40 @@
+{
+  "source_sha256": "01a60862de55cd4b9f3acfab0b0def86451800f9c42467fcd61052c16cb9838c",
+  "derived_sha256": "2e03c80f5ed640319f2d4c51b79b4326f1598263246af7f45c29fe622cb33684",
+  "byte_length": 5420408,
+  "original_car_gltf_min": [
+    -0.00935376434326172,
+    0.000992422122228961,
+    -0.0194049510740765
+  ],
+  "original_car_gltf_max": [
+    0.009353763580322265,
+    0.01261662386296513,
+    0.018974475762968523
+  ],
+  "uniform_scale_applied": 117.25031796609477,
+  "gltf_translation_applied": [
+    4.4727446824363286e-08,
+    -0.11636180938793225,
+    0.025236683551981866
+  ],
+  "metres": {
+    "width": 2.193463597399819,
+    "height": 1.362941350203348,
+    "length": 4.5
+  },
+  "gltf_axes": {
+    "up": "+Y",
+    "front": "+Z"
+  },
+  "cesium_defaults_axes": {
+    "up": "+Z",
+    "front": "+X"
+  },
+  "runtime_model_scale": 1,
+  "runtime_ground_height_offset": 0,
+  "active_mesh_names": [
+    "ToyCar",
+    "Glass"
+  ]
+}

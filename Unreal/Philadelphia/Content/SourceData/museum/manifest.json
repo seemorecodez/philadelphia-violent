@@ -1,0 +1,205 @@
+{
+  "schema": 1,
+  "units": "centimetres",
+  "axes": "X east, Y south, Z up",
+  "origin": [
+    -75.16,
+    39.95
+  ],
+  "originHeight": 11.501941601038554,
+  "terrain": "Shared 10m piecewise-planar grid from Terrarium z15 observations",
+  "surfaceConformance": {
+    "gridMeters": 10,
+    "sourceTriangles": 69419,
+    "outputTriangles": 325440,
+    "maxOriginalVertexHeightAdjustmentM": 3.3524235827153035
+  },
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60
+  },
+  "cells": [
+    {
+      "id": "-20_14",
+      "x": -195000.0,
+      "y": -145000.0,
+      "sourceSha256": "afaa6b57b43e1c1c9da477d29eebaaf386a1a2ef59ee2a69cedf355385a4cc83"
+    },
+    {
+      "id": "-20_15",
+      "x": -195000.0,
+      "y": -155000.0,
+      "sourceSha256": "efc71bdddbe3e8d97c585f192741637413a48bdc7f23e9e6f68bf179be0bc539"
+    },
+    {
+      "id": "-20_16",
+      "x": -195000.0,
+      "y": -165000.0,
+      "sourceSha256": "13dedc48abf0672c33197b48b723648409526dc457882e5176988391b9553bf7"
+    },
+    {
+      "id": "-20_17",
+      "x": -195000.0,
+      "y": -175000.0,
+      "sourceSha256": "7178e57c9fc16a534e3293bcf3e488e4e4151e677846f004d14b894c7e5a3885"
+    },
+    {
+      "id": "-20_18",
+      "x": -195000.0,
+      "y": -185000.0,
+      "sourceSha256": "e94931ace694ed9960d7310178bba47f3e97e77d99e77af704abbd6589a11870"
+    },
+    {
+      "id": "-19_14",
+      "x": -185000.0,
+      "y": -145000.0,
+      "sourceSha256": "df144d328f4f744387e96f2b128367867537beff9fa5cae2f45ed8c251fa3abf"
+    },
+    {
+      "id": "-19_15",
+      "x": -185000.0,
+      "y": -155000.0,
+      "sourceSha256": "1297056903af1889c6feb83a5b56e06607d46b93387bbbd84c127d04b1e055ec"
+    },
+    {
+      "id": "-19_16",
+      "x": -185000.0,
+      "y": -165000.0,
+      "sourceSha256": "ad2954dbacdd07781131e5ff278d524a1573a5c0817cc5174f3beb901b764289"
+    },
+    {
+      "id": "-19_17",
+      "x": -185000.0,
+      "y": -175000.0,
+      "sourceSha256": "4443333502b2d5ba5e2e279475adeb5b6de73cac607c04da931bc2b448ac1711"
+    },
+    {
+      "id": "-19_18",
+      "x": -185000.0,
+      "y": -185000.0,
+      "sourceSha256": "b1553eaac7c281d1728a981e9e6cf78028009287ad840cf01ebbd40680005783"
+    },
+    {
+      "id": "-18_14",
+      "x": -175000.0,
+      "y": -145000.0,
+      "sourceSha256": "2a9e691ed2de08b07cb340aff325c55adc6bb6588a715593b9f753c7db6b997d"
+    },
+    {
+      "id": "-18_15",
+      "x": -175000.0,
+      "y": -155000.0,
+      "sourceSha256": "e33544dc7887712d098f1b37e7511b7e7189f6393668ae5345478cffbde1a0fe"
+    },
+    {
+      "id": "-18_16",
+      "x": -175000.0,
+      "y": -165000.0,
+      "sourceSha256": "b588fb58593cff5cf8c37227a96e2164fc66f676f014dd30d3813faa3ba89b26"
+    },
+    {
+      "id": "-18_17",
+      "x": -175000.0,
+      "y": -175000.0,
+      "sourceSha256": "8d85898d4826ba68de24b25deae16645221273228aec9622b0663f046481828e"
+    },
+    {
+      "id": "-18_18",
+      "x": -175000.0,
+      "y": -185000.0,
+      "sourceSha256": "3d87b3a940ce4ebfed636b52a35450a11dec0a70a24092b68ae2dd752fc315d2"
+    },
+    {
+      "id": "-17_14",
+      "x": -165000.0,
+      "y": -145000.0,
+      "sourceSha256": "f0b03168a5b048b320c4ad2870f9882126dbad5dc387cdae56ffeac667867737"
+    },
+    {
+      "id": "-17_15",
+      "x": -165000.0,
+      "y": -155000.0,
+      "sourceSha256": "f70d96612f71a3d119054d475a738599130e9686d273a1f4da040854ab338a47"
+    },
+    {
+      "id": "-17_16",
+      "x": -165000.0,
+      "y": -165000.0,
+      "sourceSha256": "dc69bec665b01fb32cb79f282aa49b7bbc1be7b84b0692ba5d94d6fd5a580851"
+    },
+    {
+      "id": "-17_17",
+      "x": -165000.0,
+      "y": -175000.0,
+      "sourceSha256": "7d8588ec30743fb772629de334daf824218c7825bad0d89b368cb31436f457b7"
+    },
+    {
+      "id": "-17_18",
+      "x": -165000.0,
+      "y": -185000.0,
+      "sourceSha256": "adc080cb09fa4eb9db5c834b29798c97c5d0efa482b8275665d6006cbb4d90fb"
+    },
+    {
+      "id": "-16_14",
+      "x": -155000.0,
+      "y": -145000.0,
+      "sourceSha256": "627efb7c557b52840b2d69161b8ddaf0d4deadb99a62b910912fdc7f80e24976"
+    },
+    {
+      "id": "-16_15",
+      "x": -155000.0,
+      "y": -155000.0,
+      "sourceSha256": "a32f9595519f41a8cc2fb3392d6a1b43545b07fec14d493413d4542bbb3b52b7"
+    },
+    {
+      "id": "-16_16",
+      "x": -155000.0,
+      "y": -165000.0,
+      "sourceSha256": "788990ba769b05cf5ae6234ee583cbb31b71dc586db5024b71713610d7acca76"
+    },
+    {
+      "id": "-16_17",
+      "x": -155000.0,
+      "y": -175000.0,
+      "sourceSha256": "8c4b94754d8f990e7117ed65caf519d8ac5ac1dfc25c24bf56010fd75ad33c10"
+    },
+    {
+      "id": "-16_18",
+      "x": -155000.0,
+      "y": -185000.0,
+      "sourceSha256": "cff78ee0bf14fa0f13a08153ecbd5da3609972a04808a282adfefe49fd044875"
+    }
+  ],
+  "spawn": [
+    -162996.49402775525,
+    -160300.7999999428,
+    413.434294786993
+  ],
+  "landmark": [
+    41141.68050818046,
+    -62695.423999983606,
+    16.21516173149562
+  ],
+  "sourceManifestSha256": "9270c45d90fd8042cc24272c5f77e395a1595dc889162dd703ea7bbea08fa87e",
+  "terrainSources": {
+    "artifacts\\unreal\\terrain\\15-9543-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12410.png",
+      "sha256": "ce9292d64c5d947488d6223c414829dd3a8b69e3801921b37e1d8dfd19afdaf9"
+    },
+    "artifacts\\unreal\\terrain\\15-9540-12409.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9540/12409.png",
+      "sha256": "ea41b8ef45dcebfc6f4a0982c5fc8da0299b163c125a777803237208605c441c"
+    },
+    "artifacts\\unreal\\terrain\\15-9541-12409.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9541/12409.png",
+      "sha256": "bac60a66685eeb1182872d55d39d1db55b808186e163a969714dab84a53caeea"
+    }
+  },
+  "limitations": [
+    "Historical source geometry is not final architecture.",
+    "Terrain source is not a surveyed road or bridge deck."
+  ],
+  "name": "Museum of Art",
+  "yawDegrees": -140
+}

@@ -1,0 +1,456 @@
+{
+  "source": "https://www.pasda.psu.edu/download/philacity/data/3D_Models/2010/ph_downtown_kml.zip",
+  "classification": "Historical reference; final art not accepted",
+  "assets": [
+    {
+      "id": "philly_0001",
+      "lon": -75.155737,
+      "lat": 39.955538,
+      "distance_m": 70.57481794782913,
+      "position_cm": [
+        36379.7934051894,
+        -61649.01599993621,
+        -22.94794682837651
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0001\\philly_0001-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0001-1.jpg",
+          "sha256": "d4b657c14a855c8e29c7b6a33c45e3ffdda5e4d9139d380552cbbd1b324daa2e"
+        }
+      ]
+    },
+    {
+      "id": "philly_0068",
+      "lon": -75.156852,
+      "lat": 39.954786,
+      "distance_m": 74.99424941204279,
+      "position_cm": [
+        26864.55304704056,
+        -53277.751999952554,
+        109.84562342975704
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0068\\philly_0068-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0068-68.jpg",
+          "sha256": "f0942d25327074801f3620d7e0807dffba3b301f3efee1aab6d92019fe627dfb"
+        }
+      ]
+    },
+    {
+      "id": "philly_0067",
+      "lon": -75.15694,
+      "lat": 39.955099,
+      "distance_m": 82.65601840824182,
+      "position_cm": [
+        26113.574435769217,
+        -56762.06799993533,
+        106.96262436520794
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0067\\philly_0067-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0067-67.jpg",
+          "sha256": "a884d6e87980db6aed85e4090a89806c69df1dad1fea6fa9a9773da6c1dbc70a"
+        }
+      ]
+    },
+    {
+      "id": "philly_0088",
+      "lon": -75.156636,
+      "lat": 39.954356,
+      "distance_m": 84.58359212023552,
+      "position_cm": [
+        28707.86418364314,
+        -48490.99199993603,
+        79.13724559769778
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0088\\philly_0088-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0088-91.jpg",
+          "sha256": "38ca072c867182fd7a7bd403626157ba9f88914410aff81a2ef4160803430cce"
+        }
+      ]
+    },
+    {
+      "id": "philly_0084",
+      "lon": -75.155587,
+      "lat": 39.954237,
+      "distance_m": 85.1888992949799,
+      "position_cm": [
+        37659.87058345975,
+        -47166.2839999585,
+        128.55508534181172
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0084\\philly_0084-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0084-87.jpg",
+          "sha256": "2aec69a2a9942cdd9a9c50d38766575b520f95f4824e9009fbfb090c64949eac"
+        }
+      ]
+    },
+    {
+      "id": "philly_0074",
+      "lon": -75.156886,
+      "lat": 39.955304,
+      "distance_m": 86.38043477226064,
+      "position_cm": [
+        26574.4022199805,
+        -59044.12799994782,
+        89.74081817410297
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0074\\philly_0074-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0074-74.jpg",
+          "sha256": "c53454fe7b855621b67040633a9b7b1240d4060f6adba2a462a5a29e067b2740"
+        }
+      ]
+    },
+    {
+      "id": "philly_0073",
+      "lon": -75.156942,
+      "lat": 39.955227,
+      "distance_m": 87.06924482749837,
+      "position_cm": [
+        26096.506740102603,
+        -58186.96399997632,
+        101.0177115061488
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0073\\philly_0073-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0073-73.jpg",
+          "sha256": "b91dda379273412550705b705d0e14b14e8e3a972a510ebfb46d7731b9596766"
+        }
+      ]
+    },
+    {
+      "id": "philly_0021",
+      "lon": -75.156569,
+      "lat": 39.95566,
+      "distance_m": 94.35403502654663,
+      "position_cm": [
+        29279.63198992996,
+        -63007.11999998762,
+        18.84843400199383
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0021\\philly_0021-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0021-21.jpg",
+          "sha256": "53da4f0b283c4b9f307bd726cf61a8bcd55b551affe11536bba4f86d7ed4ba16"
+        }
+      ]
+    },
+    {
+      "id": "philly_0054",
+      "lon": -75.155108,
+      "lat": 39.954423,
+      "distance_m": 94.74844301353885,
+      "position_cm": [
+        41747.58370592178,
+        -49236.8359999513,
+        105.16490076418475
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0054\\philly_0054-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0054-54.jpg",
+          "sha256": "0bddd7035fea728429f9c1ad540d69de6a19379a5bc13bc31a86bbaf657f5438"
+        }
+      ]
+    },
+    {
+      "id": "philly_0053",
+      "lon": -75.154861,
+      "lat": 39.954809,
+      "distance_m": 97.73071766935901,
+      "position_cm": [
+        43855.4441260845,
+        -53533.78799993891,
+        64.86613734126223
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0053\\philly_0053-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0053-53.jpg",
+          "sha256": "759489bf70716f6d3fa6507936fcf08e0e8628dfaeb3c6e2a261da7d28109bba"
+        }
+      ]
+    },
+    {
+      "id": "philly_0000",
+      "lon": -75.155179,
+      "lat": 39.955632,
+      "distance_m": 104.17461537252017,
+      "position_cm": [
+        41141.68050818046,
+        -62695.423999983606,
+        16.21516173149562
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0000\\philly_0000-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0000-0.jpg",
+          "sha256": "feb9b4c910a4c5959c9055981d8619930e7576ed6954d9a4e15e34105853e28e"
+        }
+      ]
+    },
+    {
+      "id": "philly_0027",
+      "lon": -75.155941,
+      "lat": 39.955915,
+      "distance_m": 109.12654116583978,
+      "position_cm": [
+        34638.88844282903,
+        -65845.77999993949,
+        -18.278568029454156
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0027\\philly_0027-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0027-27.jpg",
+          "sha256": "cd60b81b333a7e180eb1319381cd392560cf2a825512a8a7a07fe8506943c4f9"
+        }
+      ]
+    },
+    {
+      "id": "philly_0081",
+      "lon": -75.155899,
+      "lat": 39.953928,
+      "distance_m": 112.45973123242608,
+      "position_cm": [
+        34997.31005267682,
+        -43726.49599994239,
+        120.32000065168927
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0081\\philly_0081-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0081-84.jpg",
+          "sha256": "78f5b5baa3161c162049e0bdd8fcd4f3de6d2114dc797d423c51a557f4f157e0"
+        }
+      ]
+    },
+    {
+      "id": "philly_0025",
+      "lon": -75.156084,
+      "lat": 39.955953,
+      "distance_m": 113.51582462436792,
+      "position_cm": [
+        33418.5481995131,
+        -66268.79599997883,
+        -33.00712809494133
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0025\\philly_0025-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0025-25.jpg",
+          "sha256": "8fd632b626ab6b7bfa319899cb943681a512b8bd9e0b8bd85ce949da402847aa"
+        }
+      ]
+    },
+    {
+      "id": "philly_0083",
+      "lon": -75.155137,
+      "lat": 39.954123,
+      "distance_m": 116.34242251290883,
+      "position_cm": [
+        41500.10211814952,
+        -45897.23599999863,
+        171.2235826336256
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0083\\philly_0083-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0083-86.jpg",
+          "sha256": "1f6c33a3070fe72489fa115b95519b28d969ace8dd2324ae47c6e78492a56516"
+        }
+      ]
+    },
+    {
+      "id": "philly_0024",
+      "lon": -75.156277,
+      "lat": 39.95597,
+      "distance_m": 117.64252790372431,
+      "position_cm": [
+        31771.51556356166,
+        -66458.03999997563,
+        -54.907592284721574
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0024\\philly_0024-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0024-24.jpg",
+          "sha256": "2c02ea689bb7461e0a2a4a9a5eac1e9ff6162e17a0816171e3fb0dbdb4631f16"
+        }
+      ]
+    },
+    {
+      "id": "philly_0087",
+      "lon": -75.156565,
+      "lat": 39.953929,
+      "distance_m": 122.15360352890507,
+      "position_cm": [
+        29313.767381384456,
+        -43737.627999993376,
+        147.63158677178635
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0087\\philly_0087-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0087-90.jpg",
+          "sha256": "a68248cd487fc2193b7b18274a89abfd55b78e6ae8ec18073a7a821e7ae7c0e7"
+        }
+      ]
+    },
+    {
+      "id": "philly_0051",
+      "lon": -75.154702,
+      "lat": 39.954456,
+      "distance_m": 122.51548800419116,
+      "position_cm": [
+        45212.32593497588,
+        -49604.19199997298,
+        109.68356203166127
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0051\\philly_0051-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0051-51.jpg",
+          "sha256": "1c3ed5131da3e47f9b0794da690dc21cb5e24f5e50f00b91add8ead23d7951d3"
+        }
+      ]
+    },
+    {
+      "id": "philly_0023",
+      "lon": -75.156626,
+      "lat": 39.955951,
+      "distance_m": 125.20692380256672,
+      "position_cm": [
+        28793.202662218755,
+        -66246.53199995594,
+        56.134199692235676
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0023\\philly_0023-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0023-23.jpg",
+          "sha256": "d664dab6c3c24d14c29e19dea8c9217a914f6a17016040f6da68c38d28136333"
+        }
+      ]
+    },
+    {
+      "id": "philly_0052",
+      "lon": -75.154544,
+      "lat": 39.954617,
+      "distance_m": 128.73095728587134,
+      "position_cm": [
+        46560.673896033964,
+        -51396.443999956544,
+        84.42356722599501
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0052\\philly_0052-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0052-52.jpg",
+          "sha256": "3cad3ef2706e9ed2311cb22fdf9dd2d4181a57d76b323520fa4570ad58ed5870"
+        }
+      ]
+    },
+    {
+      "id": "philly_0033",
+      "lon": -75.154993,
+      "lat": 39.955826,
+      "distance_m": 130.8702701427385,
+      "position_cm": [
+        42728.97620917749,
+        -64855.03199998885,
+        11.206292012498054
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0033\\philly_0033-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0033-33.jpg",
+          "sha256": "5892c551d691d372ba16936037f4f87dddf306eb800a45bde54628fce17f4461"
+        }
+      ]
+    },
+    {
+      "id": "philly_0032",
+      "lon": -75.155006,
+      "lat": 39.955883,
+      "distance_m": 135.0441493511168,
+      "position_cm": [
+        42618.036187101956,
+        -65489.55599996878,
+        -3.6912352347938437
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0032\\philly_0032-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0032-32.jpg",
+          "sha256": "2fd812f9d7d3e498f030250e422027addb869149cebe5e447cd6dde101d331b5"
+        }
+      ]
+    },
+    {
+      "id": "philly_0078",
+      "lon": -75.154761,
+      "lat": 39.954145,
+      "distance_m": 137.1878304049923,
+      "position_cm": [
+        44708.828911598066,
+        -46142.13999993399,
+        123.0331820295417
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0078\\philly_0078-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0078-78.jpg",
+          "sha256": "b36dbedf0ae977ca1cabb5aee646e96bbe08125df720dc2c4b0a0bfb2a7decac"
+        }
+      ]
+    },
+    {
+      "id": "philly_0086",
+      "lon": -75.156262,
+      "lat": 39.953715,
+      "distance_m": 137.77279074204577,
+      "position_cm": [
+        31899.523281425074,
+        -41355.379999996556,
+        81.81779793279027
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0086\\philly_0086-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0086-89.jpg",
+          "sha256": "20e104d009a7e31e46f80863b114579fb070f7e4a47025f7a3f089bef71e6086"
+        }
+      ]
+    },
+    {
+      "id": "philly_0022",
+      "lon": -75.156882,
+      "lat": 39.955982,
+      "distance_m": 138.91469102033946,
+      "position_cm": [
+        26608.537611434997,
+        -66591.62399995475,
+        25.431453816132432
+      ],
+      "glb": "Unreal\\Philadelphia\\SourceAssets\\DowntownExpansion\\philly_0022\\philly_0022-uv-corrected.glb",
+      "textures": [
+        {
+          "entry": "kml/tmaps/pphilly_0022-22.jpg",
+          "sha256": "1d7866d95dd5cfd5802949850b6894aa041ab972dcb24ed11e307fe78fc52ccf"
+        }
+      ]
+    }
+  ]
+}

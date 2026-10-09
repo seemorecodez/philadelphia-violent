@@ -1,0 +1,3623 @@
+{
+  "scope": "Code and selected project metadata; data/assets are not a runnable game distribution.",
+  "sources": [
+    {
+      "origin": "canonical",
+      "sourcePath": ".agpilot/world-expansion-20260913/coding/workspaces/9de4f60cb50f4088/src/district-geometry.js",
+      "path": "archive/world-expansion-workspace/9de4f60cb50f4088/src/district-geometry.js",
+      "sourceSha256": "0c33b2594d990330eeb12bc2146c6c68e0bf62182e323f8d44549f137e8dd377",
+      "publishedSha256": "0c33b2594d990330eeb12bc2146c6c68e0bf62182e323f8d44549f137e8dd377",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": ".agpilot/world-expansion-20260913/coding/workspaces/9de4f60cb50f4088/src/house-details.js",
+      "path": "archive/world-expansion-workspace/9de4f60cb50f4088/src/house-details.js",
+      "sourceSha256": "1137aeb941ec2394761b0edc0e6bf15a5f7e42021eaf70b5b2b6f1baed2e4f4d",
+      "publishedSha256": "1137aeb941ec2394761b0edc0e6bf15a5f7e42021eaf70b5b2b6f1baed2e4f4d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": ".agpilot/world-expansion-20260913/coding/workspaces/9de4f60cb50f4088/src/house-profile.js",
+      "path": "archive/world-expansion-workspace/9de4f60cb50f4088/src/house-profile.js",
+      "sourceSha256": "85f19bb0ca328285135aa5a6c761336abb514c6cc47f52ac52096afc42fdc618",
+      "publishedSha256": "85f19bb0ca328285135aa5a6c761336abb514c6cc47f52ac52096afc42fdc618",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": ".agpilot/world-expansion-20260913/coding/workspaces/9de4f60cb50f4088/Unreal/Philadelphia/Scripts/geo_frame.py",
+      "path": "archive/world-expansion-workspace/9de4f60cb50f4088/Unreal/Philadelphia/Scripts/geo_frame.py",
+      "sourceSha256": "b9d13376fa44a38dde1541af2b866a8ac18ce4005250c78fd69238e9783f5bbb",
+      "publishedSha256": "b9d13376fa44a38dde1541af2b866a8ac18ce4005250c78fd69238e9783f5bbb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": ".agpilot/world-expansion-20260913/coding/workspaces/9de4f60cb50f4088/Unreal/Philadelphia/Scripts/prepare_district.py",
+      "path": "archive/world-expansion-workspace/9de4f60cb50f4088/Unreal/Philadelphia/Scripts/prepare_district.py",
+      "sourceSha256": "ebce80983f52cb2b6532490182efb0bdd3c103df8665402189364dc835dc5854",
+      "publishedSha256": "ebce80983f52cb2b6532490182efb0bdd3c103df8665402189364dc835dc5854",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": ".agpilot/world-expansion-20260913/coding/workspaces/9de4f60cb50f4088/Unreal/Philadelphia/Scripts/prepare_south.py",
+      "path": "archive/world-expansion-workspace/9de4f60cb50f4088/Unreal/Philadelphia/Scripts/prepare_south.py",
+      "sourceSha256": "e2320e9fcdd103abe8c266db1ba4e209de79f1ebfa3a1e06fc4df4057171d5d8",
+      "publishedSha256": "e2320e9fcdd103abe8c266db1ba4e209de79f1ebfa3a1e06fc4df4057171d5d8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": ".agpilot/world-expansion-20260913/coding/workspaces/9de4f60cb50f4088/Unreal/Philadelphia/Tools/build-south-houses.mjs",
+      "path": "archive/world-expansion-workspace/9de4f60cb50f4088/Unreal/Philadelphia/Tools/build-south-houses.mjs",
+      "sourceSha256": "24a79eef2e8b18e0ccdcd860551740bc130da4a23db828d97f68caa8418528ec",
+      "publishedSha256": "24a79eef2e8b18e0ccdcd860551740bc130da4a23db828d97f68caa8418528ec",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": ".gitignore",
+      "path": ".gitignore",
+      "sourceSha256": "7a6ff1fc643228f19f5aa0a434aab13d562bdbf091b5cc6b1d807d662aa24058",
+      "publishedSha256": "7a6ff1fc643228f19f5aa0a434aab13d562bdbf091b5cc6b1d807d662aa24058",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "ACCEPTANCE.md",
+      "path": "ACCEPTANCE.md",
+      "sourceSha256": "b7d85787c06f80517632ac27c6bae38184dc1da32be7ff505e14d9cb97b5d2b8",
+      "publishedSha256": "b7d85787c06f80517632ac27c6bae38184dc1da32be7ff505e14d9cb97b5d2b8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "AGENTS.md",
+      "path": "AGENTS.md",
+      "sourceSha256": "9f8be68fc965f2f382523b8ab5c049d2d5b83a89c1750900e14ec922a4477bf8",
+      "publishedSha256": "9f8be68fc965f2f382523b8ab5c049d2d5b83a89c1750900e14ec922a4477bf8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "AGPILOT-TEAM.md",
+      "path": "AGPILOT-TEAM.md",
+      "sourceSha256": "528c762cce737c987e7bcead4dffd03ddbc2b7451f6fe462ef57ff4edbc08c80",
+      "publishedSha256": "6d8196b96565df4bc6eb6d6403a8763e2f77fe603209dbc82fde7a6708d2f28e",
+      "transformed": true
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/add-source-turn.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/add-source-turn.py",
+      "sourceSha256": "c75eab375c11035e194afef2dc44b2050f2bcb09212ad48f17c8a860072b70be",
+      "publishedSha256": "c75eab375c11035e194afef2dc44b2050f2bcb09212ad48f17c8a860072b70be",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/apply-facade-lod.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/apply-facade-lod.py",
+      "sourceSha256": "81ae5f15352a9d3b54cf896ed1d59d8c330c7fb9bdd82f8be65dafef29b7b8cb",
+      "publishedSha256": "81ae5f15352a9d3b54cf896ed1d59d8c330c7fb9bdd82f8be65dafef29b7b8cb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/compact-facades.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/compact-facades.py",
+      "sourceSha256": "38c27ff56d18ac3db3a41311e629cd36866b4b5a326042277f85c88658b7bd35",
+      "publishedSha256": "38c27ff56d18ac3db3a41311e629cd36866b4b5a326042277f85c88658b7bd35",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/convert-verify-west.mjs",
+      "path": "archive/research-scripts/agpilot-world-expansion/convert-verify-west.mjs",
+      "sourceSha256": "018168e03e1acb516ce596012416df81904ca6067de0c4a6130a0e8ce630bc56",
+      "publishedSha256": "018168e03e1acb516ce596012416df81904ca6067de0c4a6130a0e8ce630bc56",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/discover-models.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/discover-models.py",
+      "sourceSha256": "9b0269b5b5b057e6220cf484858732605dbfa1b4ab315341eabbd3eceeff63de",
+      "publishedSha256": "9b0269b5b5b057e6220cf484858732605dbfa1b4ab315341eabbd3eceeff63de",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/extend-retained-extraction.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/extend-retained-extraction.py",
+      "sourceSha256": "2703bbbb0604f1b5ec8a30ac4c916c7954053e2a9e2b81045cf8f3ca54f9a67d",
+      "publishedSha256": "2703bbbb0604f1b5ec8a30ac4c916c7954053e2a9e2b81045cf8f3ca54f9a67d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/find-west-turn.mjs",
+      "path": "archive/research-scripts/agpilot-world-expansion/find-west-turn.mjs",
+      "sourceSha256": "54111fb473b359128756406dea769b926261e68702c94470690ad437ecf761cc",
+      "publishedSha256": "54111fb473b359128756406dea769b926261e68702c94470690ad437ecf761cc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/material-relief-edit.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/material-relief-edit.py",
+      "sourceSha256": "27116835d6255ffd4c9ba7fff3e23b5a5d851c2168bee6d42dda572bc639098a",
+      "publishedSha256": "27116835d6255ffd4c9ba7fff3e23b5a5d851c2168bee6d42dda572bc639098a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/prepare_house_material-before-relief.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/prepare_house_material-before-relief.py",
+      "sourceSha256": "17d063f4672fd9e6df53100c9e802962425fe05bb5a5efdac9701d8c40367d85",
+      "publishedSha256": "17d063f4672fd9e6df53100c9e802962425fe05bb5a5efdac9701d8c40367d85",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/prepare_house_material-relief-rejected.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/prepare_house_material-relief-rejected.py",
+      "sourceSha256": "c6302184cca6aacca5ce947fccf50fcc3147c5c9fe96a95ef33e526c30174244",
+      "publishedSha256": "c6302184cca6aacca5ce947fccf50fcc3147c5c9fe96a95ef33e526c30174244",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/agpilot-world-expansion/update-object-acceptance.py",
+      "path": "archive/research-scripts/agpilot-world-expansion/update-object-acceptance.py",
+      "sourceSha256": "deca4d70ef8af63be345649b46eb04fc3798dfbe4f6794beb8db9ade897fa6db",
+      "publishedSha256": "deca4d70ef8af63be345649b46eb04fc3798dfbe4f6794beb8db9ade897fa6db",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/check-blender-master.py",
+      "path": "archive/research-scripts/check-blender-master.py",
+      "sourceSha256": "fc8c78b2d866581c61538fb0846d165afb53ea549cbbd8a532ae28f8c1653150",
+      "publishedSha256": "fc8c78b2d866581c61538fb0846d165afb53ea549cbbd8a532ae28f8c1653150",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/local-agent/backdrop-review.mjs",
+      "path": "archive/research-scripts/local-agent/backdrop-review.mjs",
+      "sourceSha256": "1ce9a82a7b4274551a2d2b57e6330472bf571bb1426fd2cf46e98ce17a972a54",
+      "publishedSha256": "1ce9a82a7b4274551a2d2b57e6330472bf571bb1426fd2cf46e98ce17a972a54",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/local-agent/district-route-job.mjs",
+      "path": "archive/research-scripts/local-agent/district-route-job.mjs",
+      "sourceSha256": "2534732fc377ea9a1ff90bc0bd6afa9d6943f5c028e15fc128ac475ae7646000",
+      "publishedSha256": "2534732fc377ea9a1ff90bc0bd6afa9d6943f5c028e15fc128ac475ae7646000",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/local-agent/terrain-conform/repair.mjs",
+      "path": "archive/research-scripts/local-agent/terrain-conform/repair.mjs",
+      "sourceSha256": "5db68e709c9182b9986807d4988621b1a4cdb035cebded9929b4bede346326dd",
+      "publishedSha256": "5db68e709c9182b9986807d4988621b1a4cdb035cebded9929b4bede346326dd",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/local-agent/terrain-conform/run.mjs",
+      "path": "archive/research-scripts/local-agent/terrain-conform/run.mjs",
+      "sourceSha256": "fb082f9090f5bdf5d8d70b4aae6db9d0099d5d695101409beef12438f4fdd718",
+      "publishedSha256": "fb082f9090f5bdf5d8d70b4aae6db9d0099d5d695101409beef12438f4fdd718",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "artifacts/update-blender-direction.py",
+      "path": "archive/research-scripts/update-blender-direction.py",
+      "sourceSha256": "9859791e906148ed7b135108307792002037ecda6ca1f0ad14c75331e3279064",
+      "publishedSha256": "9859791e906148ed7b135108307792002037ecda6ca1f0ad14c75331e3279064",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/audio-review/README.md",
+      "path": "assets/audio-review/README.md",
+      "sourceSha256": "5aa21a786ac3ab22f9a4926e47dce8302c9087c8f78d2cfe93d2cd284cb390ea",
+      "publishedSha256": "5aa21a786ac3ab22f9a4926e47dce8302c9087c8f78d2cfe93d2cd284cb390ea",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/human-motion-status.json",
+      "path": "assets/characters/human-motion-status.json",
+      "sourceSha256": "f8fdabf0dd83617b3324473d2a443a102df07cb5622b0651cd2f60f1b3cc780d",
+      "publishedSha256": "f8fdabf0dd83617b3324473d2a443a102df07cb5622b0651cd2f60f1b3cc780d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/human-status.json",
+      "path": "assets/characters/human-status.json",
+      "sourceSha256": "9a7c3c178bbaa6984a8969cba93702de70d37de65c21ba3e25b38d1c3e2e23af",
+      "publishedSha256": "9a7c3c178bbaa6984a8969cba93702de70d37de65c21ba3e25b38d1c3e2e23af",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/inspection/motion/retained-data-validation.json",
+      "path": "assets/characters/inspection/motion/retained-data-validation.json",
+      "sourceSha256": "7f55ad18d4412efa7ba71ba3b737375bd528bb28635402bbb2a0e1db3d2e66b6",
+      "publishedSha256": "7f55ad18d4412efa7ba71ba3b737375bd528bb28635402bbb2a0e1db3d2e66b6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/inspection/motion/run-measurements.json",
+      "path": "assets/characters/inspection/motion/run-measurements.json",
+      "sourceSha256": "b1144c40f6b4e54a949886a376084d2ce50684260119342a745e67cc9fc15988",
+      "publishedSha256": "b1144c40f6b4e54a949886a376084d2ce50684260119342a745e67cc9fc15988",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/inspection/motion/source-hand-bones.json",
+      "path": "assets/characters/inspection/motion/source-hand-bones.json",
+      "sourceSha256": "255e6d617a68b66911f7f5581fc5f1b36dee1fc3d7c96aa323a067d982c8de4d",
+      "publishedSha256": "255e6d617a68b66911f7f5581fc5f1b36dee1fc3d7c96aa323a067d982c8de4d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/inspection/motion/walk-measurements.json",
+      "path": "assets/characters/inspection/motion/walk-measurements.json",
+      "sourceSha256": "eab51fe26fedf41fb8bebdf7c5ee638b214082f094cba7169bf0a220186b4589",
+      "publishedSha256": "eab51fe26fedf41fb8bebdf7c5ee638b214082f094cba7169bf0a220186b4589",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/source/fetch-system-assets.py",
+      "path": "assets/characters/source/fetch-system-assets.py",
+      "sourceSha256": "7077b4eb14533cf89690e85aa68140c7ef82bdde62a81d1eb67917299f4e5d3e",
+      "publishedSha256": "7077b4eb14533cf89690e85aa68140c7ef82bdde62a81d1eb67917299f4e5d3e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/source/files.sha256.json",
+      "path": "assets/characters/source/files.sha256.json",
+      "sourceSha256": "a6b5d55d7ed2a7bee04adf387d26bfd21b5b273a3a2fdfb0a1cf286a81a15c64",
+      "publishedSha256": "a6b5d55d7ed2a7bee04adf387d26bfd21b5b273a3a2fdfb0a1cf286a81a15c64",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/source/LICENSE.ASSETS.md",
+      "path": "assets/characters/source/LICENSE.ASSETS.md",
+      "sourceSha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c",
+      "publishedSha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/source/LICENSE.makehuman.md",
+      "path": "assets/characters/source/LICENSE.makehuman.md",
+      "sourceSha256": "edd99571ca62698f78c943fd4fffb159a413c315fa0d4819d3cec5cadaf8b4f1",
+      "publishedSha256": "edd99571ca62698f78c943fd4fffb159a413c315fa0d4819d3cec5cadaf8b4f1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/characters/source/system-asset-manifest.json",
+      "path": "assets/characters/source/system-asset-manifest.json",
+      "sourceSha256": "61501c2296763f4c9df55c1d2813487c3b3c146efb861d97a675fe36b94a59be",
+      "publishedSha256": "61501c2296763f4c9df55c1d2813487c3b3c146efb861d97a675fe36b94a59be",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/blender/arch-street/provenance.json",
+      "path": "assets/city/blender/arch-street/provenance.json",
+      "sourceSha256": "cbc23d2c2ec0dad86cf2efa623f289d0458a4e1bd51ec5447e134063a1f3e067",
+      "publishedSha256": "cbc23d2c2ec0dad86cf2efa623f289d0458a4e1bd51ec5447e134063a1f3e067",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/blender/arch-street/README.md",
+      "path": "assets/city/blender/arch-street/README.md",
+      "sourceSha256": "0d4ecd85c89e937469b8cc9a177340f5a00e32fe0df24065e41cbd2cf9f0f68c",
+      "publishedSha256": "0d4ecd85c89e937469b8cc9a177340f5a00e32fe0df24065e41cbd2cf9f0f68c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/blender/arch-street/roundtrip-check.json",
+      "path": "assets/city/blender/arch-street/roundtrip-check.json",
+      "sourceSha256": "9a71cbb9b1eb422bc41a2e0e5999678532538e20fb87fd547d34268c5f698e90",
+      "publishedSha256": "9a71cbb9b1eb422bc41a2e0e5999678532538e20fb87fd547d34268c5f698e90",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/blender/neighborhood-street-kit/CREDITS.md",
+      "path": "assets/city/blender/neighborhood-street-kit/CREDITS.md",
+      "sourceSha256": "b38257a2f5c735732f05b0a079850a49984a63a8ed7f2dde9e4a012664f241fc",
+      "publishedSha256": "b38257a2f5c735732f05b0a079850a49984a63a8ed7f2dde9e4a012664f241fc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/blender/neighborhood-street-kit/manifest.json",
+      "path": "assets/city/blender/neighborhood-street-kit/manifest.json",
+      "sourceSha256": "01268b17ca04c636d3a32f701c972d0c0972285924e416a113d2638b79f888c6",
+      "publishedSha256": "01268b17ca04c636d3a32f701c972d0c0972285924e416a113d2638b79f888c6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/blender/neighborhood-street-kit/parked-car.json",
+      "path": "assets/city/blender/neighborhood-street-kit/parked-car.json",
+      "sourceSha256": "c05ee7c1ef49137584d865a213d9b460a712551aa559ea6aa08f8ee78ba09872",
+      "publishedSha256": "c05ee7c1ef49137584d865a213d9b460a712551aa559ea6aa08f8ee78ba09872",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/blender/neighborhood-street-kit/tree-far-lod.json",
+      "path": "assets/city/blender/neighborhood-street-kit/tree-far-lod.json",
+      "sourceSha256": "631cd1d58aa7842d57340633f008880e3c64d52bba06461464fa89a5d6654d53",
+      "publishedSha256": "631cd1d58aa7842d57340633f008880e3c64d52bba06461464fa89a5d6654d53",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/reference/philly-0000/README.md",
+      "path": "assets/city/reference/philly-0000/README.md",
+      "sourceSha256": "6bc03c14d2103b1f686b623660dba50f47290e241de1fcee4957d60e068cde56",
+      "publishedSha256": "6bc03c14d2103b1f686b623660dba50f47290e241de1fcee4957d60e068cde56",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "assets/city/reference/philly-0000/reference-validation.json",
+      "path": "assets/city/reference/philly-0000/reference-validation.json",
+      "sourceSha256": "103b366793fe0007778511d3cc9ec2a5b0e88dd4082d6e0ec690f66c7f9f3f9c",
+      "publishedSha256": "103b366793fe0007778511d3cc9ec2a5b0e88dd4082d6e0ec690f66c7f9f3f9c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "AUDIO-SOURCES.md",
+      "path": "AUDIO-SOURCES.md",
+      "sourceSha256": "95785de636265ea5cb983c6d24d799c8d604dd53ce9fc8e0fd1fb7a4ce2281cf",
+      "publishedSha256": "95785de636265ea5cb983c6d24d799c8d604dd53ce9fc8e0fd1fb7a4ce2281cf",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "AUTHORS.md",
+      "path": "AUTHORS.md",
+      "sourceSha256": "a6db6d318444f20b57bc4407f358335bc4e028169bb114ebe888d47d9ea44bce",
+      "publishedSha256": "a6db6d318444f20b57bc4407f358335bc4e028169bb114ebe888d47d9ea44bce",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "BLENDER-UNREAL-NEIGHBORHOOD-BLOCK.md",
+      "path": "BLENDER-UNREAL-NEIGHBORHOOD-BLOCK.md",
+      "sourceSha256": "9a73508a11919f4e21aca8f3ee19502844105be7302c6b2fa09aa867f03caec1",
+      "publishedSha256": "9a73508a11919f4e21aca8f3ee19502844105be7302c6b2fa09aa867f03caec1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "CHARACTER-DEVELOPMENT.md",
+      "path": "CHARACTER-DEVELOPMENT.md",
+      "sourceSha256": "2e7d0b23345a41e1049284a2b835cca089e42bcdc30a00408bd4838b11c4fdb0",
+      "publishedSha256": "2e7d0b23345a41e1049284a2b835cca089e42bcdc30a00408bd4838b11c4fdb0",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "CITY-DETAIL-NEXT.md",
+      "path": "CITY-DETAIL-NEXT.md",
+      "sourceSha256": "c64c1ffdce9911701a59808774a4a3cda4901861b176e180f4f8af0d61675b1a",
+      "publishedSha256": "c64c1ffdce9911701a59808774a4a3cda4901861b176e180f4f8af0d61675b1a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "CITY-EXPANSION-2026-09-12.md",
+      "path": "CITY-EXPANSION-2026-09-12.md",
+      "sourceSha256": "945a4b1a0f014aed0adb8c0f3dda6ae2d1fc14a8c0de5f53d0e2057ce2bcc7f1",
+      "publishedSha256": "945a4b1a0f014aed0adb8c0f3dda6ae2d1fc14a8c0de5f53d0e2057ce2bcc7f1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "CONTRIBUTOR_TERMS.md",
+      "path": "CONTRIBUTOR_TERMS.md",
+      "sourceSha256": "d4ef7068cfbb92840f53fea07d5adc57b5a64564e6e2f774ebd2bbc5b5f0e1ba",
+      "publishedSha256": "d4ef7068cfbb92840f53fea07d5adc57b5a64564e6e2f774ebd2bbc5b5f0e1ba",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "CONTRIBUTOR_UPSIDE_PROGRAM.md",
+      "path": "CONTRIBUTOR_UPSIDE_PROGRAM.md",
+      "sourceSha256": "527f861326e861807d22010b7a3a486a67a453f82bf513a593282324eacbf474",
+      "publishedSha256": "527f861326e861807d22010b7a3a486a67a453f82bf513a593282324eacbf474",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "diagnostics/city-hall.html",
+      "path": "diagnostics/city-hall.html",
+      "sourceSha256": "d05b11f955bb40926867d0601fde6a529149e2cb77e8774cbc9a9a5863eb4ed8",
+      "publishedSha256": "d05b11f955bb40926867d0601fde6a529149e2cb77e8774cbc9a9a5863eb4ed8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "diagnostics/city-hall.mjs",
+      "path": "diagnostics/city-hall.mjs",
+      "sourceSha256": "5e07ed5d9451ebce2af29c2da5c7ef94b4ef3a813dc350f6b4932d7927312f6c",
+      "publishedSha256": "5e07ed5d9451ebce2af29c2da5c7ef94b4ef3a813dc350f6b4932d7927312f6c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "diagnostics/district.html",
+      "path": "diagnostics/district.html",
+      "sourceSha256": "c8ef18ea1498b87f9a94c9f7225e5ff2956835e725663e5fe0faa3a888fdef9c",
+      "publishedSha256": "c8ef18ea1498b87f9a94c9f7225e5ff2956835e725663e5fe0faa3a888fdef9c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "diagnostics/district.mjs",
+      "path": "diagnostics/district.mjs",
+      "sourceSha256": "25f9d09f6337fc47a61833b3b11e7daf84aacc9addb12b054d13edce6fa9c32c",
+      "publishedSha256": "25f9d09f6337fc47a61833b3b11e7daf84aacc9addb12b054d13edce6fa9c32c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "diagnostics/vehicle.html",
+      "path": "diagnostics/vehicle.html",
+      "sourceSha256": "82908b0b0a8d0b5f3c38d1ba6c4148a4a97c556fcc6b4ee14629a092c03d00e9",
+      "publishedSha256": "82908b0b0a8d0b5f3c38d1ba6c4148a4a97c556fcc6b4ee14629a092c03d00e9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "diagnostics/vehicle.js",
+      "path": "diagnostics/vehicle.js",
+      "sourceSha256": "d163da63e5c1cb0ab88dc40abad316ff4e7d44d84a46e5fccfc36ab475b4a6c6",
+      "publishedSha256": "d163da63e5c1cb0ab88dc40abad316ff4e7d44d84a46e5fccfc36ab475b4a6c6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "EDITOR-REVIEW.md",
+      "path": "EDITOR-REVIEW.md",
+      "sourceSha256": "3633b7e8e54f18786d2a1d0f5420f0fad1f6259fdacf8567da309827b5e570c7",
+      "publishedSha256": "3633b7e8e54f18786d2a1d0f5420f0fad1f6259fdacf8567da309827b5e570c7",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "ENGINE-REUSE.md",
+      "path": "ENGINE-REUSE.md",
+      "sourceSha256": "2889961a8830cf34a56f6028d8350fb278dc004830d68ac7466a8fb37b97edd1",
+      "publishedSha256": "ca68918f9c0aab2248405c1af21f7f1f23919147723adcc7322bd2b39e7eee61",
+      "transformed": true
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "EXPANSION.md",
+      "path": "EXPANSION.md",
+      "sourceSha256": "b4e22cab979dbef96defc67076b7db18af6d1fd35f394c51e9e109afd570f708",
+      "publishedSha256": "b4e22cab979dbef96defc67076b7db18af6d1fd35f394c51e9e109afd570f708",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "GAME-DISTRICT-2026-09-12.md",
+      "path": "GAME-DISTRICT-2026-09-12.md",
+      "sourceSha256": "71549f32adfeb15eeda311fa43e674eb9955f8eef003870dbf24729b1772bbc8",
+      "publishedSha256": "71549f32adfeb15eeda311fa43e674eb9955f8eef003870dbf24729b1772bbc8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "GOVERNANCE.md",
+      "path": "GOVERNANCE.md",
+      "sourceSha256": "048afe7318fe29039396d69619f732084f38e7decba927028a47c1b031798865",
+      "publishedSha256": "048afe7318fe29039396d69619f732084f38e7decba927028a47c1b031798865",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "GROUND-CLEANUP.md",
+      "path": "GROUND-CLEANUP.md",
+      "sourceSha256": "3f7942b2157c052a1408c55977018cd883051923271b6e1d24f2f547439dcbbb",
+      "publishedSha256": "3f7942b2157c052a1408c55977018cd883051923271b6e1d24f2f547439dcbbb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "index.html",
+      "path": "index.html",
+      "sourceSha256": "ec5d5af7f2a68acf6581caaded495a4b9a59ae05ecf226065a6fa444f65da0e6",
+      "publishedSha256": "ec5d5af7f2a68acf6581caaded495a4b9a59ae05ecf226065a6fa444f65da0e6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Launch Philadelphia Drive.cmd",
+      "path": "Launch Philadelphia Drive.cmd",
+      "sourceSha256": "6934a4e83a64ec5c4f5822746ee07b7c2e6eb1b8002e3ed854d9aa53fa548396",
+      "publishedSha256": "6934a4e83a64ec5c4f5822746ee07b7c2e6eb1b8002e3ed854d9aa53fa548396",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Launch Unreal Museum.cmd",
+      "path": "Launch Unreal Museum.cmd",
+      "sourceSha256": "05edf77bf3131540754e8946e9c8c8263be684ed843e2720fbb3a7c725fbaaa1",
+      "publishedSha256": "05edf77bf3131540754e8946e9c8c8263be684ed843e2720fbb3a7c725fbaaa1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Launch Unreal Philadelphia.cmd",
+      "path": "Launch Unreal Philadelphia.cmd",
+      "sourceSha256": "88aa96a58967697fa51d6f159e4be12f922aa1539fa6003ef30eaea5f8521a36",
+      "publishedSha256": "88aa96a58967697fa51d6f159e4be12f922aa1539fa6003ef30eaea5f8521a36",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Launch Unreal West Philadelphia.cmd",
+      "path": "Launch Unreal West Philadelphia.cmd",
+      "sourceSha256": "78382a5c66cf97b9f9e1b685f7f4be5e2cc016202de19b21e7ea655172c4ec67",
+      "publishedSha256": "78382a5c66cf97b9f9e1b685f7f4be5e2cc016202de19b21e7ea655172c4ec67",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "LICENSE",
+      "path": "LICENSE",
+      "sourceSha256": "ad3ed81b1d8ac0b7fade7aa7601bf6ca6855746a9c8d1184147f09f185d0deee",
+      "publishedSha256": "ad3ed81b1d8ac0b7fade7aa7601bf6ca6855746a9c8d1184147f09f185d0deee",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "LOCAL-AGENT.md",
+      "path": "LOCAL-AGENT.md",
+      "sourceSha256": "204bbe45a8ff88e0446191e69b99c9790ad3127d86804da0e83df46b2843a260",
+      "publishedSha256": "204bbe45a8ff88e0446191e69b99c9790ad3127d86804da0e83df46b2843a260",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "NATIVE-EVALUATION.md",
+      "path": "NATIVE-EVALUATION.md",
+      "sourceSha256": "936d8fe0e66c41972f079823f3432cd3f48e68bf10c2b75fd0144351a1ab3774",
+      "publishedSha256": "936d8fe0e66c41972f079823f3432cd3f48e68bf10c2b75fd0144351a1ab3774",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "NATIVE-WORLD-EXPANSION-2026-09-13.md",
+      "path": "NATIVE-WORLD-EXPANSION-2026-09-13.md",
+      "sourceSha256": "8d37b40c1e4c3a4f322c30e879eb4ce4400fbe67d40451453be17c7ff617296e",
+      "publishedSha256": "8d37b40c1e4c3a4f322c30e879eb4ce4400fbe67d40451453be17c7ff617296e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "NOTICE.md",
+      "path": "NOTICE.md",
+      "sourceSha256": "f65007509255e51c27f5c12ac1dce2b12f4a9040519a759d21980f1a18c0278a",
+      "publishedSha256": "f65007509255e51c27f5c12ac1dce2b12f4a9040519a759d21980f1a18c0278a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "package-lock.json",
+      "path": "package-lock.json",
+      "sourceSha256": "e370f4d79b1c2379d8bed340a61eff2392eb1393920c35c25105af5d3ed7ab98",
+      "publishedSha256": "e370f4d79b1c2379d8bed340a61eff2392eb1393920c35c25105af5d3ed7ab98",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "package.json",
+      "path": "package.json",
+      "sourceSha256": "5af4a0822b68de74bc46b3203385d8c429b5390e69435bcf71bdc5ba97cfa160",
+      "publishedSha256": "5af4a0822b68de74bc46b3203385d8c429b5390e69435bcf71bdc5ba97cfa160",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/audio/footsteps/source.json",
+      "path": "public/audio/footsteps/source.json",
+      "sourceSha256": "877f8815707cd5cf109bb4911701799ddc4dc040496d86ee8b9c3e89bbeb64f2",
+      "publishedSha256": "877f8815707cd5cf109bb4911701799ddc4dc040496d86ee8b9c3e89bbeb64f2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/district/manifest.json",
+      "path": "public/data/district/manifest.json",
+      "sourceSha256": "a95d0b153d28824d7df0cb8df220d567f1a037876f9e4f13c4d03e1b873552bd",
+      "publishedSha256": "a95d0b153d28824d7df0cb8df220d567f1a037876f9e4f13c4d03e1b873552bd",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/district/pedestrian-source.json",
+      "path": "public/data/district/pedestrian-source.json",
+      "sourceSha256": "4badda667c24b90231fc2653f4d2d813d4bebc1913875845aa82bd3650350c16",
+      "publishedSha256": "4badda667c24b90231fc2653f4d2d813d4bebc1913875845aa82bd3650350c16",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/district/source-manifest.json",
+      "path": "public/data/district/source-manifest.json",
+      "sourceSha256": "66ea50f922558e9e8dc1798340ca4844132ec90d5b4114a05435f525b5a5ee39",
+      "publishedSha256": "66ea50f922558e9e8dc1798340ca4844132ec90d5b4114a05435f525b5a5ee39",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/district/streets-metadata.json",
+      "path": "public/data/district/streets-metadata.json",
+      "sourceSha256": "4580c2da69435f01349615c031449c4158ba69fed61432231b9d6e34473a1d0c",
+      "publishedSha256": "4580c2da69435f01349615c031449c4158ba69fed61432231b9d6e34473a1d0c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/district/surfaces-metadata.json",
+      "path": "public/data/district/surfaces-metadata.json",
+      "sourceSha256": "0f351bc39a1b879c1b48f2eedfc766e76d994dbd0a85f046c91c84c3e4e0e5fa",
+      "publishedSha256": "0f351bc39a1b879c1b48f2eedfc766e76d994dbd0a85f046c91c84c3e4e0e5fa",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/landmarks-source.json",
+      "path": "public/data/landmarks-source.json",
+      "sourceSha256": "21f7391c09a39aaf586f01a6c53ff05a3caed995032c0af83fc6c5bf587e30fc",
+      "publishedSha256": "21f7391c09a39aaf586f01a6c53ff05a3caed995032c0af83fc6c5bf587e30fc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/neighborhoods/planning-districts.source.json",
+      "path": "public/data/neighborhoods/planning-districts.source.json",
+      "sourceSha256": "b93d785949c7b6a323adc53287929087efb3e4a21fec0f2a5752551a1218ca03",
+      "publishedSha256": "b93d785949c7b6a323adc53287929087efb3e4a21fec0f2a5752551a1218ca03",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/neighborhoods/references.json",
+      "path": "public/data/neighborhoods/references.json",
+      "sourceSha256": "30cf5da07a87b620f83b0555922bb044eaac0eff2f5c3f313ca78753e081ea90",
+      "publishedSha256": "30cf5da07a87b620f83b0555922bb044eaac0eff2f5c3f313ca78753e081ea90",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/data/park-planting.json",
+      "path": "public/data/park-planting.json",
+      "sourceSha256": "6f0632a341f34f4288fd5c5998886955826fbfb6307fafbd8db23cc38929b3eb",
+      "publishedSha256": "6f0632a341f34f4288fd5c5998886955826fbfb6307fafbd8db23cc38929b3eb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/licenses/CursorCore-MIT.txt",
+      "path": "public/licenses/CursorCore-MIT.txt",
+      "sourceSha256": "26c6ca1b9bac26ebfdc0d15964ca8f393fed689da8b31fc44da2dbcd6e456ffe",
+      "publishedSha256": "26c6ca1b9bac26ebfdc0d15964ca8f393fed689da8b31fc44da2dbcd6e456ffe",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/car-metadata.json",
+      "path": "public/models/car-metadata.json",
+      "sourceSha256": "d4007b8df0c964b75667e3d26e67f802bca0abc1209672cc265f0a4d9c16054d",
+      "publishedSha256": "d4007b8df0c964b75667e3d26e67f802bca0abc1209672cc265f0a4d9c16054d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/CC0-1.0.txt",
+      "path": "public/models/CC0-1.0.txt",
+      "sourceSha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "publishedSha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/character/human-adult.LICENSE.txt",
+      "path": "public/models/character/human-adult.LICENSE.txt",
+      "sourceSha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c",
+      "publishedSha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/character/human-adult.metadata.json",
+      "path": "public/models/character/human-adult.metadata.json",
+      "sourceSha256": "6c9f7be095ff3eb36efd5f59007e2a7a947b22c4e3beb51f8d58440b679a2145",
+      "publishedSha256": "6c9f7be095ff3eb36efd5f59007e2a7a947b22c4e3beb51f8d58440b679a2145",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/character/human-adult.README.md",
+      "path": "public/models/character/human-adult.README.md",
+      "sourceSha256": "1137949588c4d2cf7d614cfec6c0d6de81e8c7d03e0b3b68f5275ab161cd5668",
+      "publishedSha256": "1137949588c4d2cf7d614cfec6c0d6de81e8c7d03e0b3b68f5275ab161cd5668",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/character/human-motion.metadata.json",
+      "path": "public/models/character/human-motion.metadata.json",
+      "sourceSha256": "df61139b4af712386c6e300d47756f987f0cf4ba1a3bdb3936a88150df1ee01d",
+      "publishedSha256": "df61139b4af712386c6e300d47756f987f0cf4ba1a3bdb3936a88150df1ee01d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/character/human-motion.README.md",
+      "path": "public/models/character/human-motion.README.md",
+      "sourceSha256": "83b2081d006130d34586def9f2b0eb7a1412c55fdd826fa95d7c127d1fca202a",
+      "publishedSha256": "83b2081d006130d34586def9f2b0eb7a1412c55fdd826fa95d7c127d1fca202a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/character/LICENSE.md",
+      "path": "public/models/character/LICENSE.md",
+      "sourceSha256": "aea4463f0e423aa37464eb61b2e5015595c430447356145400d3dc2a4579139f",
+      "publishedSha256": "aea4463f0e423aa37464eb61b2e5015595c430447356145400d3dc2a4579139f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/character/README.md",
+      "path": "public/models/character/README.md",
+      "sourceSha256": "53989105c5c2c9204468f82f634969fc3c13fe078c9a50a2de20c29ed6c545a9",
+      "publishedSha256": "53989105c5c2c9204468f82f634969fc3c13fe078c9a50a2de20c29ed6c545a9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/arch-street-facade-details.provenance.json",
+      "path": "public/models/city/arch-street-facade-details.provenance.json",
+      "sourceSha256": "db9508e61dffa2013069fb041bb449516a1ebd108a96ee653b98c951c24f4a6b",
+      "publishedSha256": "db9508e61dffa2013069fb041bb449516a1ebd108a96ee653b98c951c24f4a6b",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/arch-street-original.provenance.json",
+      "path": "public/models/city/arch-street-original.provenance.json",
+      "sourceSha256": "f2ed46fcc68695074965ba60168ecfabf8f3f753edaee607a2390e7bbeaac1f6",
+      "publishedSha256": "f2ed46fcc68695074965ba60168ecfabf8f3f753edaee607a2390e7bbeaac1f6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/arch-street-review.json",
+      "path": "public/models/city/arch-street-review.json",
+      "sourceSha256": "5c343a7277c566137f79040bc66309fae6e31a71a228d9e0c290448653d4e1e5",
+      "publishedSha256": "5c343a7277c566137f79040bc66309fae6e31a71a228d9e0c290448653d4e1e5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/arch-street.README.md",
+      "path": "public/models/city/arch-street.README.md",
+      "sourceSha256": "6a757522bcef421e7d17b740fa2f37d74af0a92c7d4625964500f2ca6757eba4",
+      "publishedSha256": "6a757522bcef421e7d17b740fa2f37d74af0a92c7d4625964500f2ca6757eba4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/city-hall-2422.provenance.json",
+      "path": "public/models/city/city-hall-2422.provenance.json",
+      "sourceSha256": "bfe954326627132f1fa2e879a0a958eaeba597d90a3f9a524b733c894c5ca0b5",
+      "publishedSha256": "bfe954326627132f1fa2e879a0a958eaeba597d90a3f9a524b733c894c5ca0b5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/city-hall-2849.provenance.json",
+      "path": "public/models/city/city-hall-2849.provenance.json",
+      "sourceSha256": "7fd91db5e9597f12ca6c1164e59335fea21bdd6baf7f666e8f822097cf9b9763",
+      "publishedSha256": "7fd91db5e9597f12ca6c1164e59335fea21bdd6baf7f666e8f822097cf9b9763",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/city-hall-original.provenance.json",
+      "path": "public/models/city/city-hall-original.provenance.json",
+      "sourceSha256": "f6fbe409907d8815e05ffbb33115fdaa76b81a9241da51348e3687c57fcdd667",
+      "publishedSha256": "f6fbe409907d8815e05ffbb33115fdaa76b81a9241da51348e3687c57fcdd667",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/city-hall.README.md",
+      "path": "public/models/city/city-hall.README.md",
+      "sourceSha256": "e02dc00676a5d668321e67708a2afd8e27e2a1de5e3567c3c361418f36bcf641",
+      "publishedSha256": "e02dc00676a5d668321e67708a2afd8e27e2a1de5e3567c3c361418f36bcf641",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/philly-0000-remainder.provenance.json",
+      "path": "public/models/city/philly-0000-remainder.provenance.json",
+      "sourceSha256": "830a4ab609edd33d84e3fcb90cbcf8ec659d2029433712b3500efa9ace7c6abc",
+      "publishedSha256": "830a4ab609edd33d84e3fcb90cbcf8ec659d2029433712b3500efa9ace7c6abc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/philly-0000.cesium-axis-verification.json",
+      "path": "public/models/city/philly-0000.cesium-axis-verification.json",
+      "sourceSha256": "da8999d8d2a5bd5a7774306d6d85a03e36cda2ae43e39556bcb2d4131ac9368c",
+      "publishedSha256": "da8999d8d2a5bd5a7774306d6d85a03e36cda2ae43e39556bcb2d4131ac9368c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/philly-0000.verification.json",
+      "path": "public/models/city/philly-0000.verification.json",
+      "sourceSha256": "3227ab1b7dc833564f287ad830e340cc615da1bf44e95f84ba91b1418047ab86",
+      "publishedSha256": "3227ab1b7dc833564f287ad830e340cc615da1bf44e95f84ba91b1418047ab86",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/philly-0000.visual-verification.json",
+      "path": "public/models/city/philly-0000.visual-verification.json",
+      "sourceSha256": "ae61ed107ef36f96a3fbc8b752d847a12087f18560de38933de3e5d20dab295f",
+      "publishedSha256": "ae61ed107ef36f96a3fbc8b752d847a12087f18560de38933de3e5d20dab295f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/reading-terminal-block-original.provenance.json",
+      "path": "public/models/city/reading-terminal-block-original.provenance.json",
+      "sourceSha256": "ad03eebac121f5a4933a2b696cbd795a858383afaf830efc3c9eb92272dec387",
+      "publishedSha256": "ad03eebac121f5a4933a2b696cbd795a858383afaf830efc3c9eb92272dec387",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/reading-terminal.README.md",
+      "path": "public/models/city/reading-terminal.README.md",
+      "sourceSha256": "cd606609e8d2fa77ff75c7c9eb606c7b133c906d24d73a490a4c259d4485142f",
+      "publishedSha256": "cd606609e8d2fa77ff75c7c9eb606c7b133c906d24d73a490a4c259d4485142f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2561.provenance.json",
+      "path": "public/models/city/source-2561.provenance.json",
+      "sourceSha256": "7ef59fb6c90d75e3d1d3b7687b1b02a70e63786e5ed9560c1d8445cc8c7e570b",
+      "publishedSha256": "7ef59fb6c90d75e3d1d3b7687b1b02a70e63786e5ed9560c1d8445cc8c7e570b",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2731.provenance.json",
+      "path": "public/models/city/source-2731.provenance.json",
+      "sourceSha256": "d291146f7c9156c4c6f88b0269d2decd71b3c8a8dd521aea2cb48021afd5cb56",
+      "publishedSha256": "d291146f7c9156c4c6f88b0269d2decd71b3c8a8dd521aea2cb48021afd5cb56",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2732.provenance.json",
+      "path": "public/models/city/source-2732.provenance.json",
+      "sourceSha256": "eb95d1deedbb96c24befaa9bee3a563bf49ae1b4eb342084fef0548e2ad993ad",
+      "publishedSha256": "eb95d1deedbb96c24befaa9bee3a563bf49ae1b4eb342084fef0548e2ad993ad",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2739.provenance.json",
+      "path": "public/models/city/source-2739.provenance.json",
+      "sourceSha256": "9ac2e61133e39f946bb1837b2e93853c278482b2b1274aa6fa0aa3d94d536c8d",
+      "publishedSha256": "9ac2e61133e39f946bb1837b2e93853c278482b2b1274aa6fa0aa3d94d536c8d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2740.provenance.json",
+      "path": "public/models/city/source-2740.provenance.json",
+      "sourceSha256": "b11fee8929a4da0f6701e7a3d7cc7acf69d30a08471a35c0a300725172f778b9",
+      "publishedSha256": "b11fee8929a4da0f6701e7a3d7cc7acf69d30a08471a35c0a300725172f778b9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2741.provenance.json",
+      "path": "public/models/city/source-2741.provenance.json",
+      "sourceSha256": "3afd439b3a1796cb12b91f8198275015b993afef39793fc29c7e4b2b03bae8a6",
+      "publishedSha256": "3afd439b3a1796cb12b91f8198275015b993afef39793fc29c7e4b2b03bae8a6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2742.provenance.json",
+      "path": "public/models/city/source-2742.provenance.json",
+      "sourceSha256": "dd485a99b1b6702a022d058ff42bb2eb8d1b771cb45f72ffb8a7fe6a74281be9",
+      "publishedSha256": "dd485a99b1b6702a022d058ff42bb2eb8d1b771cb45f72ffb8a7fe6a74281be9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2743.provenance.json",
+      "path": "public/models/city/source-2743.provenance.json",
+      "sourceSha256": "f1d00432f5fcf15c1b41ae9f6be033687244efe68d2db38fe8840ded86fb17e5",
+      "publishedSha256": "f1d00432f5fcf15c1b41ae9f6be033687244efe68d2db38fe8840ded86fb17e5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2745.provenance.json",
+      "path": "public/models/city/source-2745.provenance.json",
+      "sourceSha256": "9bb527f998921c8f356acb416f9a88ff0b5d66617d86224a88dc854404a3c666",
+      "publishedSha256": "9bb527f998921c8f356acb416f9a88ff0b5d66617d86224a88dc854404a3c666",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2746.provenance.json",
+      "path": "public/models/city/source-2746.provenance.json",
+      "sourceSha256": "f04a4327b7db5cbb852a8ca297d5dd367e033bb3f7064757f3c7c6f9b84e9b0d",
+      "publishedSha256": "f04a4327b7db5cbb852a8ca297d5dd367e033bb3f7064757f3c7c6f9b84e9b0d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2770.provenance.json",
+      "path": "public/models/city/source-2770.provenance.json",
+      "sourceSha256": "4bce8c9891dc828d9ddafbbd7458238dc935069a404229f4979d491098449717",
+      "publishedSha256": "4bce8c9891dc828d9ddafbbd7458238dc935069a404229f4979d491098449717",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2780.provenance.json",
+      "path": "public/models/city/source-2780.provenance.json",
+      "sourceSha256": "2cf81d45dd3c0147aa4a127e6b4992c6587888e3090287a2c6b571dc26852999",
+      "publishedSha256": "2cf81d45dd3c0147aa4a127e6b4992c6587888e3090287a2c6b571dc26852999",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2833.provenance.json",
+      "path": "public/models/city/source-2833.provenance.json",
+      "sourceSha256": "57baaf7e59179cafd99ee10c6958fc3560041424df47984d60eac99f5ee37f3d",
+      "publishedSha256": "57baaf7e59179cafd99ee10c6958fc3560041424df47984d60eac99f5ee37f3d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2850.provenance.json",
+      "path": "public/models/city/source-2850.provenance.json",
+      "sourceSha256": "86147122c94b94c8c3d58f033ffe60f88a60aa4c85522b9d237f0e837de7aaa9",
+      "publishedSha256": "86147122c94b94c8c3d58f033ffe60f88a60aa4c85522b9d237f0e837de7aaa9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/city/source-2851.provenance.json",
+      "path": "public/models/city/source-2851.provenance.json",
+      "sourceSha256": "89f6d535b475af9abdd72fea7f0afcc22a3ea6e8fff6665b2f23952c10bd5abe",
+      "publishedSha256": "89f6d535b475af9abdd72fea7f0afcc22a3ea6e8fff6665b2f23952c10bd5abe",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/huracan-performante.LICENSE.txt",
+      "path": "public/models/huracan-performante.LICENSE.txt",
+      "sourceSha256": "fe1bf86a7cd5f9ed9fa0ae3a916a7bb6ecff766f4f0f23de75666b867130e78d",
+      "publishedSha256": "fe1bf86a7cd5f9ed9fa0ae3a916a7bb6ecff766f4f0f23de75666b867130e78d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/huracan-performante.metadata.json",
+      "path": "public/models/huracan-performante.metadata.json",
+      "sourceSha256": "ca44faf0d4815ae41a3f121b122628ae5d4da7048824533e56e42338b7f6a7da",
+      "publishedSha256": "ca44faf0d4815ae41a3f121b122628ae5d4da7048824533e56e42338b7f6a7da",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/huracan-performante.README.md",
+      "path": "public/models/huracan-performante.README.md",
+      "sourceSha256": "3c5c0826dae57c4e9686a767471a90336498f11c47bac70fadeae1d7062ab1dc",
+      "publishedSha256": "3c5c0826dae57c4e9686a767471a90336498f11c47bac70fadeae1d7062ab1dc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/build-complete.json",
+      "path": "public/models/interiors/build-complete.json",
+      "sourceSha256": "6749047806b5e60095222eb6edc26c23ebbd65900e8a6e95c94ffff179e7b9b4",
+      "publishedSha256": "6749047806b5e60095222eb6edc26c23ebbd65900e8a6e95c94ffff179e7b9b4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/home.ready.json",
+      "path": "public/models/interiors/home.ready.json",
+      "sourceSha256": "8a9cd0b936c8a9d146cfb9e1597c90c345b7575bb6f3f38e958b14ee8da7fbe2",
+      "publishedSha256": "8a9cd0b936c8a9d146cfb9e1597c90c345b7575bb6f3f38e958b14ee8da7fbe2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/layout-contract.json",
+      "path": "public/models/interiors/layout-contract.json",
+      "sourceSha256": "614fad10f2c3eeb68578bbcbd55c8ea224b9e63559cc60563744dcc28d265b2d",
+      "publishedSha256": "614fad10f2c3eeb68578bbcbd55c8ea224b9e63559cc60563744dcc28d265b2d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/lobby.ready.json",
+      "path": "public/models/interiors/lobby.ready.json",
+      "sourceSha256": "a610e9423191d2cac2a0bfa8454c48d7212b64b1f69015e35ba32a688b56c8ad",
+      "publishedSha256": "a610e9423191d2cac2a0bfa8454c48d7212b64b1f69015e35ba32a688b56c8ad",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/models-ready.json",
+      "path": "public/models/interiors/models-ready.json",
+      "sourceSha256": "c7d8898538ea69c0f32d1d5932749251938d73aaf0544a978d5d10d9ce309a1f",
+      "publishedSha256": "c7d8898538ea69c0f32d1d5932749251938d73aaf0544a978d5d10d9ce309a1f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/provenance.json",
+      "path": "public/models/interiors/provenance.json",
+      "sourceSha256": "e1bc904dcf0f10974749d705e27d127154d46a309aacfb9d1fd84aa1e3903cbc",
+      "publishedSha256": "e1bc904dcf0f10974749d705e27d127154d46a309aacfb9d1fd84aa1e3903cbc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/README.md",
+      "path": "public/models/interiors/README.md",
+      "sourceSha256": "d578232a1f1a29e306d911cceef8cd5638431df939839cc84415ad6f7b59cad7",
+      "publishedSha256": "dde11954583e6924329e5e409f6dbfb44a25ebb40e76557c4e88650d3fad96a3",
+      "transformed": true
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/interiors/shop.ready.json",
+      "path": "public/models/interiors/shop.ready.json",
+      "sourceSha256": "b0faa2b72fa6f0ca042e2a250eca1862794819ae834bfe72927ee8c45f17bb22",
+      "publishedSha256": "b0faa2b72fa6f0ca042e2a250eca1862794819ae834bfe72927ee8c45f17bb22",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/mustang-2005.LICENSE.txt",
+      "path": "public/models/mustang-2005.LICENSE.txt",
+      "sourceSha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "publishedSha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/mustang-2005.metadata.json",
+      "path": "public/models/mustang-2005.metadata.json",
+      "sourceSha256": "3ed3d5088e99d582609e535cd244161e028110bb606ca5fe6b2e026574ee9dfd",
+      "publishedSha256": "3ed3d5088e99d582609e535cd244161e028110bb606ca5fe6b2e026574ee9dfd",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/mustang-2005.README.md",
+      "path": "public/models/mustang-2005.README.md",
+      "sourceSha256": "4440e56defe83a0321c8eb1ea19d447f60bf4821b2f9667c3161edd39d7e1d43",
+      "publishedSha256": "4440e56defe83a0321c8eb1ea19d447f60bf4821b2f9667c3161edd39d7e1d43",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/README.md",
+      "path": "public/models/README.md",
+      "sourceSha256": "01b1d7ad50c06123b5df4045af81be880d2083b574e7220d6f513c49635c00e0",
+      "publishedSha256": "01b1d7ad50c06123b5df4045af81be880d2083b574e7220d6f513c49635c00e0",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/street/tree-small-02-distance.json",
+      "path": "public/models/street/tree-small-02-distance.json",
+      "sourceSha256": "fd20f414102826f6d10a7a1c0e53d30df83b6a8ac08de351210bb6eecea0769c",
+      "publishedSha256": "fd20f414102826f6d10a7a1c0e53d30df83b6a8ac08de351210bb6eecea0769c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/street/tree-small-02.metadata.json",
+      "path": "public/models/street/tree-small-02.metadata.json",
+      "sourceSha256": "da8112055265a7b908126f42c73818e99b57245ff86af60937ebc3ae134cad79",
+      "publishedSha256": "da8112055265a7b908126f42c73818e99b57245ff86af60937ebc3ae134cad79",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/street/tree-small-02.SOURCE.md",
+      "path": "public/models/street/tree-small-02.SOURCE.md",
+      "sourceSha256": "20442af406542bb534a2845b835c154679566fc00846e3ae578807fd851dda32",
+      "publishedSha256": "20442af406542bb534a2845b835c154679566fc00846e3ae578807fd851dda32",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "public/models/ToyCar.SOURCE.md",
+      "path": "public/models/ToyCar.SOURCE.md",
+      "sourceSha256": "aed216cda25deab59a115bdd6f486da0437fe4e1d9df11c34e496242dbf89fe2",
+      "publishedSha256": "aed216cda25deab59a115bdd6f486da0437fe4e1d9df11c34e496242dbf89fe2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "README-LICENSING.md",
+      "path": "README-LICENSING.md",
+      "sourceSha256": "80357d7bae189f47a8d3a26fa6cb34719b2db3e609fd4cdc7da1b4bb9658c519",
+      "publishedSha256": "80357d7bae189f47a8d3a26fa6cb34719b2db3e609fd4cdc7da1b4bb9658c519",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "README.md",
+      "path": "README.md",
+      "sourceSha256": "01b7206a60521778ae0259645b89f74f8ce8762361c494241677b60d19313b01",
+      "publishedSha256": "4edab0e039dd791fd741435605119540baeac9dc4defc48f13aa47ae4de01176",
+      "transformed": true
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "RECONSTRUCTION-TARGET.md",
+      "path": "RECONSTRUCTION-TARGET.md",
+      "sourceSha256": "6f58fb196cc9e92443cb3e6c9ef36b9ddba96fdc4f2d88bf1fc432769f6ff785",
+      "publishedSha256": "6f58fb196cc9e92443cb3e6c9ef36b9ddba96fdc4f2d88bf1fc432769f6ff785",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/animate-human.py",
+      "path": "scripts/animate-human.py",
+      "sourceSha256": "a8194cc29596387058869040b34c221f5ab07891290bdfa9adc8568b7295cee7",
+      "publishedSha256": "a8194cc29596387058869040b34c221f5ab07891290bdfa9adc8568b7295cee7",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/assemble-city-hall.mjs",
+      "path": "scripts/assemble-city-hall.mjs",
+      "sourceSha256": "6dec64f31d6b3e2d9b0bc17397d41cbcd47ec25a5d2a7b2420917faa1e182e4c",
+      "publishedSha256": "6dec64f31d6b3e2d9b0bc17397d41cbcd47ec25a5d2a7b2420917faa1e182e4c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/assemble-source-cluster.mjs",
+      "path": "scripts/assemble-source-cluster.mjs",
+      "sourceSha256": "ed043680c45e9a36eea2c8b743e37bbcd7fe992f7c3a59a960e3d5e74d780176",
+      "publishedSha256": "ed043680c45e9a36eea2c8b743e37bbcd7fe992f7c3a59a960e3d5e74d780176",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/audit-native-road-clearance.py",
+      "path": "scripts/audit-native-road-clearance.py",
+      "sourceSha256": "bb75cbe37b8a7e729c2ce6193ce11913c9f2eb6f068727b7b4cc270a560b4368",
+      "publishedSha256": "bb75cbe37b8a7e729c2ce6193ce11913c9f2eb6f068727b7b4cc270a560b4368",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/blender-probe.py",
+      "path": "scripts/blender-probe.py",
+      "sourceSha256": "23af6d07296645f0e31676fb3758b663a832eff27611c59ee563592ecdd50a33",
+      "publishedSha256": "23af6d07296645f0e31676fb3758b663a832eff27611c59ee563592ecdd50a33",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/build-arch-facade-details.py",
+      "path": "scripts/build-arch-facade-details.py",
+      "sourceSha256": "adc357a1befa5a61601f5890154615f119753656a660d7574d21dde006664f6c",
+      "publishedSha256": "adc357a1befa5a61601f5890154615f119753656a660d7574d21dde006664f6c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/build-game-district.mjs",
+      "path": "scripts/build-game-district.mjs",
+      "sourceSha256": "d6cb0ae17de078d89052ee091713f4de41a01c39d0b0d95efc101c12e80287c2",
+      "publishedSha256": "d6cb0ae17de078d89052ee091713f4de41a01c39d0b0d95efc101c12e80287c2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/build-interiors.py",
+      "path": "scripts/build-interiors.py",
+      "sourceSha256": "ba5e5f2dfa6630c261dc4a82bab09928eb943a7f5b4aa8445065ad87f72f3e69",
+      "publishedSha256": "ba5e5f2dfa6630c261dc4a82bab09928eb943a7f5b4aa8445065ad87f72f3e69",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/build-park-planting.mjs",
+      "path": "scripts/build-park-planting.mjs",
+      "sourceSha256": "8f6edb9257de1c3037a4313594b70cf58f728cf872cf877b31c598a4e96bb966",
+      "publishedSha256": "8f6edb9257de1c3037a4313594b70cf58f728cf872cf877b31c598a4e96bb966",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/build-progress-video.py",
+      "path": "scripts/build-progress-video.py",
+      "sourceSha256": "75337cd375d7a09c99e031d98a29a54d39f2e57087197d73fc31f549e953cf4e",
+      "publishedSha256": "75337cd375d7a09c99e031d98a29a54d39f2e57087197d73fc31f549e953cf4e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/capture-arch-street.py",
+      "path": "scripts/capture-arch-street.py",
+      "sourceSha256": "7d792c849825746992aa79f2051c5a570eadce8cf8de202478e7a97b4e438899",
+      "publishedSha256": "7d792c849825746992aa79f2051c5a570eadce8cf8de202478e7a97b4e438899",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/capture-city-hall-mesh.py",
+      "path": "scripts/capture-city-hall-mesh.py",
+      "sourceSha256": "563281fbc88bb796a7208ab2897cecf860e6ad3019fb287e29f8c36add00d676",
+      "publishedSha256": "563281fbc88bb796a7208ab2897cecf860e6ad3019fb287e29f8c36add00d676",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/capture-reading-terminal.py",
+      "path": "scripts/capture-reading-terminal.py",
+      "sourceSha256": "eadc241aa212b5e4244b97fb58123c16b3abda8695a5de295712d31034bb83da",
+      "publishedSha256": "eadc241aa212b5e4244b97fb58123c16b3abda8695a5de295712d31034bb83da",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/convert-city-source.py",
+      "path": "scripts/convert-city-source.py",
+      "sourceSha256": "49299a1ec6408c943511f9c1333e036b260fed58b322501acb325520e50d3a02",
+      "publishedSha256": "49299a1ec6408c943511f9c1333e036b260fed58b322501acb325520e50d3a02",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/create-arch-blender-master.py",
+      "path": "scripts/create-arch-blender-master.py",
+      "sourceSha256": "97a357675b58ef213803afb1551eef33dcebd149d47372d490ba63842a12b7ca",
+      "publishedSha256": "97a357675b58ef213803afb1551eef33dcebd149d47372d490ba63842a12b7ca",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/create-neighborhood-street-kit.py",
+      "path": "scripts/create-neighborhood-street-kit.py",
+      "sourceSha256": "f4c2ee5b12118d7857743fa68ea929a3932b1f3ebd1babd055f2f96dde86df95",
+      "publishedSha256": "f4c2ee5b12118d7857743fa68ea929a3932b1f3ebd1babd055f2f96dde86df95",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/export-city-hall.mjs",
+      "path": "scripts/export-city-hall.mjs",
+      "sourceSha256": "b907f7d4ebf475c53284d4ea8a877ac93feab08e026430efe44c357574520918",
+      "publishedSha256": "b907f7d4ebf475c53284d4ea8a877ac93feab08e026430efe44c357574520918",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/fetch-city-landmarks.mjs",
+      "path": "scripts/fetch-city-landmarks.mjs",
+      "sourceSha256": "e96aa769a28718babdeaad3acc7b728af35141510c0dd16d603a9fb833a41130",
+      "publishedSha256": "e96aa769a28718babdeaad3acc7b728af35141510c0dd16d603a9fb833a41130",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/fetch-game-district.mjs",
+      "path": "scripts/fetch-game-district.mjs",
+      "sourceSha256": "23a478ef6dceb8b04ee3a5678c316d094802721e80df6b41ebc92d78252d97be",
+      "publishedSha256": "23a478ef6dceb8b04ee3a5678c316d094802721e80df6b41ebc92d78252d97be",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/fetch-neighborhood-evidence.mjs",
+      "path": "scripts/fetch-neighborhood-evidence.mjs",
+      "sourceSha256": "59a01dc456a229e33b0809caaf676fc349337df467a3737971a1265465f5a073",
+      "publishedSha256": "59a01dc456a229e33b0809caaf676fc349337df467a3737971a1265465f5a073",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/import-city-reference.py",
+      "path": "scripts/import-city-reference.py",
+      "sourceSha256": "44f664cd8341698627fe5bf7704aa64fff492f0036d929b4b01548cf4f6ecd71",
+      "publishedSha256": "44f664cd8341698627fe5bf7704aa64fff492f0036d929b4b01548cf4f6ecd71",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/inspect-human-motion.py",
+      "path": "scripts/inspect-human-motion.py",
+      "sourceSha256": "fb5e9c359151cd1f776934a9406b4b223fa4ca89eb90fe2b5f910957e5c5a100",
+      "publishedSha256": "fb5e9c359151cd1f776934a9406b4b223fa4ca89eb90fe2b5f910957e5c5a100",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/inspect-public-sources.mjs",
+      "path": "scripts/inspect-public-sources.mjs",
+      "sourceSha256": "58618cce04590a2b76890aae05fb5c9baff4b8a86f3112200300b86e0c4f2a00",
+      "publishedSha256": "58618cce04590a2b76890aae05fb5c9baff4b8a86f3112200300b86e0c4f2a00",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/local-capture.mjs",
+      "path": "scripts/local-capture.mjs",
+      "sourceSha256": "20d1bc1c95ff46982fdb1908605cd7c6998548be8b07d86664ab901cf05e0d43",
+      "publishedSha256": "20d1bc1c95ff46982fdb1908605cd7c6998548be8b07d86664ab901cf05e0d43",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/local-city-review.mjs",
+      "path": "scripts/local-city-review.mjs",
+      "sourceSha256": "e4fb8678b8b129690fba9a79088c57ddc72be97b34f8ded357011db184403179",
+      "publishedSha256": "e4fb8678b8b129690fba9a79088c57ddc72be97b34f8ded357011db184403179",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/local-district-agent.mjs",
+      "path": "scripts/local-district-agent.mjs",
+      "sourceSha256": "2cd2b38d379a6649b2ea87b6d8bc1e6df35bc93ade0c67b9a3f75962f5c1506b",
+      "publishedSha256": "2cd2b38d379a6649b2ea87b6d8bc1e6df35bc93ade0c67b9a3f75962f5c1506b",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/local-house-agent.mjs",
+      "path": "scripts/local-house-agent.mjs",
+      "sourceSha256": "913be013d4c4747a7f8dd45f7538f7d478af68e5f0b93420144d66d0721ea0f5",
+      "publishedSha256": "913be013d4c4747a7f8dd45f7538f7d478af68e5f0b93420144d66d0721ea0f5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/local-park-agent.mjs",
+      "path": "scripts/local-park-agent.mjs",
+      "sourceSha256": "d932a99a897400dbda91dbc8d39103691da7ba2102f38f431d8fe81c1a048a70",
+      "publishedSha256": "d932a99a897400dbda91dbc8d39103691da7ba2102f38f431d8fe81c1a048a70",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/locate-city-hall-source.py",
+      "path": "scripts/locate-city-hall-source.py",
+      "sourceSha256": "4276437e7d27fed4ccedfc3b68ee625dce1a25614fbba06808cdbfed00f288da",
+      "publishedSha256": "4276437e7d27fed4ccedfc3b68ee625dce1a25614fbba06808cdbfed00f288da",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/ollama-geo-agent.py",
+      "path": "scripts/ollama-geo-agent.py",
+      "sourceSha256": "d0a8d03b7077a89d4d59c3464514f1e1ed3876e563a7bd78d22f3ac26a78b6b9",
+      "publishedSha256": "d0a8d03b7077a89d4d59c3464514f1e1ed3876e563a7bd78d22f3ac26a78b6b9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-arch-street-review.py",
+      "path": "scripts/prepare-arch-street-review.py",
+      "sourceSha256": "280b91ddb3592774f5a1ef620a585cecae19473c3b12e3268949663444211512",
+      "publishedSha256": "280b91ddb3592774f5a1ef620a585cecae19473c3b12e3268949663444211512",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-character.mjs",
+      "path": "scripts/prepare-character.mjs",
+      "sourceSha256": "bb97a8cf38895b56c4504d88ff5ffef90da8da8e84d453f397005335ae7f9669",
+      "publishedSha256": "bb97a8cf38895b56c4504d88ff5ffef90da8da8e84d453f397005335ae7f9669",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-human.py",
+      "path": "scripts/prepare-human.py",
+      "sourceSha256": "36c26eb6932b8a4ec393d6918e5e0f3f6827634a55f3093e4623ac4523613745",
+      "publishedSha256": "36c26eb6932b8a4ec393d6918e5e0f3f6827634a55f3093e4623ac4523613745",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-huracan.py",
+      "path": "scripts/prepare-huracan.py",
+      "sourceSha256": "37c48a7d7567e9699a9fd0fa5f4af8a71764f456af0da18688deb6984ae6c993",
+      "publishedSha256": "37c48a7d7567e9699a9fd0fa5f4af8a71764f456af0da18688deb6984ae6c993",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-mustang.mjs",
+      "path": "scripts/prepare-mustang.mjs",
+      "sourceSha256": "4fb4282edea5ffe6b3ae3c0205a3b3e8b5307742ecfd59ae9722bd9cfd861e9e",
+      "publishedSha256": "4fb4282edea5ffe6b3ae3c0205a3b3e8b5307742ecfd59ae9722bd9cfd861e9e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-parked-vehicle.py",
+      "path": "scripts/prepare-parked-vehicle.py",
+      "sourceSha256": "afe0ee6e958f1abf36b898e52c439ab4f0778139fa53811056edc5750f41935d",
+      "publishedSha256": "afe0ee6e958f1abf36b898e52c439ab4f0778139fa53811056edc5750f41935d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-street-tree.py",
+      "path": "scripts/prepare-street-tree.py",
+      "sourceSha256": "dd2006d13bc5caed5477e5d4060504de5255200181a6e9b206d94b9e3f6f850e",
+      "publishedSha256": "dd2006d13bc5caed5477e5d4060504de5255200181a6e9b206d94b9e3f6f850e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-tree-distance.py",
+      "path": "scripts/prepare-tree-distance.py",
+      "sourceSha256": "b8ca794b779dfcefabef6883a3e597a772e1a47517d66e04523c329b6bd18cd6",
+      "publishedSha256": "b8ca794b779dfcefabef6883a3e597a772e1a47517d66e04523c329b6bd18cd6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/prepare-wheel-rig.mjs",
+      "path": "scripts/prepare-wheel-rig.mjs",
+      "sourceSha256": "d883063bc477b7cc0e012cbf91e416b5219312326f276086c5c8fb00206229a2",
+      "publishedSha256": "d883063bc477b7cc0e012cbf91e416b5219312326f276086c5c8fb00206229a2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/source-match-compare.mjs",
+      "path": "scripts/source-match-compare.mjs",
+      "sourceSha256": "e0111b2573db5fddde8c958b11002c27207ff2756f45e623ff6ede3f135ef2f3",
+      "publishedSha256": "e0111b2573db5fddde8c958b11002c27207ff2756f45e623ff6ede3f135ef2f3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/source-match-export.mjs",
+      "path": "scripts/source-match-export.mjs",
+      "sourceSha256": "c5e310e9c7bc392a9dc69f2eff43d72fe8c3c74e7439aaf3a124f35b17672330",
+      "publishedSha256": "c5e310e9c7bc392a9dc69f2eff43d72fe8c3c74e7439aaf3a124f35b17672330",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "scripts/source-match-philly.mjs",
+      "path": "scripts/source-match-philly.mjs",
+      "sourceSha256": "cf5e948b0178cfeeccee5dd79747691462e275dedc4c405a5e351b751656cdf4",
+      "publishedSha256": "cf5e948b0178cfeeccee5dd79747691462e275dedc4c405a5e351b751656cdf4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/camera-rig.js",
+      "path": "src/camera-rig.js",
+      "sourceSha256": "36ed72d4e13c609f984be486853d3b9036b5e4b445677c492e59fec4ce7248bc",
+      "publishedSha256": "36ed72d4e13c609f984be486853d3b9036b5e4b445677c492e59fec4ce7248bc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/character-renderer.js",
+      "path": "src/character-renderer.js",
+      "sourceSha256": "fcdeb38963d9d4af0bd2f1f9e2f4fe2c732081135198b9080387f2186c7cbcfe",
+      "publishedSha256": "fcdeb38963d9d4af0bd2f1f9e2f4fe2c732081135198b9080387f2186c7cbcfe",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/character.js",
+      "path": "src/character.js",
+      "sourceSha256": "729c671204350fcdbc7edef29bf99cc12931862da675c12066121e63ebd3d4aa",
+      "publishedSha256": "729c671204350fcdbc7edef29bf99cc12931862da675c12066121e63ebd3d4aa",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/city-explorer.js",
+      "path": "src/city-explorer.js",
+      "sourceSha256": "44cda5c49937a17f45a97d0515830037e1aed7abb436dc88e671f9a8983b5bb3",
+      "publishedSha256": "44cda5c49937a17f45a97d0515830037e1aed7abb436dc88e671f9a8983b5bb3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/city-photo-assets.js",
+      "path": "src/city-photo-assets.js",
+      "sourceSha256": "166642f9608ae237ef2608160027fda9eb453c1bb53c362fa30a3cf86798bbd2",
+      "publishedSha256": "166642f9608ae237ef2608160027fda9eb453c1bb53c362fa30a3cf86798bbd2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/city-photo-recovery.js",
+      "path": "src/city-photo-recovery.js",
+      "sourceSha256": "e8f857763f672161640f31ba22d8cf8edb53b1419cd0ad0e0fb8bde22f2f5510",
+      "publishedSha256": "e8f857763f672161640f31ba22d8cf8edb53b1419cd0ad0e0fb8bde22f2f5510",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/city-surface-cell.js",
+      "path": "src/city-surface-cell.js",
+      "sourceSha256": "6e31a2f987275d2155b9e47c2e839629a1554d09ea9f65e53820a2b39e6dbafc",
+      "publishedSha256": "6e31a2f987275d2155b9e47c2e839629a1554d09ea9f65e53820a2b39e6dbafc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/city-surface-loader.js",
+      "path": "src/city-surface-loader.js",
+      "sourceSha256": "14bcfc7ec21d561eb6b06d6da4498657412fad28a992e613e8003a683152020a",
+      "publishedSha256": "14bcfc7ec21d561eb6b06d6da4498657412fad28a992e613e8003a683152020a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/city-surface-worker.js",
+      "path": "src/city-surface-worker.js",
+      "sourceSha256": "43e227d8b6f5a29081bea59884fbf3191a49515c2eb7f2079d3f9ced755a2462",
+      "publishedSha256": "43e227d8b6f5a29081bea59884fbf3191a49515c2eb7f2079d3f9ced755a2462",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/destruction.js",
+      "path": "src/destruction.js",
+      "sourceSha256": "b885285992b15c498b40fafafa01ceabf831a83fbf1717ac395a99be7ea8e798",
+      "publishedSha256": "b885285992b15c498b40fafafa01ceabf831a83fbf1717ac395a99be7ea8e798",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/district-geometry.js",
+      "path": "src/district-geometry.js",
+      "sourceSha256": "0c33b2594d990330eeb12bc2146c6c68e0bf62182e323f8d44549f137e8dd377",
+      "publishedSha256": "0c33b2594d990330eeb12bc2146c6c68e0bf62182e323f8d44549f137e8dd377",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/district-navigation.js",
+      "path": "src/district-navigation.js",
+      "sourceSha256": "49f87dfbabeb6d58cebec3515c365bf2fabb5a47e57ef532eef3d1a0debb87d4",
+      "publishedSha256": "49f87dfbabeb6d58cebec3515c365bf2fabb5a47e57ef532eef3d1a0debb87d4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/district-population.js",
+      "path": "src/district-population.js",
+      "sourceSha256": "2e8cde8a2f51e18a31583bb52456dba46ec4a7fb57edd3fdcf6f0416944676f8",
+      "publishedSha256": "2e8cde8a2f51e18a31583bb52456dba46ec4a7fb57edd3fdcf6f0416944676f8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/driving.js",
+      "path": "src/driving.js",
+      "sourceSha256": "6829090c5248212b3e9f1f7dc3866da79c544e7ed34d409276f9c0c539c5d373",
+      "publishedSha256": "6829090c5248212b3e9f1f7dc3866da79c544e7ed34d409276f9c0c539c5d373",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/game-audio.js",
+      "path": "src/game-audio.js",
+      "sourceSha256": "616d7fdcd5cd9c87d575415d20b96a1a1f9918eb7f2ed750a08b73283584bdc4",
+      "publishedSha256": "616d7fdcd5cd9c87d575415d20b96a1a1f9918eb7f2ed750a08b73283584bdc4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/game-district.js",
+      "path": "src/game-district.js",
+      "sourceSha256": "f52c5c5772c0baa2d2072da9ba0daa5d015691c25a68be2c84bee4cb0260d073",
+      "publishedSha256": "f52c5c5772c0baa2d2072da9ba0daa5d015691c25a68be2c84bee4cb0260d073",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/ground-imagery.js",
+      "path": "src/ground-imagery.js",
+      "sourceSha256": "91f6a9f06c4fc46d479ca76b1be41bb952655999de240c1274640012199ad4ad",
+      "publishedSha256": "91f6a9f06c4fc46d479ca76b1be41bb952655999de240c1274640012199ad4ad",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/house-details.js",
+      "path": "src/house-details.js",
+      "sourceSha256": "1137aeb941ec2394761b0edc0e6bf15a5f7e42021eaf70b5b2b6f1baed2e4f4d",
+      "publishedSha256": "1137aeb941ec2394761b0edc0e6bf15a5f7e42021eaf70b5b2b6f1baed2e4f4d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/house-profile.js",
+      "path": "src/house-profile.js",
+      "sourceSha256": "85f19bb0ca328285135aa5a6c761336abb514c6cc47f52ac52096afc42fdc618",
+      "publishedSha256": "85f19bb0ca328285135aa5a6c761336abb514c6cc47f52ac52096afc42fdc618",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/interior-npcs.js",
+      "path": "src/interior-npcs.js",
+      "sourceSha256": "955c3ebd3ccbdbf31b2dccc3c001282218ad09c5d95cae8ced1d2c61b603d1f2",
+      "publishedSha256": "955c3ebd3ccbdbf31b2dccc3c001282218ad09c5d95cae8ced1d2c61b603d1f2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/interiors.js",
+      "path": "src/interiors.js",
+      "sourceSha256": "1aacf36cbadf10b9aa93992670c0f1efe7f2bdba0479f671c97e539ab096dd96",
+      "publishedSha256": "1aacf36cbadf10b9aa93992670c0f1efe7f2bdba0479f671c97e539ab096dd96",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/locations.js",
+      "path": "src/locations.js",
+      "sourceSha256": "a1f4fa8d1703ab8c1008e3b37b462b96adfd24ca04d5b3e5df3a852f143365ba",
+      "publishedSha256": "a1f4fa8d1703ab8c1008e3b37b462b96adfd24ca04d5b3e5df3a852f143365ba",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/main.js",
+      "path": "src/main.js",
+      "sourceSha256": "94ebfa9a309646ac42ffd5c49a9bc2d7d2a927f557e8fb4382117d62e355c68e",
+      "publishedSha256": "94ebfa9a309646ac42ffd5c49a9bc2d7d2a927f557e8fb4382117d62e355c68e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/neighborhood-references.js",
+      "path": "src/neighborhood-references.js",
+      "sourceSha256": "0faea4c4700e8cb6a153de8b34f084fc85c4809b4dbe77b445507522fa18d8c1",
+      "publishedSha256": "0faea4c4700e8cb6a153de8b34f084fc85c4809b4dbe77b445507522fa18d8c1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/park-boundary.js",
+      "path": "src/park-boundary.js",
+      "sourceSha256": "2c506f707bbe245f93326cbc81deaccc678b4e787391f4e6ae979045be4ebdb7",
+      "publishedSha256": "2c506f707bbe245f93326cbc81deaccc678b4e787391f4e6ae979045be4ebdb7",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/park-canopy.js",
+      "path": "src/park-canopy.js",
+      "sourceSha256": "4f2a62fc401d2e0880aed47ad63723381cc407dd25a20148ef9673bbebb4b25b",
+      "publishedSha256": "4f2a62fc401d2e0880aed47ad63723381cc407dd25a20148ef9673bbebb4b25b",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/performance-panel.js",
+      "path": "src/performance-panel.js",
+      "sourceSha256": "d5b07e5303cf98c76e1ba07077d57f6b5123a9157cbb197fec35a1c19fd15306",
+      "publishedSha256": "d5b07e5303cf98c76e1ba07077d57f6b5123a9157cbb197fec35a1c19fd15306",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/performance.js",
+      "path": "src/performance.js",
+      "sourceSha256": "b01998ebc331431352be83456179e68470a5742f2a702bc7829201eab76fbe69",
+      "publishedSha256": "b01998ebc331431352be83456179e68470a5742f2a702bc7829201eab76fbe69",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/planning-districts.js",
+      "path": "src/planning-districts.js",
+      "sourceSha256": "7895625a57e5fef3292ef4cdb7553ecc7e567d49290dd9f1f2fb0452b6688162",
+      "publishedSha256": "7895625a57e5fef3292ef4cdb7553ecc7e567d49290dd9f1f2fb0452b6688162",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/play-screen.css",
+      "path": "src/play-screen.css",
+      "sourceSha256": "95345c734adcfd9bf669f30bbec9ecb16caeece5c3d461c740736062771aadb9",
+      "publishedSha256": "95345c734adcfd9bf669f30bbec9ecb16caeece5c3d461c740736062771aadb9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/public-buildings.js",
+      "path": "src/public-buildings.js",
+      "sourceSha256": "2954ee58b3694866ba3e0ef95a6c9fbf6c6be353fb6395dfe3daf97a2477aa2a",
+      "publishedSha256": "2954ee58b3694866ba3e0ef95a6c9fbf6c6be353fb6395dfe3daf97a2477aa2a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/public-terrain.js",
+      "path": "src/public-terrain.js",
+      "sourceSha256": "cd19cb9e16a7294532eb1333648f3d0e1deb87bb325628de79b65a5043179445",
+      "publishedSha256": "cd19cb9e16a7294532eb1333648f3d0e1deb87bb325628de79b65a5043179445",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/recorder.css",
+      "path": "src/recorder.css",
+      "sourceSha256": "36893df9d1c81909b7ba23e597668fac3552b4b821cb80d504e2efd5f4cb4e97",
+      "publishedSha256": "36893df9d1c81909b7ba23e597668fac3552b4b821cb80d504e2efd5f4cb4e97",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/recorder.js",
+      "path": "src/recorder.js",
+      "sourceSha256": "b7888d8dcc9706bdbcf849c7cd29b28f95a3b3dea6b32154975c86694cbc641b",
+      "publishedSha256": "b7888d8dcc9706bdbcf849c7cd29b28f95a3b3dea6b32154975c86694cbc641b",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/render-counters.js",
+      "path": "src/render-counters.js",
+      "sourceSha256": "42457b40a0927bad169a3ed861b23a6c36568268d57b4f9fc03b09603cdfc2ca",
+      "publishedSha256": "42457b40a0927bad169a3ed861b23a6c36568268d57b4f9fc03b09603cdfc2ca",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/sidewalk-photo-atlas.js",
+      "path": "src/sidewalk-photo-atlas.js",
+      "sourceSha256": "d3f568b19d59a902d64dedb67e969ce60aec1d9dc4607b4a2a2282cbb00a86b2",
+      "publishedSha256": "d3f568b19d59a902d64dedb67e969ce60aec1d9dc4607b4a2a2282cbb00a86b2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/sidewalk-surfaces.js",
+      "path": "src/sidewalk-surfaces.js",
+      "sourceSha256": "964cf256ac33bed90ddfefaf53cb53f9d5178aaf73d40fae36beb0cff2fe2070",
+      "publishedSha256": "964cf256ac33bed90ddfefaf53cb53f9d5178aaf73d40fae36beb0cff2fe2070",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/sources.js",
+      "path": "src/sources.js",
+      "sourceSha256": "be87e52225d23b64f53332d99743818ec80cc6adb3785e90c54636072cda899f",
+      "publishedSha256": "be87e52225d23b64f53332d99743818ec80cc6adb3785e90c54636072cda899f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/street-objects.js",
+      "path": "src/street-objects.js",
+      "sourceSha256": "a0ed86734f44a6b91da425af2da87e18ff313b860f28d61fd6e5e7c999b167bb",
+      "publishedSha256": "a0ed86734f44a6b91da425af2da87e18ff313b860f28d61fd6e5e7c999b167bb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/style.css",
+      "path": "src/style.css",
+      "sourceSha256": "99cdb17727d4276dd6d6cfe3b2c51e644b0c1f06ec0127afc76b07e18549ba62",
+      "publishedSha256": "99cdb17727d4276dd6d6cfe3b2c51e644b0c1f06ec0127afc76b07e18549ba62",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/vehicle-animation.js",
+      "path": "src/vehicle-animation.js",
+      "sourceSha256": "c0bd0744a362d2badf3ab745972a746bc7a70aa9ff7ea2985edf81c10e3bfd37",
+      "publishedSha256": "c0bd0744a362d2badf3ab745972a746bc7a70aa9ff7ea2985edf81c10e3bfd37",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/vehicle-ground-pose.js",
+      "path": "src/vehicle-ground-pose.js",
+      "sourceSha256": "8f367d0c35217c0c4389bece32f88d83ddd5d1b77cc721a2e41be4f3bcee0ac5",
+      "publishedSha256": "8f367d0c35217c0c4389bece32f88d83ddd5d1b77cc721a2e41be4f3bcee0ac5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/vehicle-renderer.js",
+      "path": "src/vehicle-renderer.js",
+      "sourceSha256": "beb76a3bb02980f60d3132692e72d65e3c2d2fee19327631c6bac8eb105c8f42",
+      "publishedSha256": "beb76a3bb02980f60d3132692e72d65e3c2d2fee19327631c6bac8eb105c8f42",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/vehicles.js",
+      "path": "src/vehicles.js",
+      "sourceSha256": "55e2c2e5086b9483efbb16593afb4d163acecddf4440430397c4718bf8bf5e3c",
+      "publishedSha256": "55e2c2e5086b9483efbb16593afb4d163acecddf4440430397c4718bf8bf5e3c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/walking.js",
+      "path": "src/walking.js",
+      "sourceSha256": "cd2cce7c1a6de878009bac32ce8ef65f9b05766fee30c6d29a7e9e88e3e599dd",
+      "publishedSha256": "cd2cce7c1a6de878009bac32ce8ef65f9b05766fee30c6d29a7e9e88e3e599dd",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/wheel-rigs.js",
+      "path": "src/wheel-rigs.js",
+      "sourceSha256": "4e5966f5830a9dc0eca0e6a744820125a7f1b2a8eb6744b1c3a3f659f58291fa",
+      "publishedSha256": "4e5966f5830a9dc0eca0e6a744820125a7f1b2a8eb6744b1c3a3f659f58291fa",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "src/world.js",
+      "path": "src/world.js",
+      "sourceSha256": "e56a6ac77b97fbd14ceef4439e0f172d8c08d131589c1b5cc5f2e69eb2bfc5cc",
+      "publishedSha256": "e56a6ac77b97fbd14ceef4439e0f172d8c08d131589c1b5cc5f2e69eb2bfc5cc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "STREET-SOURCES.md",
+      "path": "STREET-SOURCES.md",
+      "sourceSha256": "f0843d8b3e206756b23d2776e6269aacd2f0effceff7796bf4895377ffde78fd",
+      "publishedSha256": "f0843d8b3e206756b23d2776e6269aacd2f0effceff7796bf4895377ffde78fd",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/camera-rig.test.js",
+      "path": "tests/camera-rig.test.js",
+      "sourceSha256": "77a4c5fd53b5f25376af87607e23f0085d9e743262411c3ebfcb85ada3533149",
+      "publishedSha256": "77a4c5fd53b5f25376af87607e23f0085d9e743262411c3ebfcb85ada3533149",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/character-renderer.test.js",
+      "path": "tests/character-renderer.test.js",
+      "sourceSha256": "14251bfe9cdd8a5d21bd790884c2a37a2bb95a2398066667d4f48a9f3b513df1",
+      "publishedSha256": "14251bfe9cdd8a5d21bd790884c2a37a2bb95a2398066667d4f48a9f3b513df1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/city-photo-recovery.test.js",
+      "path": "tests/city-photo-recovery.test.js",
+      "sourceSha256": "5d9c50e4be29b9892e90bd2139ea3de13b5a45083af2621213304bc979785d15",
+      "publishedSha256": "5d9c50e4be29b9892e90bd2139ea3de13b5a45083af2621213304bc979785d15",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/city-surface-cell.test.js",
+      "path": "tests/city-surface-cell.test.js",
+      "sourceSha256": "9e0a30eafa4ac5f61587c4be7eec3f623da51ada48622d2663c63d1c871ccdde",
+      "publishedSha256": "9e0a30eafa4ac5f61587c4be7eec3f623da51ada48622d2663c63d1c871ccdde",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/destruction.test.js",
+      "path": "tests/destruction.test.js",
+      "sourceSha256": "f8a6b8c4852e249ae2a048aff52ba6878364a668bd58b375a902f047248c7c53",
+      "publishedSha256": "f8a6b8c4852e249ae2a048aff52ba6878364a668bd58b375a902f047248c7c53",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/driving.test.js",
+      "path": "tests/driving.test.js",
+      "sourceSha256": "6dece4ab67e01e8a5ced5bb87eefa6898231513ee4cffe4d9805924eb593aee7",
+      "publishedSha256": "6dece4ab67e01e8a5ced5bb87eefa6898231513ee4cffe4d9805924eb593aee7",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/game-audio.test.js",
+      "path": "tests/game-audio.test.js",
+      "sourceSha256": "eb7938f0b6ebc39be258e9a1c13c6a52ed787e20bd4e48a688c820ad63ea87e5",
+      "publishedSha256": "eb7938f0b6ebc39be258e9a1c13c6a52ed787e20bd4e48a688c820ad63ea87e5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/game-district.test.js",
+      "path": "tests/game-district.test.js",
+      "sourceSha256": "83bd147ec31807ec7cc020b5ffb4b2a94629d5b2c3a42221a7219a4fded835d4",
+      "publishedSha256": "83bd147ec31807ec7cc020b5ffb4b2a94629d5b2c3a42221a7219a4fded835d4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/ground-imagery.test.js",
+      "path": "tests/ground-imagery.test.js",
+      "sourceSha256": "4962837be1a2b3067f02e0a5bbb5312ce648c9004ca3a487a9cf1463ce2c393c",
+      "publishedSha256": "4962837be1a2b3067f02e0a5bbb5312ce648c9004ca3a487a9cf1463ce2c393c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/house-details.test.js",
+      "path": "tests/house-details.test.js",
+      "sourceSha256": "73c883b23bdef7d0894cc9ff1499ea8446946bfb8b75169b45a0e8c6f57759de",
+      "publishedSha256": "73c883b23bdef7d0894cc9ff1499ea8446946bfb8b75169b45a0e8c6f57759de",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/interior-lifecycle.test.js",
+      "path": "tests/interior-lifecycle.test.js",
+      "sourceSha256": "096ef7c68bbefcef77e850b04ee6f893451810a80f20d24bbb4688d403a74165",
+      "publishedSha256": "096ef7c68bbefcef77e850b04ee6f893451810a80f20d24bbb4688d403a74165",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/interior-npcs.test.js",
+      "path": "tests/interior-npcs.test.js",
+      "sourceSha256": "fe27bbad195649ea4a31a986fa97765551332a5279bc7497d4b680d4d1380e0e",
+      "publishedSha256": "fe27bbad195649ea4a31a986fa97765551332a5279bc7497d4b680d4d1380e0e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/native-street-details.test.js",
+      "path": "tests/native-street-details.test.js",
+      "sourceSha256": "1ee9442bf8ef360b57a8e0971e30220ae6b59ffd2c58b0b22f857f15d48ba8cc",
+      "publishedSha256": "1ee9442bf8ef360b57a8e0971e30220ae6b59ffd2c58b0b22f857f15d48ba8cc",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/park-boundary.test.js",
+      "path": "tests/park-boundary.test.js",
+      "sourceSha256": "23d3afa8ff45bd820c7135874d50ed3cb3136111bedf763fe1620e36205e12ec",
+      "publishedSha256": "23d3afa8ff45bd820c7135874d50ed3cb3136111bedf763fe1620e36205e12ec",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/performance.test.js",
+      "path": "tests/performance.test.js",
+      "sourceSha256": "ea23926e34d7a48e7ebde0015f5fa17893edb3dfa506a435a918b968ae7062b1",
+      "publishedSha256": "ea23926e34d7a48e7ebde0015f5fa17893edb3dfa506a435a918b968ae7062b1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/public-buildings.test.js",
+      "path": "tests/public-buildings.test.js",
+      "sourceSha256": "9e85cdf7fbbac85aade22b13b43c4201f251a551ddfe27cd1b31f05ec2703bc6",
+      "publishedSha256": "9e85cdf7fbbac85aade22b13b43c4201f251a551ddfe27cd1b31f05ec2703bc6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/public-terrain.test.js",
+      "path": "tests/public-terrain.test.js",
+      "sourceSha256": "23624b5426bc8874154470e46f3172f864746273a2eb58662eec7cd9f8944ce2",
+      "publishedSha256": "23624b5426bc8874154470e46f3172f864746273a2eb58662eec7cd9f8944ce2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/sidewalk-photo-atlas.test.js",
+      "path": "tests/sidewalk-photo-atlas.test.js",
+      "sourceSha256": "fd92b4d71ae6fc30cbb9377b7ca6aba0c26de757b3ea5d4623a5f3c7148c526b",
+      "publishedSha256": "fd92b4d71ae6fc30cbb9377b7ca6aba0c26de757b3ea5d4623a5f3c7148c526b",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/sidewalk-surfaces.test.js",
+      "path": "tests/sidewalk-surfaces.test.js",
+      "sourceSha256": "c29a6b99c7bced8319773ac521d3a83cc2cf8c4e3dbf6b5a3559ee985dfba72d",
+      "publishedSha256": "c29a6b99c7bced8319773ac521d3a83cc2cf8c4e3dbf6b5a3559ee985dfba72d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/street-objects.test.js",
+      "path": "tests/street-objects.test.js",
+      "sourceSha256": "cfab6407701d9fead44a3738cdc86324bda5708dbf947a6aa63a5a4f1ff71da3",
+      "publishedSha256": "cfab6407701d9fead44a3738cdc86324bda5708dbf947a6aa63a5a4f1ff71da3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/test_city_source_uv.py",
+      "path": "tests/test_city_source_uv.py",
+      "sourceSha256": "06cb0b00e22301f085a38c2e5be44ca1363746372a78271f2d806692606b5821",
+      "publishedSha256": "06cb0b00e22301f085a38c2e5be44ca1363746372a78271f2d806692606b5821",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/test_district_backdrop.py",
+      "path": "tests/test_district_backdrop.py",
+      "sourceSha256": "019feaed4ae0d395b6905f4698b557df6cc138ffdc4195c052349202c0170ae2",
+      "publishedSha256": "019feaed4ae0d395b6905f4698b557df6cc138ffdc4195c052349202c0170ae2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/test_museum_ground_mask.py",
+      "path": "tests/test_museum_ground_mask.py",
+      "sourceSha256": "cc883a5bbaf52b61831c258b26c99bf02451011ff69ff2c7479159a9f5624386",
+      "publishedSha256": "cc883a5bbaf52b61831c258b26c99bf02451011ff69ff2c7479159a9f5624386",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/test_terrain_conform.py",
+      "path": "tests/test_terrain_conform.py",
+      "sourceSha256": "b2e5caa7d92ed95b3f2f1082a7cb53f970bdc1bef6e2c7b755619c38e1247383",
+      "publishedSha256": "b2e5caa7d92ed95b3f2f1082a7cb53f970bdc1bef6e2c7b755619c38e1247383",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/test_unreal_geo.py",
+      "path": "tests/test_unreal_geo.py",
+      "sourceSha256": "21bf146e5163de2518e7ef31f30c7e2c76cce00538c550b6d4968e81bd0cd22c",
+      "publishedSha256": "21bf146e5163de2518e7ef31f30c7e2c76cce00538c550b6d4968e81bd0cd22c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/vehicle-animation.test.js",
+      "path": "tests/vehicle-animation.test.js",
+      "sourceSha256": "183f99e51c1ecf22ede3294faaac18320533ceb5c608340792484e36edd6e3e8",
+      "publishedSha256": "183f99e51c1ecf22ede3294faaac18320533ceb5c608340792484e36edd6e3e8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/vehicle-ground-pose.test.js",
+      "path": "tests/vehicle-ground-pose.test.js",
+      "sourceSha256": "42f1efbf033f1f5bf78804261043e01267d41f0b306670d6b52034358a32ab05",
+      "publishedSha256": "42f1efbf033f1f5bf78804261043e01267d41f0b306670d6b52034358a32ab05",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/vehicle-renderer.test.js",
+      "path": "tests/vehicle-renderer.test.js",
+      "sourceSha256": "bd5578cf77862c90f3f57016f2daa0aab67bac60fc0f7a7afec03493a15bf5fa",
+      "publishedSha256": "bd5578cf77862c90f3f57016f2daa0aab67bac60fc0f7a7afec03493a15bf5fa",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tests/walking-interior.test.js",
+      "path": "tests/walking-interior.test.js",
+      "sourceSha256": "c85303b2ee53f7febdca07192f5ebc7bd50ceb11641db323cb3977689974489c",
+      "publishedSha256": "c85303b2ee53f7febdca07192f5ebc7bd50ceb11641db323cb3977689974489c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tools/local_workbench/blender_worker.py",
+      "path": "tools/local_workbench/blender_worker.py",
+      "sourceSha256": "6acd883341674f74f29ac764f0349698cea247c684859384a9ee18ae9ae20138",
+      "publishedSha256": "6acd883341674f74f29ac764f0349698cea247c684859384a9ee18ae9ae20138",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tools/local_workbench/character-review.json",
+      "path": "tools/local_workbench/character-review.json",
+      "sourceSha256": "b5c3376c65dc4ff2e2f9ecf2b8f2feb3dfb394672a8b30c3083adcd634b465e5",
+      "publishedSha256": "b5c3376c65dc4ff2e2f9ecf2b8f2feb3dfb394672a8b30c3083adcd634b465e5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tools/local_workbench/inspect-character.json",
+      "path": "tools/local_workbench/inspect-character.json",
+      "sourceSha256": "b936ac9ddb1bdc27f14266457800127378af3dbcffe697795a036f27494e0756",
+      "publishedSha256": "b936ac9ddb1bdc27f14266457800127378af3dbcffe697795a036f27494e0756",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tools/local_workbench/README.md",
+      "path": "tools/local_workbench/README.md",
+      "sourceSha256": "683b6a29a7d4fe8e1e9323907e5e80faa280775e23dd41a8cebd216a51158e03",
+      "publishedSha256": "683b6a29a7d4fe8e1e9323907e5e80faa280775e23dd41a8cebd216a51158e03",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tools/local_workbench/test_workbench.py",
+      "path": "tools/local_workbench/test_workbench.py",
+      "sourceSha256": "e8302eb4186b0b971f6beb51af089acf20c19f3dbd0d69cbda7877259ec9f2c3",
+      "publishedSha256": "e8302eb4186b0b971f6beb51af089acf20c19f3dbd0d69cbda7877259ec9f2c3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tools/local_workbench/VERIFICATION.md",
+      "path": "tools/local_workbench/VERIFICATION.md",
+      "sourceSha256": "1b8ec81448ddd2dba7dcc9972fb7bd77b41207edc5aed7c0125f9ae3733879c9",
+      "publishedSha256": "1b8ec81448ddd2dba7dcc9972fb7bd77b41207edc5aed7c0125f9ae3733879c9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "tools/local_workbench/workbench.py",
+      "path": "tools/local_workbench/workbench.py",
+      "sourceSha256": "aa12adfac60b0e84c19ec44080623554eb2e2012aaee1ff1f36c354dcd790b0c",
+      "publishedSha256": "aa12adfac60b0e84c19ec44080623554eb2e2012aaee1ff1f36c354dcd790b0c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "TRADEMARK_POLICY.md",
+      "path": "TRADEMARK_POLICY.md",
+      "sourceSha256": "b01723a659bb6b4820dab3abba711653414ecca2c2dcefa7be82f7ba5e6c7315",
+      "publishedSha256": "b01723a659bb6b4820dab3abba711653414ecca2c2dcefa7be82f7ba5e6c7315",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Config/DefaultEngine.ini",
+      "path": "Unreal/Philadelphia/Config/DefaultEngine.ini",
+      "sourceSha256": "b3dcda632b6b0d3371662cc641d4ac238c064878ed9b66a0c5d4dc3b47851323",
+      "publishedSha256": "4a6afc90f350d52044679280ef234e09b80bca891a1121dd0698a00fc1c135e2",
+      "transformed": true
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Config/DefaultInput.ini",
+      "path": "Unreal/Philadelphia/Config/DefaultInput.ini",
+      "sourceSha256": "8ca1cc0656c1f7d2273de4ccf964acdd92b7b782cfe3d80558a8fbf4a74a35cb",
+      "publishedSha256": "8ca1cc0656c1f7d2273de4ccf964acdd92b7b782cfe3d80558a8fbf4a74a35cb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/arch-street-review.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/arch-street-review.json",
+      "sourceSha256": "5c343a7277c566137f79040bc66309fae6e31a71a228d9e0c290448653d4e1e5",
+      "publishedSha256": "5c343a7277c566137f79040bc66309fae6e31a71a228d9e0c290448653d4e1e5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/city-packs.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/city-packs.json",
+      "sourceSha256": "abdfc3d984493121e0aa643e635fb161cec85ce0f89101e3bd8d49dd8aa2b65d",
+      "publishedSha256": "abdfc3d984493121e0aa643e635fb161cec85ce0f89101e3bd8d49dd8aa2b65d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/district-backdrop.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/district-backdrop.json",
+      "sourceSha256": "70df800a33b568c5d1732522c3f7ce0d775787f196ee1972fc2416f0e7c785e4",
+      "publishedSha256": "70df800a33b568c5d1732522c3f7ce0d775787f196ee1972fc2416f0e7c785e4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/fairmount/manifest.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/fairmount/manifest.json",
+      "sourceSha256": "a45c3128b6696273581be9f2de3888583bf735172aff554e438c63ab1e27daa8",
+      "publishedSha256": "a45c3128b6696273581be9f2de3888583bf735172aff554e438c63ab1e27daa8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/manifest.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/manifest.json",
+      "sourceSha256": "3a64d3098e899ab36ecc21796be9ca1a9ddb453b8ac001ea3994a00434ffd122",
+      "publishedSha256": "3a64d3098e899ab36ecc21796be9ca1a9ddb453b8ac001ea3994a00434ffd122",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/museum/ground-mask.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/museum/ground-mask.json",
+      "sourceSha256": "9ce06fc45ec72068530a743190ec9d7e0475fcf8b7c67e5dbee7849efb7f6263",
+      "publishedSha256": "9ce06fc45ec72068530a743190ec9d7e0475fcf8b7c67e5dbee7849efb7f6263",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/museum/landmark-registration.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/museum/landmark-registration.json",
+      "sourceSha256": "84f2d28ee25ca2a1154256a81d4cf5c840717a9e940f79c8acf05aefe4de2667",
+      "publishedSha256": "84f2d28ee25ca2a1154256a81d4cf5c840717a9e940f79c8acf05aefe4de2667",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/museum/manifest.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/museum/manifest.json",
+      "sourceSha256": "88545acc1b7adeea7a822fe5a051dfbad2b0e81f397bbf9bab51317b835990d8",
+      "publishedSha256": "88545acc1b7adeea7a822fe5a051dfbad2b0e81f397bbf9bab51317b835990d8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/north/manifest.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/north/manifest.json",
+      "sourceSha256": "ff97d9206f33c15fcf652dfb1161bac999615e60ca232918c88def6042085b64",
+      "publishedSha256": "ff97d9206f33c15fcf652dfb1161bac999615e60ca232918c88def6042085b64",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/river/manifest.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/river/manifest.json",
+      "sourceSha256": "5cce747cfb86bae9a38a8cb53134347018557518dfb6437f6816ee943b3ae378",
+      "publishedSha256": "5cce747cfb86bae9a38a8cb53134347018557518dfb6437f6816ee943b3ae378",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/south/manifest.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/south/manifest.json",
+      "sourceSha256": "f99bd24e9a16adaeccc979ee3606945df022b53ab8654ebda8cc47ae394ceb18",
+      "publishedSha256": "f99bd24e9a16adaeccc979ee3606945df022b53ab8654ebda8cc47ae394ceb18",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/street-kit.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/street-kit.json",
+      "sourceSha256": "69b31d03b1b79f741297785ed7a3c011202511f11b74f1024a735e62438636e1",
+      "publishedSha256": "69b31d03b1b79f741297785ed7a3c011202511f11b74f1024a735e62438636e1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Content/SourceData/west/manifest.json",
+      "path": "Unreal/Philadelphia/Content/SourceData/west/manifest.json",
+      "sourceSha256": "e00770ccd44d81f289a53ad16884823c840f90987f26e347f56ae722539339a1",
+      "publishedSha256": "e00770ccd44d81f289a53ad16884823c840f90987f26e347f56ae722539339a1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Philadelphia.uproject",
+      "path": "Unreal/Philadelphia/Philadelphia.uproject",
+      "sourceSha256": "4499392f2610d4776c4f2804ba15bfb8500a57292ee477b515bbd8e5d1537920",
+      "publishedSha256": "4499392f2610d4776c4f2804ba15bfb8500a57292ee477b515bbd8e5d1537920",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/create_normal_diagnostic.py",
+      "path": "Unreal/Philadelphia/Scripts/create_normal_diagnostic.py",
+      "sourceSha256": "7e761783bf1f08efde1b6bdc85de30774376df8c7f1b211eaa8e32d7870bea94",
+      "publishedSha256": "7e761783bf1f08efde1b6bdc85de30774376df8c7f1b211eaa8e32d7870bea94",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/export_assets.py",
+      "path": "Unreal/Philadelphia/Scripts/export_assets.py",
+      "sourceSha256": "92600de404461fa4a7a69737aa1c6a073633de09bf697b1d8b119d58c2cfbd12",
+      "publishedSha256": "92600de404461fa4a7a69737aa1c6a073633de09bf697b1d8b119d58c2cfbd12",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/extract_nearby_sources.py",
+      "path": "Unreal/Philadelphia/Scripts/extract_nearby_sources.py",
+      "sourceSha256": "b5aa64d9a8381564a7c53d5e5f1a08f502cc5f03fe6c82688915a86e26db6e22",
+      "publishedSha256": "b5aa64d9a8381564a7c53d5e5f1a08f502cc5f03fe6c82688915a86e26db6e22",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/geo_frame.py",
+      "path": "Unreal/Philadelphia/Scripts/geo_frame.py",
+      "sourceSha256": "b9d13376fa44a38dde1541af2b866a8ac18ce4005250c78fd69238e9783f5bbb",
+      "publishedSha256": "b9d13376fa44a38dde1541af2b866a8ac18ce4005250c78fd69238e9783f5bbb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_arch_facade_details.py",
+      "path": "Unreal/Philadelphia/Scripts/import_arch_facade_details.py",
+      "sourceSha256": "15a4feaae5207e17be7c5785976a51860d358230a4efb8f0d7f2e912a8f6b6e8",
+      "publishedSha256": "15a4feaae5207e17be7c5785976a51860d358230a4efb8f0d7f2e912a8f6b6e8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_city_hall.py",
+      "path": "Unreal/Philadelphia/Scripts/import_city_hall.py",
+      "sourceSha256": "f3dfe6b7fe7a3f77f29e036b796869172c50939dc8986dd600014f3bdae88ae8",
+      "publishedSha256": "f3dfe6b7fe7a3f77f29e036b796869172c50939dc8986dd600014f3bdae88ae8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_district_backdrop.py",
+      "path": "Unreal/Philadelphia/Scripts/import_district_backdrop.py",
+      "sourceSha256": "6089a485bbaebd13293cfac44dd4d71a81dfdfb4cfea8becefa997171e598695",
+      "publishedSha256": "6089a485bbaebd13293cfac44dd4d71a81dfdfb4cfea8becefa997171e598695",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_evaluation.py",
+      "path": "Unreal/Philadelphia/Scripts/import_evaluation.py",
+      "sourceSha256": "0f443cf42adc7860aa08b0a7fdd8d1ba4f4dbc43da3a74d79bd93ab0b1a46a9c",
+      "publishedSha256": "0f443cf42adc7860aa08b0a7fdd8d1ba4f4dbc43da3a74d79bd93ab0b1a46a9c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_expansion_assets.py",
+      "path": "Unreal/Philadelphia/Scripts/import_expansion_assets.py",
+      "sourceSha256": "aa4d512d9e2515e704cf3fe78737f3512bcda07d71aeae3fca0e8f5e99b30a8a",
+      "publishedSha256": "aa4d512d9e2515e704cf3fe78737f3512bcda07d71aeae3fca0e8f5e99b30a8a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_museum.py",
+      "path": "Unreal/Philadelphia/Scripts/import_museum.py",
+      "sourceSha256": "51cdfdb9663b5db152dc3227cd6d35c1cef5414b85a35ac229b3f8936250183d",
+      "publishedSha256": "51cdfdb9663b5db152dc3227cd6d35c1cef5414b85a35ac229b3f8936250183d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_museum_stairs.py",
+      "path": "Unreal/Philadelphia/Scripts/import_museum_stairs.py",
+      "sourceSha256": "2b6db9749ebb99e1f7bbe4d879f2ce7fd25b13b4363907247b5c752ca2e97712",
+      "publishedSha256": "2b6db9749ebb99e1f7bbe4d879f2ce7fd25b13b4363907247b5c752ca2e97712",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_museum_terrace.py",
+      "path": "Unreal/Philadelphia/Scripts/import_museum_terrace.py",
+      "sourceSha256": "6b0f243d0d62458b98832099215875dcaa3c1455c6097bea99050c6d76f42153",
+      "publishedSha256": "6b0f243d0d62458b98832099215875dcaa3c1455c6097bea99050c6d76f42153",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_museum_wing.py",
+      "path": "Unreal/Philadelphia/Scripts/import_museum_wing.py",
+      "sourceSha256": "cdd7aeefd761ffbc6330f44eb08b30663149872261189b26a9a6812e85478dc6",
+      "publishedSha256": "cdd7aeefd761ffbc6330f44eb08b30663149872261189b26a9a6812e85478dc6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_nearby_sources.py",
+      "path": "Unreal/Philadelphia/Scripts/import_nearby_sources.py",
+      "sourceSha256": "7852ee9004e01c8667c6edb0fb5681e32edfb4bdc4aec22382856187fb9ffae5",
+      "publishedSha256": "7852ee9004e01c8667c6edb0fb5681e32edfb4bdc4aec22382856187fb9ffae5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/import_street_kit.py",
+      "path": "Unreal/Philadelphia/Scripts/import_street_kit.py",
+      "sourceSha256": "28648aaa54ef30c13cedd41dfdc7820dc489805cc9ef490e09846bc52b52b99c",
+      "publishedSha256": "28648aaa54ef30c13cedd41dfdc7820dc489805cc9ef490e09846bc52b52b99c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/inspect_materials.py",
+      "path": "Unreal/Philadelphia/Scripts/inspect_materials.py",
+      "sourceSha256": "0ab7daccd59455daffc84440ae9cdffc37a2558449021406e3dfbb1ee5584723",
+      "publishedSha256": "0ab7daccd59455daffc84440ae9cdffc37a2558449021406e3dfbb1ee5584723",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/mask_museum_ground.py",
+      "path": "Unreal/Philadelphia/Scripts/mask_museum_ground.py",
+      "sourceSha256": "6ad4a21fc7a2eb495778bd8be6bd713c0746fbb3ffda9ac6053ce801c559a3f9",
+      "publishedSha256": "6ad4a21fc7a2eb495778bd8be6bd713c0746fbb3ffda9ac6053ce801c559a3f9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/prepare_district.py",
+      "path": "Unreal/Philadelphia/Scripts/prepare_district.py",
+      "sourceSha256": "ebce80983f52cb2b6532490182efb0bdd3c103df8665402189364dc835dc5854",
+      "publishedSha256": "ebce80983f52cb2b6532490182efb0bdd3c103df8665402189364dc835dc5854",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/prepare_district_backdrop.py",
+      "path": "Unreal/Philadelphia/Scripts/prepare_district_backdrop.py",
+      "sourceSha256": "619e73f20f4ad2333c56233b83bdac7948d80fd9cf0e4c6d9d9a7d7fddd7eea6",
+      "publishedSha256": "619e73f20f4ad2333c56233b83bdac7948d80fd9cf0e4c6d9d9a7d7fddd7eea6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/prepare_expansion_sources.py",
+      "path": "Unreal/Philadelphia/Scripts/prepare_expansion_sources.py",
+      "sourceSha256": "3505e6523647b757cb524d59aac92c781e035b767368426aa343b3882c658a59",
+      "publishedSha256": "3505e6523647b757cb524d59aac92c781e035b767368426aa343b3882c658a59",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/prepare_forward_sky.py",
+      "path": "Unreal/Philadelphia/Scripts/prepare_forward_sky.py",
+      "sourceSha256": "145a583ae32f3a094b0177d2b7b25160f3da3db207cb090305a9eb7e80151941",
+      "publishedSha256": "145a583ae32f3a094b0177d2b7b25160f3da3db207cb090305a9eb7e80151941",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/prepare_house_material.py",
+      "path": "Unreal/Philadelphia/Scripts/prepare_house_material.py",
+      "sourceSha256": "17d063f4672fd9e6df53100c9e802962425fe05bb5a5efdac9701d8c40367d85",
+      "publishedSha256": "17d063f4672fd9e6df53100c9e802962425fe05bb5a5efdac9701d8c40367d85",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/prepare_museum.py",
+      "path": "Unreal/Philadelphia/Scripts/prepare_museum.py",
+      "sourceSha256": "91e053e8c80cf63a82da4b47b554acc93321d38273b849607420c7b539f9cca6",
+      "publishedSha256": "91e053e8c80cf63a82da4b47b554acc93321d38273b849607420c7b539f9cca6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/prepare_south.py",
+      "path": "Unreal/Philadelphia/Scripts/prepare_south.py",
+      "sourceSha256": "e2320e9fcdd103abe8c266db1ba4e209de79f1ebfa3a1e06fc4df4057171d5d8",
+      "publishedSha256": "e2320e9fcdd103abe8c266db1ba4e209de79f1ebfa3a1e06fc4df4057171d5d8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/repair_evaluation.py",
+      "path": "Unreal/Philadelphia/Scripts/repair_evaluation.py",
+      "sourceSha256": "1cdb80bd6503443af70688447d0c4cf032af375def52dce921a2d2fd3708a189",
+      "publishedSha256": "1cdb80bd6503443af70688447d0c4cf032af375def52dce921a2d2fd3708a189",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/repair_surface_material.py",
+      "path": "Unreal/Philadelphia/Scripts/repair_surface_material.py",
+      "sourceSha256": "f6c4b8c16557f1480324e87a1bd0c47ff1d3fcdbe8962971a3636488a0df4b3d",
+      "publishedSha256": "f6c4b8c16557f1480324e87a1bd0c47ff1d3fcdbe8962971a3636488a0df4b3d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/terrain_clip.py",
+      "path": "Unreal/Philadelphia/Scripts/terrain_clip.py",
+      "sourceSha256": "5539ef8b5b46e8370e23a119777edc9ab386258b4f37dc1542e6b66951d90158",
+      "publishedSha256": "5539ef8b5b46e8370e23a119777edc9ab386258b4f37dc1542e6b66951d90158",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/terrain_conform.py",
+      "path": "Unreal/Philadelphia/Scripts/terrain_conform.py",
+      "sourceSha256": "3890cb82f507a4bf2a80d01fab9be73c4dc60c624da8982a129cc9bca503f977",
+      "publishedSha256": "3890cb82f507a4bf2a80d01fab9be73c4dc60c624da8982a129cc9bca503f977",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Scripts/validate_evaluation.py",
+      "path": "Unreal/Philadelphia/Scripts/validate_evaluation.py",
+      "sourceSha256": "abdbe4e4cebd9208dc33c306acfba6ccb38aad2d8415b9f36672bab0ee02b90c",
+      "publishedSha256": "abdbe4e4cebd9208dc33c306acfba6ccb38aad2d8415b9f36672bab0ee02b90c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/Philadelphia.Build.cs",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/Philadelphia.Build.cs",
+      "sourceSha256": "293a7eae54f2560f36d95cba7d0eee263d9bdfa014b6d4f8f276723297c60a1f",
+      "publishedSha256": "293a7eae54f2560f36d95cba7d0eee263d9bdfa014b6d4f8f276723297c60a1f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/Philadelphia.cpp",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/Philadelphia.cpp",
+      "sourceSha256": "329a3cb379b18c01f1d33cdcec639759cf3a840de081814edc71bb11b7e56a09",
+      "publishedSha256": "329a3cb379b18c01f1d33cdcec639759cf3a840de081814edc71bb11b7e56a09",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyDistrict.cpp",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/PhillyDistrict.cpp",
+      "sourceSha256": "8db538c31d51af70aaaaa01c868db4f2c838cba1f2a2b1d5bc02dda179252bc0",
+      "publishedSha256": "8db538c31d51af70aaaaa01c868db4f2c838cba1f2a2b1d5bc02dda179252bc0",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyDistrict.h",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/PhillyDistrict.h",
+      "sourceSha256": "dca43b6aac7993b4703395bd9deec36b1ca310c4bb9f65b9f050156d6b8fef75",
+      "publishedSha256": "dca43b6aac7993b4703395bd9deec36b1ca310c4bb9f65b9f050156d6b8fef75",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp",
+      "sourceSha256": "888631b309466eff1b0803763d78eba935c7be9c77ea8260346e7fe1d333688d",
+      "publishedSha256": "888631b309466eff1b0803763d78eba935c7be9c77ea8260346e7fe1d333688d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h",
+      "sourceSha256": "cb1e50fd742a141da5e3dccf7fa46d59fb5485c72546a7e00c4620a9f1b57dcb",
+      "publishedSha256": "cb1e50fd742a141da5e3dccf7fa46d59fb5485c72546a7e00c4620a9f1b57dcb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp",
+      "sourceSha256": "86a78a78c9671c1b22a81d9225c7b00c0738fab8f0d5e1f91b53109544aede39",
+      "publishedSha256": "86a78a78c9671c1b22a81d9225c7b00c0738fab8f0d5e1f91b53109544aede39",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.h",
+      "path": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.h",
+      "sourceSha256": "593cf2fb4d481ae795df93b43b84670c94b4d3692445e93ac65e14fc9a297e6a",
+      "publishedSha256": "593cf2fb4d481ae795df93b43b84670c94b4d3692445e93ac65e14fc9a297e6a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia.Target.cs",
+      "path": "Unreal/Philadelphia/Source/Philadelphia.Target.cs",
+      "sourceSha256": "ccbb633a3546ce08053db7dacdb2d7c63f560bf23503a91a00e8c17315b41cad",
+      "publishedSha256": "ccbb633a3546ce08053db7dacdb2d7c63f560bf23503a91a00e8c17315b41cad",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Source/PhiladelphiaEditor.Target.cs",
+      "path": "Unreal/Philadelphia/Source/PhiladelphiaEditor.Target.cs",
+      "sourceSha256": "b5d8a9f7b98723e9e6d93bd2d96e1c8c64d56fdad7141b37666d5872e0ef6429",
+      "publishedSha256": "b5d8a9f7b98723e9e6d93bd2d96e1c8c64d56fdad7141b37666d5872e0ef6429",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/manifest.json",
+      "sourceSha256": "e2e7882b3d316ed4ebafdf2eda820f846510d260429bd6fa4e1aa122c5fa24d2",
+      "publishedSha256": "e2e7882b3d316ed4ebafdf2eda820f846510d260429bd6fa4e1aa122c5fa24d2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0000/philly_0000-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0000/philly_0000-uv-corrected.verification.json",
+      "sourceSha256": "1f0cc672b300337303db2e0168fc7208dd7246e97fb4795e28cb23808fa6e4a4",
+      "publishedSha256": "1f0cc672b300337303db2e0168fc7208dd7246e97fb4795e28cb23808fa6e4a4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0001/philly_0001-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0001/philly_0001-uv-corrected.verification.json",
+      "sourceSha256": "15773c34667738f57ea9b9c9260332a514d5c8e4f473680da62f69af70606901",
+      "publishedSha256": "15773c34667738f57ea9b9c9260332a514d5c8e4f473680da62f69af70606901",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0021/philly_0021-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0021/philly_0021-uv-corrected.verification.json",
+      "sourceSha256": "77feaf8e53b1d243307ed07ba002206949353f16014d59b89f45bf7be64b6cc6",
+      "publishedSha256": "77feaf8e53b1d243307ed07ba002206949353f16014d59b89f45bf7be64b6cc6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0022/philly_0022-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0022/philly_0022-uv-corrected.verification.json",
+      "sourceSha256": "8aa302e5eee16536ed78e37a208cfab7413601de734cd5e0076560b1e49a1866",
+      "publishedSha256": "8aa302e5eee16536ed78e37a208cfab7413601de734cd5e0076560b1e49a1866",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0023/philly_0023-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0023/philly_0023-uv-corrected.verification.json",
+      "sourceSha256": "627e3efb1a0435a52bc5bbd5ba3910b27ef05e6deba7b4686fb36d9790b0de0f",
+      "publishedSha256": "627e3efb1a0435a52bc5bbd5ba3910b27ef05e6deba7b4686fb36d9790b0de0f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0024/philly_0024-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0024/philly_0024-uv-corrected.verification.json",
+      "sourceSha256": "2c00f5e314c4ef52dcf14931ab00b361b7ab484e4e51bd947a5a48da89af78f0",
+      "publishedSha256": "2c00f5e314c4ef52dcf14931ab00b361b7ab484e4e51bd947a5a48da89af78f0",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0025/philly_0025-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0025/philly_0025-uv-corrected.verification.json",
+      "sourceSha256": "44e3b65cfbc27d4da61ea2e8fd64c4c4587577903e1342429f4c4a4f133fc545",
+      "publishedSha256": "44e3b65cfbc27d4da61ea2e8fd64c4c4587577903e1342429f4c4a4f133fc545",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0027/philly_0027-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0027/philly_0027-uv-corrected.verification.json",
+      "sourceSha256": "b8a71d5f327f5e2aedbef0adc18f5164bb7e67d3b1580cc72e77c172ac9dc4ac",
+      "publishedSha256": "b8a71d5f327f5e2aedbef0adc18f5164bb7e67d3b1580cc72e77c172ac9dc4ac",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0032/philly_0032-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0032/philly_0032-uv-corrected.verification.json",
+      "sourceSha256": "53c4aee7f7ad8bdc1fa01c9d63b579636831c98f6cc48462bf3c96eab2e3da3f",
+      "publishedSha256": "53c4aee7f7ad8bdc1fa01c9d63b579636831c98f6cc48462bf3c96eab2e3da3f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0033/philly_0033-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0033/philly_0033-uv-corrected.verification.json",
+      "sourceSha256": "6805782e5a73be3bcc399902f634a36e6f11f053bdb9b55f2abc1445805b6103",
+      "publishedSha256": "6805782e5a73be3bcc399902f634a36e6f11f053bdb9b55f2abc1445805b6103",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0051/philly_0051-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0051/philly_0051-uv-corrected.verification.json",
+      "sourceSha256": "1069fda4780684c3ce0d49adafa6e3f6162251905d9b10e10d1296d41fc5cece",
+      "publishedSha256": "1069fda4780684c3ce0d49adafa6e3f6162251905d9b10e10d1296d41fc5cece",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0052/philly_0052-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0052/philly_0052-uv-corrected.verification.json",
+      "sourceSha256": "ea64b912a8ded36419e533f1699ae80d72ab0d5604addec48f990c90ffbeae55",
+      "publishedSha256": "ea64b912a8ded36419e533f1699ae80d72ab0d5604addec48f990c90ffbeae55",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0053/philly_0053-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0053/philly_0053-uv-corrected.verification.json",
+      "sourceSha256": "4b759d8ae1b5685822678c96b7c77012cc8c98040c0b1afa79258cd65b2e1caa",
+      "publishedSha256": "4b759d8ae1b5685822678c96b7c77012cc8c98040c0b1afa79258cd65b2e1caa",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0054/philly_0054-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0054/philly_0054-uv-corrected.verification.json",
+      "sourceSha256": "e3037cd0f67fefd41650b4742f5fb56a857bcf7c6942dcb5a6257e210b8edb2c",
+      "publishedSha256": "e3037cd0f67fefd41650b4742f5fb56a857bcf7c6942dcb5a6257e210b8edb2c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0067/philly_0067-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0067/philly_0067-uv-corrected.verification.json",
+      "sourceSha256": "02f16359040f879ac99a159739f3a917b4505b044259cb1442304bd70fe52237",
+      "publishedSha256": "02f16359040f879ac99a159739f3a917b4505b044259cb1442304bd70fe52237",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0068/philly_0068-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0068/philly_0068-uv-corrected.verification.json",
+      "sourceSha256": "3ac7497468e9ab57e5c5d3bc81cd9fbd295002dcff900acb7ab33763b556eaba",
+      "publishedSha256": "3ac7497468e9ab57e5c5d3bc81cd9fbd295002dcff900acb7ab33763b556eaba",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0073/philly_0073-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0073/philly_0073-uv-corrected.verification.json",
+      "sourceSha256": "c9c88131e9670dc8c13fae3c33f96750b16c5f1fab248ee7fce046d9e15284c9",
+      "publishedSha256": "c9c88131e9670dc8c13fae3c33f96750b16c5f1fab248ee7fce046d9e15284c9",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0074/philly_0074-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0074/philly_0074-uv-corrected.verification.json",
+      "sourceSha256": "f4ee6ede769625e823bff0dbc321c6fa8d0e6a1f5e168b51054501e2f4599794",
+      "publishedSha256": "f4ee6ede769625e823bff0dbc321c6fa8d0e6a1f5e168b51054501e2f4599794",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0078/philly_0078-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0078/philly_0078-uv-corrected.verification.json",
+      "sourceSha256": "ad0f2e53d2e7e87d3a6c842fd44bae8de22e964455e33e3b12c95acbcda56724",
+      "publishedSha256": "ad0f2e53d2e7e87d3a6c842fd44bae8de22e964455e33e3b12c95acbcda56724",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0081/philly_0081-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0081/philly_0081-uv-corrected.verification.json",
+      "sourceSha256": "2c28ce7ae2bbe7c36c041f14abc46ff6bc32c848a012e1a4038838c3654eca21",
+      "publishedSha256": "2c28ce7ae2bbe7c36c041f14abc46ff6bc32c848a012e1a4038838c3654eca21",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0083/philly_0083-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0083/philly_0083-uv-corrected.verification.json",
+      "sourceSha256": "9ea2272a4aad9df74721269fcb348b4a46271c10f4a2781876e7a8fb2fa93393",
+      "publishedSha256": "9ea2272a4aad9df74721269fcb348b4a46271c10f4a2781876e7a8fb2fa93393",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0084/philly_0084-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0084/philly_0084-uv-corrected.verification.json",
+      "sourceSha256": "b2b2647982fd95e35ca21b608a3fc858ca1f28a4119ef5c6172f9e92085810e2",
+      "publishedSha256": "b2b2647982fd95e35ca21b608a3fc858ca1f28a4119ef5c6172f9e92085810e2",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0086/philly_0086-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0086/philly_0086-uv-corrected.verification.json",
+      "sourceSha256": "0008b9f4407837aca9afab9fb448c93bf1e8b590f6c44847e1d0e23c54ef62ea",
+      "publishedSha256": "0008b9f4407837aca9afab9fb448c93bf1e8b590f6c44847e1d0e23c54ef62ea",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0087/philly_0087-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0087/philly_0087-uv-corrected.verification.json",
+      "sourceSha256": "9fe6cb79edf03f1cfbfaf1ad222da04a0ad401e7c0fdf56059ef00021b467ab3",
+      "publishedSha256": "9fe6cb79edf03f1cfbfaf1ad222da04a0ad401e7c0fdf56059ef00021b467ab3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0088/philly_0088-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/DowntownExpansion/philly_0088/philly_0088-uv-corrected.verification.json",
+      "sourceSha256": "0ca928cd34a7817f711b1cf646e5ddaf4de964eacbe6d4162b75aac03ab206a3",
+      "publishedSha256": "0ca928cd34a7817f711b1cf646e5ddaf4de964eacbe6d4162b75aac03ab206a3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/fairmount/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/fairmount/manifest.json",
+      "sourceSha256": "92453a6f4445900ae304f0f2fd376e7c02b11eb969bfb1d09d7db87c7fb7ac32",
+      "publishedSha256": "92453a6f4445900ae304f0f2fd376e7c02b11eb969bfb1d09d7db87c7fb7ac32",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/fairmount/prepared-buildings.json",
+      "path": "Unreal/Philadelphia/SourceAssets/fairmount/prepared-buildings.json",
+      "sourceSha256": "022d6c66284dffb3e1c30d3a16b396fcc59af0502455b757d758f067b2047204",
+      "publishedSha256": "022d6c66284dffb3e1c30d3a16b396fcc59af0502455b757d758f067b2047204",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Museum/details/source.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Museum/details/source.json",
+      "sourceSha256": "2c66f92d127a2aa87c28e3612ecd7603e34038d7bf58fe790c0a02268766f2c7",
+      "publishedSha256": "2c66f92d127a2aa87c28e3612ecd7603e34038d7bf58fe790c0a02268766f2c7",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Museum/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Museum/manifest.json",
+      "sourceSha256": "9270c45d90fd8042cc24272c5f77e395a1595dc889162dd703ea7bbea08fa87e",
+      "publishedSha256": "9270c45d90fd8042cc24272c5f77e395a1595dc889162dd703ea7bbea08fa87e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Museum/stone/source.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Museum/stone/source.json",
+      "sourceSha256": "436a9be52ae80c145b9893f4645cca81968d87d0206061580bdbe9ca91a60426",
+      "publishedSha256": "436a9be52ae80c145b9893f4645cca81968d87d0206061580bdbe9ca91a60426",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Museum/terrace/source.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Museum/terrace/source.json",
+      "sourceSha256": "b45692c64b031c0da10c182a356209e424fab758a96ca02e3c0ce527c640d49a",
+      "publishedSha256": "b45692c64b031c0da10c182a356209e424fab758a96ca02e3c0ce527c640d49a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Museum/wing/materials/PROVENANCE.md",
+      "path": "Unreal/Philadelphia/SourceAssets/Museum/wing/materials/PROVENANCE.md",
+      "sourceSha256": "2d3760f81bee004e6aca5a3dd99a6d1737c9cc3ccae181c2ca20fbcb5fec5f0a",
+      "publishedSha256": "2d3760f81bee004e6aca5a3dd99a6d1737c9cc3ccae181c2ca20fbcb5fec5f0a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Museum/wing/source.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Museum/wing/source.json",
+      "sourceSha256": "a7965dc3c9c83f9b157699c5425c3bd3733a3da846c0a784bf86a97e0a18553d",
+      "publishedSha256": "a7965dc3c9c83f9b157699c5425c3bd3733a3da846c0a784bf86a97e0a18553d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/manifest.json",
+      "sourceSha256": "3d3056568e2994c1732d70fa6bdbdfaeb21096fe1f2c02f9d7096642b987feab",
+      "publishedSha256": "3d3056568e2994c1732d70fa6bdbdfaeb21096fe1f2c02f9d7096642b987feab",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0055/philly_0055-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0055/philly_0055-uv-corrected.verification.json",
+      "sourceSha256": "ecaaca402ef1726cf57672da02db4c85e4fee75a2b83e0eafb2e7c55e3abffd3",
+      "publishedSha256": "ecaaca402ef1726cf57672da02db4c85e4fee75a2b83e0eafb2e7c55e3abffd3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0055/philly_0055.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0055/philly_0055.verification.json",
+      "sourceSha256": "ef14d546d7c9258b8d44670dc0ee36c1c30fca62c9d13221069d94b14b3145d0",
+      "publishedSha256": "ef14d546d7c9258b8d44670dc0ee36c1c30fca62c9d13221069d94b14b3145d0",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0056/philly_0056-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0056/philly_0056-uv-corrected.verification.json",
+      "sourceSha256": "f6dc24a3d244b8ec722e4a90f17282f50c312fffaa04feb88c1bb801e49fd693",
+      "publishedSha256": "f6dc24a3d244b8ec722e4a90f17282f50c312fffaa04feb88c1bb801e49fd693",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0056/philly_0056.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0056/philly_0056.verification.json",
+      "sourceSha256": "fa7ea6afd5087c5481fdcb970e62ab0be05c7f841c3b2fb71423b2729abe0a21",
+      "publishedSha256": "fa7ea6afd5087c5481fdcb970e62ab0be05c7f841c3b2fb71423b2729abe0a21",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0057/philly_0057-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0057/philly_0057-uv-corrected.verification.json",
+      "sourceSha256": "72a3e708ff58947c1db505625de8f8264023b06a366af4f787dcace91a6d0f7d",
+      "publishedSha256": "72a3e708ff58947c1db505625de8f8264023b06a366af4f787dcace91a6d0f7d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0057/philly_0057.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0057/philly_0057.verification.json",
+      "sourceSha256": "f6b63cf069515783805ef4238b5a0bfabda7f562aaa9197104d251ab2430ea57",
+      "publishedSha256": "f6b63cf069515783805ef4238b5a0bfabda7f562aaa9197104d251ab2430ea57",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0058/philly_0058-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0058/philly_0058-uv-corrected.verification.json",
+      "sourceSha256": "bcf23c1fd6d9c51b90b250e5f9fda931cb8e6ff33ccd2ebb86dccfbded2dbd1d",
+      "publishedSha256": "bcf23c1fd6d9c51b90b250e5f9fda931cb8e6ff33ccd2ebb86dccfbded2dbd1d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0058/philly_0058.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0058/philly_0058.verification.json",
+      "sourceSha256": "a37e3dca0ee6ca65647525b844cbad686b1254376f27c3a0fdb00ffdd09003fe",
+      "publishedSha256": "a37e3dca0ee6ca65647525b844cbad686b1254376f27c3a0fdb00ffdd09003fe",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0059/philly_0059-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0059/philly_0059-uv-corrected.verification.json",
+      "sourceSha256": "fbfe51ec4862cbb8bc02258385256ae752337698db6a8c872388d668d816100a",
+      "publishedSha256": "fbfe51ec4862cbb8bc02258385256ae752337698db6a8c872388d668d816100a",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0059/philly_0059.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0059/philly_0059.verification.json",
+      "sourceSha256": "4d1b82bfd45e2c58e4865eec0bc42d8014a07e76cacf93a4e409ae8419c315e0",
+      "publishedSha256": "4d1b82bfd45e2c58e4865eec0bc42d8014a07e76cacf93a4e409ae8419c315e0",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0060/philly_0060-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0060/philly_0060-uv-corrected.verification.json",
+      "sourceSha256": "b064aa3e1761703e25ff8b4510ad41d412a6af90e31a6879bb7a3debe982bbab",
+      "publishedSha256": "b064aa3e1761703e25ff8b4510ad41d412a6af90e31a6879bb7a3debe982bbab",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0060/philly_0060.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0060/philly_0060.verification.json",
+      "sourceSha256": "b5f041fad47d4e172d3dda4f092d45b459252bd220e4bf0cfcee18a3a587b389",
+      "publishedSha256": "b5f041fad47d4e172d3dda4f092d45b459252bd220e4bf0cfcee18a3a587b389",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0061/philly_0061-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0061/philly_0061-uv-corrected.verification.json",
+      "sourceSha256": "dc49ba44180831c899746bf330153ae684b37ebc60a9d51f8b38233e69c32a3d",
+      "publishedSha256": "dc49ba44180831c899746bf330153ae684b37ebc60a9d51f8b38233e69c32a3d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0061/philly_0061.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0061/philly_0061.verification.json",
+      "sourceSha256": "f2848cca86144a09a8c71bae0fd00ffc081a10bdac9ca74d443c287c8d790a13",
+      "publishedSha256": "f2848cca86144a09a8c71bae0fd00ffc081a10bdac9ca74d443c287c8d790a13",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0062/philly_0062-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0062/philly_0062-uv-corrected.verification.json",
+      "sourceSha256": "3f2edf4532388223bfc807154152b3eb0f13be87e2bafbd17d2eef6fa3806c8f",
+      "publishedSha256": "3f2edf4532388223bfc807154152b3eb0f13be87e2bafbd17d2eef6fa3806c8f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0062/philly_0062.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0062/philly_0062.verification.json",
+      "sourceSha256": "960d280ee81fb30d37f1d46de6dd50ff59617ff3c4a5a5e98dbced386c9f3fde",
+      "publishedSha256": "960d280ee81fb30d37f1d46de6dd50ff59617ff3c4a5a5e98dbced386c9f3fde",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0063/philly_0063-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0063/philly_0063-uv-corrected.verification.json",
+      "sourceSha256": "fe6a09f5e4f080dafe1dc4949c839eb036540a4f3e90fcb9cf04a716bb70dc2d",
+      "publishedSha256": "fe6a09f5e4f080dafe1dc4949c839eb036540a4f3e90fcb9cf04a716bb70dc2d",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0063/philly_0063.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0063/philly_0063.verification.json",
+      "sourceSha256": "eb54dcc194e9e3322d7db6f7189bf1d8b3960d3fa585f478ea1c482c46517bc6",
+      "publishedSha256": "eb54dcc194e9e3322d7db6f7189bf1d8b3960d3fa585f478ea1c482c46517bc6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0064/philly_0064-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0064/philly_0064-uv-corrected.verification.json",
+      "sourceSha256": "6775ea2c287363a32eb5e0b9a9ffdc10cb2fbbc4c1d753ea10fee04718ab9ddb",
+      "publishedSha256": "6775ea2c287363a32eb5e0b9a9ffdc10cb2fbbc4c1d753ea10fee04718ab9ddb",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0064/philly_0064.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0064/philly_0064.verification.json",
+      "sourceSha256": "7eab159f7454823ff9ce201a5fac525ad597d93d6ce40d051eda83a0d46dd873",
+      "publishedSha256": "7eab159f7454823ff9ce201a5fac525ad597d93d6ce40d051eda83a0d46dd873",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0065/philly_0065-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0065/philly_0065-uv-corrected.verification.json",
+      "sourceSha256": "35e079b88d6d4fca73efa5f5dca4cd74ac1afb5da7b6426568e1e06034f1b528",
+      "publishedSha256": "35e079b88d6d4fca73efa5f5dca4cd74ac1afb5da7b6426568e1e06034f1b528",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0065/philly_0065.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0065/philly_0065.verification.json",
+      "sourceSha256": "77af854573e04b4114f42aa295454b8465e1cf97d3f82aea419835aa0036ffe5",
+      "publishedSha256": "77af854573e04b4114f42aa295454b8465e1cf97d3f82aea419835aa0036ffe5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0066/philly_0066-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0066/philly_0066-uv-corrected.verification.json",
+      "sourceSha256": "554ebcf2803c736728fc586ec7324eb86aab928013df1902e6309734de539a5e",
+      "publishedSha256": "554ebcf2803c736728fc586ec7324eb86aab928013df1902e6309734de539a5e",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0066/philly_0066.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0066/philly_0066.verification.json",
+      "sourceSha256": "76f1a96bb2fceaa646612a949b37085fee33e64b24317a396393f17d5fa0fbd7",
+      "publishedSha256": "76f1a96bb2fceaa646612a949b37085fee33e64b24317a396393f17d5fa0fbd7",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0069/philly_0069-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0069/philly_0069-uv-corrected.verification.json",
+      "sourceSha256": "5fac5e388d89e85f7b7661f4da14dcdc92c9c2bde9ed45951e73186dcc6e9ca1",
+      "publishedSha256": "5fac5e388d89e85f7b7661f4da14dcdc92c9c2bde9ed45951e73186dcc6e9ca1",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0069/philly_0069.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0069/philly_0069.verification.json",
+      "sourceSha256": "bebca7dbd7a38e120336080fa5ebdde88f93f1b0a75875044f73bee1f35e9564",
+      "publishedSha256": "bebca7dbd7a38e120336080fa5ebdde88f93f1b0a75875044f73bee1f35e9564",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0070/philly_0070-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0070/philly_0070-uv-corrected.verification.json",
+      "sourceSha256": "d3573005ba99e708594a3a7748d09e141ab451e5b2e8cd74bf83b1b0836eb955",
+      "publishedSha256": "d3573005ba99e708594a3a7748d09e141ab451e5b2e8cd74bf83b1b0836eb955",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0070/philly_0070.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0070/philly_0070.verification.json",
+      "sourceSha256": "fc064aead90c17a5a9ad194337886bb1477c9fc4d3f0d17ec5b0e7d6b7d306aa",
+      "publishedSha256": "fc064aead90c17a5a9ad194337886bb1477c9fc4d3f0d17ec5b0e7d6b7d306aa",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0085/philly_0085-uv-corrected.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0085/philly_0085-uv-corrected.verification.json",
+      "sourceSha256": "8df1b4920e66fe9123d2361ff549a45cad6913a54572b475c12e625894e1f423",
+      "publishedSha256": "8df1b4920e66fe9123d2361ff549a45cad6913a54572b475c12e625894e1f423",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0085/philly_0085.verification.json",
+      "path": "Unreal/Philadelphia/SourceAssets/Nearby/philly_0085/philly_0085.verification.json",
+      "sourceSha256": "10ee3ea0548b1c403722060675bbb3555dec90ee72612cc29e99d0957402c724",
+      "publishedSha256": "10ee3ea0548b1c403722060675bbb3555dec90ee72612cc29e99d0957402c724",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/north/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/north/manifest.json",
+      "sourceSha256": "676e395a3e2d723990213f74ee56a48625839ef2425103f674838339cabcba78",
+      "publishedSha256": "676e395a3e2d723990213f74ee56a48625839ef2425103f674838339cabcba78",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/river/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/river/manifest.json",
+      "sourceSha256": "ea314780448569dc48fea95f87629cdc9c53738b529497961afc94c38318b708",
+      "publishedSha256": "ea314780448569dc48fea95f87629cdc9c53738b529497961afc94c38318b708",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/river/prepared-buildings.json",
+      "path": "Unreal/Philadelphia/SourceAssets/river/prepared-buildings.json",
+      "sourceSha256": "9a841957f1a494c62a9073f897b49459723cb90ffbbf7a3a28ae4b0e6f506151",
+      "publishedSha256": "9a841957f1a494c62a9073f897b49459723cb90ffbbf7a3a28ae4b0e6f506151",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/South/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/South/manifest.json",
+      "sourceSha256": "5dfc677f4530e7fbbe4e0abef583118ff5c19c36077b7da9493ffa28b8dff189",
+      "publishedSha256": "5dfc677f4530e7fbbe4e0abef583118ff5c19c36077b7da9493ffa28b8dff189",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/SourceAssets/west/manifest.json",
+      "path": "Unreal/Philadelphia/SourceAssets/west/manifest.json",
+      "sourceSha256": "66b0f773069694fbd570d3987958be50210bbd66e89436025ec8e677d8ab6c8c",
+      "publishedSha256": "66b0f773069694fbd570d3987958be50210bbd66e89436025ec8e677d8ab6c8c",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/build-museum-stairs.py",
+      "path": "Unreal/Philadelphia/Tools/build-museum-stairs.py",
+      "sourceSha256": "80acb5e71959c79ccba8141ddcae090e21f538eefd3c25c5869181d6474160ab",
+      "publishedSha256": "80acb5e71959c79ccba8141ddcae090e21f538eefd3c25c5869181d6474160ab",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/build-museum-terrace.py",
+      "path": "Unreal/Philadelphia/Tools/build-museum-terrace.py",
+      "sourceSha256": "1d7ca75f89120534097024b3abd0b27f5dbf361b08aa2dc600dd93b93f3bb3aa",
+      "publishedSha256": "1d7ca75f89120534097024b3abd0b27f5dbf361b08aa2dc600dd93b93f3bb3aa",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/build-museum-wing.py",
+      "path": "Unreal/Philadelphia/Tools/build-museum-wing.py",
+      "sourceSha256": "edba1c6a1a4fb41944a55e5b952b9d332dcea002e5be9286f6d3118a16f883a3",
+      "publishedSha256": "edba1c6a1a4fb41944a55e5b952b9d332dcea002e5be9286f6d3118a16f883a3",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/build-south-houses.mjs",
+      "path": "Unreal/Philadelphia/Tools/build-south-houses.mjs",
+      "sourceSha256": "39f13add65aba02b25a9021bfdc23d328b451fa2d845f1ca8db6e1b634b42b12",
+      "publishedSha256": "39f13add65aba02b25a9021bfdc23d328b451fa2d845f1ca8db6e1b634b42b12",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/build.ps1",
+      "path": "Unreal/Philadelphia/Tools/build.ps1",
+      "sourceSha256": "32afa8093649b0e27ad6c5dd2d9d10056a576a7881ce3349e11070168a31f6d6",
+      "publishedSha256": "32afa8093649b0e27ad6c5dd2d9d10056a576a7881ce3349e11070168a31f6d6",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/capture-museum.py",
+      "path": "Unreal/Philadelphia/Tools/capture-museum.py",
+      "sourceSha256": "fcd8dc038ea8b1ed5402b53b7d14333eaaa95a02603b639a076a354ab8eeffa5",
+      "publishedSha256": "fcd8dc038ea8b1ed5402b53b7d14333eaaa95a02603b639a076a354ab8eeffa5",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/fetch-museum-stone.py",
+      "path": "Unreal/Philadelphia/Tools/fetch-museum-stone.py",
+      "sourceSha256": "3d5d6ea1cd99bccdd48c38238be7a89c2f5b2781f8d787ed16c0ecaa8c422b3b",
+      "publishedSha256": "3d5d6ea1cd99bccdd48c38238be7a89c2f5b2781f8d787ed16c0ecaa8c422b3b",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/fetch-museum.mjs",
+      "path": "Unreal/Philadelphia/Tools/fetch-museum.mjs",
+      "sourceSha256": "6e27abd05ac226f05eb6e020f64719fae05b37cc2e025d5d0679fb12526695f8",
+      "publishedSha256": "6e27abd05ac226f05eb6e020f64719fae05b37cc2e025d5d0679fb12526695f8",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/fetch-neighborhoods.mjs",
+      "path": "Unreal/Philadelphia/Tools/fetch-neighborhoods.mjs",
+      "sourceSha256": "7afc637e7289e3e83c451f211c65924f059e4a3d2dec4e5f1bf916034201a304",
+      "publishedSha256": "7afc637e7289e3e83c451f211c65924f059e4a3d2dec4e5f1bf916034201a304",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/fetch-south.mjs",
+      "path": "Unreal/Philadelphia/Tools/fetch-south.mjs",
+      "sourceSha256": "e025cad6b4d459edf8ca00eda90f87bb7d5bb0a0351aecd6736b3d6aeb2f57c4",
+      "publishedSha256": "e025cad6b4d459edf8ca00eda90f87bb7d5bb0a0351aecd6736b3d6aeb2f57c4",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/house-mesh-binary.mjs",
+      "path": "Unreal/Philadelphia/Tools/house-mesh-binary.mjs",
+      "sourceSha256": "00742d98c63afb49d1facfa4fcddc6b646957fb3804a11388a232b855749b78f",
+      "publishedSha256": "00742d98c63afb49d1facfa4fcddc6b646957fb3804a11388a232b855749b78f",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/import.ps1",
+      "path": "Unreal/Philadelphia/Tools/import.ps1",
+      "sourceSha256": "addc033ad52c8fbba37c1eaff5ba4950ddce2f9c365391d6ad3b2ad85d64b753",
+      "publishedSha256": "addc033ad52c8fbba37c1eaff5ba4950ddce2f9c365391d6ad3b2ad85d64b753",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "Unreal/Philadelphia/Tools/test-south.ps1",
+      "path": "Unreal/Philadelphia/Tools/test-south.ps1",
+      "sourceSha256": "71ba607e15c2f2be425e75fa02a7f371177e0935651c198b337657042bae9bf7",
+      "publishedSha256": "71ba607e15c2f2be425e75fa02a7f371177e0935651c198b337657042bae9bf7",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "VERIFICATION.md",
+      "path": "VERIFICATION.md",
+      "sourceSha256": "d474feea1f159fa04384eb704334e98d483a68c6ca1b1f1d9595cba60db06a28",
+      "publishedSha256": "d474feea1f159fa04384eb704334e98d483a68c6ca1b1f1d9595cba60db06a28",
+      "transformed": false
+    },
+    {
+      "origin": "canonical",
+      "sourcePath": "vite.config.js",
+      "path": "vite.config.js",
+      "sourceSha256": "bb7fb185bd051545c4f67b73f5ed3c6cd18b679797d3fa1241ea1c0fc5efd8c2",
+      "publishedSha256": "bb7fb185bd051545c4f67b73f5ed3c6cd18b679797d3fa1241ea1c0fc5efd8c2",
+      "transformed": false
+    },
+    {
+      "origin": "september-baseline",
+      "sourcePath": "tests/test_unreal_geo.py",
+      "bytes": 1908,
+      "sha256": "21bf146e5163de2518e7ef31f30c7e2c76cce00538c550b6d4968e81bd0cd22c",
+      "decision": "duplicate",
+      "retainedAt": "tests/test_unreal_geo.py"
+    },
+    {
+      "origin": "september-baseline",
+      "sourcePath": "Unreal/Philadelphia/Scripts/geo_frame.py",
+      "bytes": 1046,
+      "sha256": "b9d13376fa44a38dde1541af2b866a8ac18ce4005250c78fd69238e9783f5bbb",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Scripts/geo_frame.py"
+    },
+    {
+      "origin": "input-reentry-baseline",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp",
+      "bytes": 34698,
+      "sha256": "888631b309466eff1b0803763d78eba935c7be9c77ea8260346e7fe1d333688d",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp"
+    },
+    {
+      "origin": "input-reentry-baseline",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h",
+      "bytes": 3887,
+      "sha256": "cb1e50fd742a141da5e3dccf7fa46d59fb5485c72546a7e00c4620a9f1b57dcb",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h"
+    },
+    {
+      "origin": "input-reentry-baseline",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp",
+      "bytes": 16119,
+      "sha256": "86a78a78c9671c1b22a81d9225c7b00c0738fab8f0d5e1f91b53109544aede39",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp"
+    },
+    {
+      "origin": "input-reentry-candidate",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp",
+      "path": "archive/input-reentry/candidate/Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp",
+      "sourceSha256": "488c23cbfccf0cc95ab6a62cc5dc27bb229641b4af0bbb160066fab47e136da8",
+      "publishedSha256": "488c23cbfccf0cc95ab6a62cc5dc27bb229641b4af0bbb160066fab47e136da8",
+      "transformed": false
+    },
+    {
+      "origin": "input-reentry-candidate",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h",
+      "path": "archive/input-reentry/candidate/Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h",
+      "sourceSha256": "75e8a0489ca630516480ae200eaa5f1e34098cb2677741ff651d1e7ca1390efb",
+      "publishedSha256": "75e8a0489ca630516480ae200eaa5f1e34098cb2677741ff651d1e7ca1390efb",
+      "transformed": false
+    },
+    {
+      "origin": "input-reentry-candidate",
+      "sourcePath": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp",
+      "path": "archive/input-reentry/candidate/Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp",
+      "sourceSha256": "346fe7557f7326843f6434f9f8a0ff1cb3b265320507be40e3c5f8c8f44e86b6",
+      "publishedSha256": "346fe7557f7326843f6434f9f8a0ff1cb3b265320507be40e3c5f8c8f44e86b6",
+      "transformed": false
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/Philadelphia.Build.cs",
+      "bytes": 369,
+      "sha256": "293a7eae54f2560f36d95cba7d0eee263d9bdfa014b6d4f8f276723297c60a1f",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/Philadelphia.Build.cs"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/Philadelphia.cpp",
+      "bytes": 120,
+      "sha256": "329a3cb379b18c01f1d33cdcec639759cf3a840de081814edc71bb11b7e56a09",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/Philadelphia.cpp"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/PhillyDistrict.cpp",
+      "bytes": 26353,
+      "sha256": "8db538c31d51af70aaaaa01c868db4f2c838cba1f2a2b1d5bc02dda179252bc0",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyDistrict.cpp"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/PhillyDistrict.h",
+      "bytes": 2140,
+      "sha256": "dca43b6aac7993b4703395bd9deec36b1ca310c4bb9f65b9f050156d6b8fef75",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyDistrict.h"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/PhillyGameplay.cpp",
+      "bytes": 34698,
+      "sha256": "888631b309466eff1b0803763d78eba935c7be9c77ea8260346e7fe1d333688d",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/PhillyGameplay.h",
+      "bytes": 3887,
+      "sha256": "cb1e50fd742a141da5e3dccf7fa46d59fb5485c72546a7e00c4620a9f1b57dcb",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/PhillyMechanicsProbe.cpp",
+      "bytes": 17880,
+      "sha256": "346fe7557f7326843f6434f9f8a0ff1cb3b265320507be40e3c5f8c8f44e86b6",
+      "decision": "duplicate",
+      "retainedAt": "archive/input-reentry/candidate/Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia/PhillyMechanicsProbe.h",
+      "bytes": 1148,
+      "sha256": "593cf2fb4d481ae795df93b43b84670c94b4d3692445e93ac65e14fc9a297e6a",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.h"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/Philadelphia.Target.cs",
+      "bytes": 351,
+      "sha256": "ccbb633a3546ce08053db7dacdb2d7c63f560bf23503a91a00e8c17315b41cad",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/Philadelphia.Target.cs"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Source/PhiladelphiaEditor.Target.cs",
+      "bytes": 365,
+      "sha256": "b5d8a9f7b98723e9e6d93bd2d96e1c8c64d56fdad7141b37666d5872e0ef6429",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Source/PhiladelphiaEditor.Target.cs"
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Config/DefaultEngine.ini",
+      "path": "archive/native-slot/Config/DefaultEngine.ini",
+      "sourceSha256": "4371c8fa5b0fc5ab14c56b4d37087ebca1e02cf428c725639f88d60f4e4fd0ef",
+      "publishedSha256": "729b6d0daa8a58c9c96b2b0d1656213e92650626dd564d09c02365816b6e40e9",
+      "transformed": true
+    },
+    {
+      "origin": "native-slot",
+      "sourcePath": "Config/DefaultInput.ini",
+      "bytes": 10045,
+      "sha256": "8ca1cc0656c1f7d2273de4ccf964acdd92b7b782cfe3d80558a8fbf4a74a35cb",
+      "decision": "duplicate",
+      "retainedAt": "Unreal/Philadelphia/Config/DefaultInput.ini"
+    },
+    {
+      "origin": "checkpoint-tools",
+      "sourcePath": "native-build.ps1",
+      "path": "archive/checkpoint-tools/native-build.ps1",
+      "sourceSha256": "bfe7eed81d9b2391e2ee6901c380eac0bcab06a81cae2777a1ad744bc6cfd499",
+      "publishedSha256": "bfe7eed81d9b2391e2ee6901c380eac0bcab06a81cae2777a1ad744bc6cfd499",
+      "transformed": false
+    },
+    {
+      "origin": "checkpoint-tools",
+      "sourcePath": "native-input-reentry.patch",
+      "path": "archive/checkpoint-tools/native-input-reentry.patch",
+      "sourceSha256": "915b1cfddcdaacc7731d9ecc8f922db72cfef5348b26c69730801bee0e886f4b",
+      "publishedSha256": "915b1cfddcdaacc7731d9ecc8f922db72cfef5348b26c69730801bee0e886f4b",
+      "transformed": false
+    },
+    {
+      "origin": "checkpoint-tools",
+      "sourcePath": "native-slot-checks.ps1",
+      "path": "archive/checkpoint-tools/native-slot-checks.ps1",
+      "sourceSha256": "d854081aaa9d5a417b48d3355e25223a8340d74e5d6620d38d171f4290114e54",
+      "publishedSha256": "d854081aaa9d5a417b48d3355e25223a8340d74e5d6620d38d171f4290114e54",
+      "transformed": false
+    },
+    {
+      "origin": "checkpoint-tools",
+      "sourcePath": "prepare-native-slot.ps1",
+      "path": "archive/checkpoint-tools/prepare-native-slot.ps1",
+      "sourceSha256": "947f715b43be4e22f0fcb4e594209e42b6139196c2dbbada012f56113654ec74",
+      "publishedSha256": "947f715b43be4e22f0fcb4e594209e42b6139196c2dbbada012f56113654ec74",
+      "transformed": false
+    },
+    {
+      "origin": "checkpoint-tools",
+      "sourcePath": "run-native-slot.ps1",
+      "path": "archive/checkpoint-tools/run-native-slot.ps1",
+      "sourceSha256": "6a03cefd99ce9ff47ef3cad57b290e0f8b224d03bf3d446678c101b4436543a5",
+      "publishedSha256": "6a03cefd99ce9ff47ef3cad57b290e0f8b224d03bf3d446678c101b4436543a5",
+      "transformed": false
+    },
+    {
+      "origin": "checkpoint-tools",
+      "sourcePath": "test-native-launch-guards.ps1",
+      "path": "archive/checkpoint-tools/test-native-launch-guards.ps1",
+      "sourceSha256": "c0ca05e2ad982496b0c12d8078d65aea29ecb6b4eddd52e66667b256b1caa666",
+      "publishedSha256": "c0ca05e2ad982496b0c12d8078d65aea29ecb6b4eddd52e66667b256b1caa666",
+      "transformed": false
+    },
+    {
+      "origin": "checkpoint-tools",
+      "sourcePath": "test-native-monitor-regressions.ps1",
+      "path": "archive/checkpoint-tools/test-native-monitor-regressions.ps1",
+      "sourceSha256": "850067ae05752ae2a19caad331c14261d4f307d11b1dfd15b72c1c1c87b00f8a",
+      "publishedSha256": "850067ae05752ae2a19caad331c14261d4f307d11b1dfd15b72c1c1c87b00f8a",
+      "transformed": false
+    },
+    {
+      "origin": "street-kit-fix",
+      "sourcePath": "project-default.patch",
+      "path": "repairs/street-kit-auto-import/project-default.patch",
+      "sourceSha256": "0096bf10677d7bbd7f4460b9f2ac4ac9fba3c48934b12a437e27771c331a478f",
+      "publishedSha256": "0096bf10677d7bbd7f4460b9f2ac4ac9fba3c48934b12a437e27771c331a478f",
+      "transformed": false
+    },
+    {
+      "origin": "street-kit-fix",
+      "sourcePath": "saved-settings-offline-only.patch",
+      "path": "repairs/street-kit-auto-import/saved-settings-offline-only.patch",
+      "sourceSha256": "eceaaabfd471bcaa5bae31c7e210e281b54187582be5d51b962b91ba107a0a3f",
+      "publishedSha256": "eceaaabfd471bcaa5bae31c7e210e281b54187582be5d51b962b91ba107a0a3f",
+      "transformed": false
+    },
+    {
+      "origin": "street-kit-fix",
+      "sourcePath": "verify_static.py",
+      "path": "repairs/street-kit-auto-import/verify_static.py",
+      "sourceSha256": "d3a4bf36eb9bf5e2bd6c6f94a5ebe39253d2d262eca71729412621238d0a1df0",
+      "publishedSha256": "2025ac3cb04384652eaa22d4ff02a058ceaf6a38ad221ba39686199c8393b6d1",
+      "transformed": true
+    },
+    {
+      "origin": "street-kit-fix",
+      "sourcePath": "Unreal/Philadelphia/Config/DefaultEditorPerProjectUserSettings.ini",
+      "path": "repairs/street-kit-auto-import/candidate/Unreal/Philadelphia/Config/DefaultEditorPerProjectUserSettings.ini",
+      "sourceSha256": "12f7d516cb50c11748c5f0d6b9eed31850a0ca68ca7fadd8c08364dc19036e56",
+      "publishedSha256": "12f7d516cb50c11748c5f0d6b9eed31850a0ca68ca7fadd8c08364dc19036e56",
+      "transformed": false
+    }
+  ],
+  "excluded": {
+    "asset/data/output; excluded from code-only publication": {
+      "files": 2627,
+      "bytes": 3340959503
+    },
+    "unrelated AGPilot application/installation code": {
+      "files": 397,
+      "bytes": 4046845
+    },
+    "machine-specific hardware experiment": {
+      "files": 27,
+      "bytes": 7875568
+    },
+    "unmodified upstream MakeHuman AGPL reference; not project-owned code": {
+      "files": 1,
+      "bytes": 6362
+    }
+  }
+}

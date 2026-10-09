@@ -1,0 +1,67 @@
+{
+  "method": "Exact triangle subtraction under retained near-ground museum surfaces; terrain Z interpolated from each original face",
+  "maskTriangles": 395,
+  "changedCells": [
+    {
+      "cell": "-20_17",
+      "removedSurfaceAreaM2": 862.020307505969,
+      "inputSha256": "35f64eff5de0c1929244487b4c3fa855b5be858f8eb3537b26ebf4aee2003f2e",
+      "outputSha256": "3aa4544894b9d169e1ee9669953586a5901b25488b6d7cdcb0ddd84c009f0336"
+    },
+    {
+      "cell": "-19_16",
+      "removedSurfaceAreaM2": 6719.250240759924,
+      "inputSha256": "885420e0d97aff6fdd4e518f071a149da8987e31181bcf8f15ce3ed349c96813",
+      "outputSha256": "913b313d35bccabcb1035cd3d1ad262b0d1ba27cab464b341c4ff762395aa2fd"
+    },
+    {
+      "cell": "-19_17",
+      "removedSurfaceAreaM2": 14308.5518493501,
+      "inputSha256": "12d20c0f9b1dd9192b6066a57b2837d091417fae2071e591107b37cdbf54ce57",
+      "outputSha256": "125832414edd6735cee44b0b202c38b9590510dedda3fa3222ed728b1dddb516"
+    },
+    {
+      "cell": "-19_18",
+      "removedSurfaceAreaM2": 4193.713758431841,
+      "inputSha256": "4ef3d462c1a7eafcc0a897aad7b7891b340b953688a085441f05475d78fcccac",
+      "outputSha256": "e21cb4be21aecbe697641f3b5e81c13117b8a00b37abb6f42256dd575691c624"
+    },
+    {
+      "cell": "-18_16",
+      "removedSurfaceAreaM2": 11677.085168858059,
+      "inputSha256": "5b5f1ab88ce7cd6f4dda32ec1e4c668efb5183aa1f84d6fd15ab83b743272991",
+      "outputSha256": "6053cfd805991a6ddbba861a2c42be0701d1c043e7ae7e3593104265594e9656"
+    },
+    {
+      "cell": "-18_17",
+      "removedSurfaceAreaM2": 16155.390600187471,
+      "inputSha256": "3f55f5f8b630aea8ddf9f44bd998ee8a599e4f0cb2947ad6171a1dc100887b0c",
+      "outputSha256": "4be017c8345d085599843d75fb777b154c972adbe0134bcb2ebb232f0d3167e8"
+    },
+    {
+      "cell": "-18_18",
+      "removedSurfaceAreaM2": 5452.5039453059435,
+      "inputSha256": "c861e48450abf580b32df48b646e0d5c701ea302e5b30cbb00b089fea059fa26",
+      "outputSha256": "36236ca3203604e5d19055fe511f97cc44821bdf6976f654d9f4727098d10014"
+    },
+    {
+      "cell": "-17_16",
+      "removedSurfaceAreaM2": 1342.3588798409328,
+      "inputSha256": "a11036dc43337eb4a14f30048f2bda3e4f7967efcb17c0b1b3c4e05f012587de",
+      "outputSha256": "1f7477d67a6b91eb823fccbf04e5d8ff1b6a78b0c8200c0e78380ea17b952781"
+    },
+    {
+      "cell": "-17_17",
+      "removedSurfaceAreaM2": 2403.6638379481155,
+      "inputSha256": "12224d15b57e6a9ce5140bc013c8a47286ae22058e25ba5711701f1f5c6ebfb4",
+      "outputSha256": "be83b055b65fa966022ecfd22c0921ce894697212de324d21f588b0f1c136e7f"
+    }
+  ],
+  "removedStackedSurfaceAreaM2": 63114.538588188356,
+  "sourceSha256": "bfec34ce9fe3f767f2cf655ee891d3c8def3831ca5198195ed8340fbe02b7de6",
+  "limits": [
+    "Summed area includes stacked terrain and pavement; not land coverage",
+    "Native visual and walk checks required",
+    "Curbs retained; source art remains historical"
+  ]
+}

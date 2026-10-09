@@ -1,0 +1,521 @@
+{
+  "source": "https://sketchfab.com/3d-models/2005-ford-mustang-gt-26b6b60cf2804370ac3c64424242dc1f",
+  "redistribution": "https://raw.githubusercontent.com/nesdesignco/FormDrive/main/public/models/mustang-2005.glb",
+  "author": "Ricy (https://sketchfab.com/ngon_3d)",
+  "license": "CC-BY-4.0",
+  "retrieved": "2026-09-11",
+  "sourceHash": "50028ce61dd4f6b210d710d354d2312f0a2cac0d24056d09d20f039abaaa243b",
+  "derivedHash": "48dc6e43a2838786713577f83db8a4c4ff51d08f189da5dc398d01439f9ca8c2",
+  "outputBytes": 7665484,
+  "axes": {
+    "up": "+Y",
+    "forward": "+Z",
+    "evidence": "Front-bumper vertices occupy positive Z; rear bumper and rear badge occupy negative Z. Source wheels rest on minimum Y."
+  },
+  "dimensionsMetres": {
+    "width": 2.1378531202277467,
+    "height": 1.4086397640068697,
+    "length": 4.77
+  },
+  "boundsMetres": {
+    "minimum": [
+      -1.0689265601138735,
+      -1.1102230246251565e-16,
+      -2.385
+    ],
+    "maximum": [
+      1.0689265601138733,
+      1.4086397640068695,
+      2.385
+    ]
+  },
+  "runtimeScale": 1,
+  "runtimeGroundOffset": 0,
+  "normalization": {
+    "scale": 1.106189033188633,
+    "translation": [
+      -0.008325863794956123,
+      -0.02315467132108489,
+      0.012550942047162112
+    ]
+  },
+  "originalTriangles": 82015,
+  "activeTriangles": 78531,
+  "removedNodes": [
+    {
+      "id": 7,
+      "name": "body_Material #1332_0",
+      "reason": "MUSTANG door-sill lettering overlay"
+    },
+    {
+      "id": 37,
+      "name": "rearbadge",
+      "reason": "Rear logo medallion, including its three child meshes"
+    },
+    {
+      "id": 60,
+      "name": "msngsteeringwheel_Material #437_0",
+      "reason": "Steering-wheel pony emblem"
+    },
+    {
+      "id": 93,
+      "name": "msngv6front bumper_Material #287_0",
+      "reason": "Front pony emblem; separate honeycomb grille mesh is retained"
+    },
+    {
+      "id": 28,
+      "name": "FrdPerofrmcRim_Aluminium Clean3_0",
+      "reason": "First wheel-cap lettering"
+    },
+    {
+      "id": 191,
+      "name": "FrdPerofrmcRim001_Aluminium Clean3_0",
+      "reason": "Second wheel-cap lettering"
+    },
+    {
+      "id": 199,
+      "name": "FrdPerofrmcRim002_Aluminium Clean3_0",
+      "reason": "Third wheel-cap lettering"
+    },
+    {
+      "id": 204,
+      "name": "FrdPerofrmcRim003_Aluminium Clean3_0",
+      "reason": "Fourth wheel-cap lettering"
+    }
+  ],
+  "cleanedMaterials": [
+    {
+      "id": 3,
+      "name": "Material_1332",
+      "removedSourceImage": 0,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 15,
+      "name": "rubbr2",
+      "removedSourceImage": 4,
+      "plainBaseColor": [
+        0.012,
+        0.012,
+        0.012,
+        1
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Material_1648",
+      "removedSourceImage": 5,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Material_274",
+      "removedSourceImage": 6,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Material_1344",
+      "removedSourceImage": 7,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Material_450",
+      "removedSourceImage": 9,
+      "plainBaseColor": [
+        0.006,
+        0.006,
+        0.006,
+        1
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Material_437",
+      "removedSourceImage": 10,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Material_844",
+      "removedSourceImage": 11,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Material_857",
+      "removedSourceImage": 12,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Material_1534",
+      "removedSourceImage": 14,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Material_287",
+      "removedSourceImage": 16,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Material_818",
+      "removedSourceImage": 18,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Material_806",
+      "removedSourceImage": 19,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Material_907",
+      "removedSourceImage": 20,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Material_921",
+      "removedSourceImage": 21,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Material_1003",
+      "removedSourceImage": 22,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Material_1015",
+      "removedSourceImage": 23,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Material_1079",
+      "removedSourceImage": 24,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Material_1094",
+      "removedSourceImage": 25,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Material_1110",
+      "removedSourceImage": 26,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Material_951",
+      "removedSourceImage": 27,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Material_964",
+      "removedSourceImage": 28,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Material_977",
+      "removedSourceImage": 29,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Material_1039",
+      "removedSourceImage": 30,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Material_1052",
+      "removedSourceImage": 31,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Material_1065",
+      "removedSourceImage": 32,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Material_1154",
+      "removedSourceImage": 33,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Material_1172",
+      "removedSourceImage": 34,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Material_1191",
+      "removedSourceImage": 35,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Material_1210",
+      "removedSourceImage": 36,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Material_1271",
+      "removedSourceImage": 26,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Material_881",
+      "removedSourceImage": 37,
+      "plainBaseColor": [
+        0.010105516980749005,
+        0.010105516980749005,
+        0.010105516980749005,
+        1
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Material_1554",
+      "removedSourceImage": 39,
+      "plainBaseColor": [
+        0.021272472185217446,
+        0.021272472185217446,
+        0.021272472185217446,
+        1
+      ]
+    }
+  ],
+  "retainedSourceImages": [
+    1,
+    2,
+    3,
+    8,
+    13,
+    15,
+    17,
+    38
+  ],
+  "wheels": [
+    {
+      "location": "front-left",
+      "rimRootNode": 24,
+      "rimRootName": "FrdPerofrmcRim",
+      "tireRootNode": 29,
+      "tireRootName": "tire",
+      "centerMetres": [
+        0.8128988524251557,
+        0.34881252656013695,
+        1.4725292884291181
+      ],
+      "radiusMetres": 0.3488125265601357,
+      "globalSpinAxis": "+X in normalized glTF scene; node-local pivots require conversion"
+    },
+    {
+      "location": "rear-left",
+      "rimRootNode": 187,
+      "rimRootName": "FrdPerofrmcRim001",
+      "tireRootNode": 192,
+      "tireRootName": "tire001",
+      "centerMetres": [
+        0.8128988524251561,
+        0.34881252656013756,
+        -1.2724291228069604
+      ],
+      "radiusMetres": 0.34881252656013567,
+      "globalSpinAxis": "+X in normalized glTF scene; node-local pivots require conversion"
+    },
+    {
+      "location": "rear-right",
+      "rimRootNode": 195,
+      "rimRootName": "FrdPerofrmcRim002",
+      "tireRootNode": 205,
+      "tireRootName": "tire002",
+      "centerMetres": [
+        -0.8102455442475405,
+        0.3488125265601363,
+        -1.271688921008967
+      ],
+      "radiusMetres": 0.34881252656013584,
+      "globalSpinAxis": "+X in normalized glTF scene; node-local pivots require conversion"
+    },
+    {
+      "location": "front-right",
+      "rimRootNode": 200,
+      "rimRootName": "FrdPerofrmcRim003",
+      "tireRootNode": 208,
+      "tireRootName": "tire003",
+      "centerMetres": [
+        -0.8102453298829084,
+        0.34881252656013567,
+        1.4732694902271115
+      ],
+      "radiusMetres": 0.3488125265601358,
+      "globalSpinAxis": "+X in normalized glTF scene; node-local pivots require conversion"
+    }
+  ],
+  "binaryChunkUnchanged": true,
+  "visualStatus": "Source texture contact sheet inspected. Prepared asset requires front/rear/side/wheel/interior inspection in the running renderer before acceptance. Original body geometry and all unmarked material bindings are preserved."
+}

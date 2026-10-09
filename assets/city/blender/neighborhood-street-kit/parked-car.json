@@ -1,0 +1,10 @@
+{
+  "kind": "parked-car",
+  "file": "assets/city/blender/neighborhood-street-kit/parked-car.glb",
+  "triangles": 78531,
+  "materialSlots": 1,
+  "source": "public/models/mustang-2005.glb",
+  "sourceMaterialSlots": 71,
+  "classification": "Baked parked variant, near visual acceptance required",
+  "sha256": "312e7c84b8c195a3dae6455d3424a81670f6a8d7faa0cf57ca224f3b7196c711"
+}

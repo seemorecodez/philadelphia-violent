@@ -1,0 +1,24 @@
+{
+  "classification": "Editable master and export only; native visual acceptance pending",
+  "origin": [
+    -75.15699856224472,
+    39.953127397972096,
+    32.73661771975458
+  ],
+  "sources": [
+    {
+      "layer": "SOURCE_REFERENCE",
+      "source": "public\\models\\city\\source-2740.glb",
+      "sha256": "5b366bf92839824f91b608003bef99095e923b459f3c71e706b27e3575daa532",
+      "mesh_objects": 1
+    },
+    {
+      "layer": "GAME_DETAIL",
+      "source": "public\\models\\city\\arch-street-facade-details.glb",
+      "sha256": "9331a2a497c620dcc773207958faa6670e8e56c11e7016ade4091b762062384a",
+      "mesh_objects": 1
+    }
+  ],
+  "blend": "arch-street-master.blend",
+  "export": "arch-street-detail.glb"
+}

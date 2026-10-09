@@ -1,0 +1,75 @@
+{
+  "asset": "philly-0000-remainder.glb",
+  "sha256": "cd4783f1378770b618d0c2db5379696bcf32b87ed1e50a240de1662a96db5bba",
+  "bytes": 3044,
+  "triangles": 14,
+  "placement": {
+    "longitude": -75.155178718,
+    "latitude": 39.955631756,
+    "height": 2.857313185,
+    "cesiumUpAxis": "Y",
+    "cesiumForwardAxis": "X"
+  },
+  "localEastNorthUpBoundsMeters": [
+    [
+      -37.56831346721086,
+      40.229777254093946
+    ],
+    [
+      -34.92292180474709,
+      23.668607348322023
+    ],
+    [
+      -0.01652548833790002,
+      29.468709268144217
+    ]
+  ],
+  "gltfBoundsMeters": [
+    [
+      -37.56831346721086,
+      40.229777254093946
+    ],
+    [
+      -0.01652548833790002,
+      29.468709268144217
+    ],
+    [
+      -23.668607348322023,
+      34.92292180474709
+    ]
+  ],
+  "sourceFeatureId": 2351,
+  "sourceName": "philly_0000",
+  "sourceResource": 242,
+  "sourceGeometry": {
+    "relative": "nodes/242/geometries/0",
+    "file": "node-242-geometry-0.bin",
+    "decodedBytes": 1081652,
+    "sha256": "1ae7f3004edd4b3e8d3fe0815fbeeb2ed2bf0b7102791f07c7e3ebe5d3d7d1fb",
+    "capturedAt": "2026-09-11T20:20:49.306Z"
+  },
+  "sourceTriangleIndices": [
+    5539,
+    5541,
+    5685,
+    5705,
+    5726,
+    5727,
+    6025,
+    7992,
+    7994,
+    7995,
+    8339,
+    8344,
+    9723,
+    9837
+  ],
+  "verification": {
+    "readBack": true,
+    "maximumPositionErrorMeters": 0.0000017913713037387424,
+    "maximumNormalComponentError": 2.8232234883240892e-8,
+    "maximumLinearColorComponentError": 0
+  },
+  "method": "Retains the distinct I3S triangles exceeding 0.1 m source-surface distance at any of 16 barycentric samples. Bit-identical repeated triangles are coalesced. No invented geometry. Source RGB bytes converted from sRGB to linear glTF COLOR_0, as in Cesium I3S; alpha is retained.",
+  "limitations": "Bounded coverage evidence, not an exact surface-union proof. Original source normals and winding retained. Runtime appearance and complete combined replacement must be visually checked before hiding the original feature."
+}

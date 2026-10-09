@@ -1,0 +1,185 @@
+{
+  "pack": "north",
+  "name": "North Philadelphia",
+  "cells": [
+    {
+      "id": "-1_44",
+      "x": -1,
+      "y": 44,
+      "sha256": "fd6fa3309017dd7df861124b0792bbc275d3f8b9009e4f57489d96e24bff5c69"
+    },
+    {
+      "id": "-1_45",
+      "x": -1,
+      "y": 45,
+      "sha256": "f68b161ed8fae4cb3a9e26c7d8e8157ab46f1bc4e3e3beecc89630cf5d9f7e74"
+    },
+    {
+      "id": "-1_46",
+      "x": -1,
+      "y": 46,
+      "sha256": "640e7f39cce0bf534c03db3c447b044b3edbf506d9302495f564446b551b470b"
+    },
+    {
+      "id": "-1_47",
+      "x": -1,
+      "y": 47,
+      "sha256": "afc0d66e83a51a6b8c9fc083fcb780fc06280bf24df17a73e3be8b4ff4ed26ac"
+    },
+    {
+      "id": "-1_48",
+      "x": -1,
+      "y": 48,
+      "sha256": "327c3506a551af933e4e09c38b01692c0444240aa2876f0b638f2695d314d569"
+    },
+    {
+      "id": "0_44",
+      "x": 0,
+      "y": 44,
+      "sha256": "4acea681a97d2388a7561ad37eeeb7b9421d5457e0387570f4e0b03776ab2760"
+    },
+    {
+      "id": "0_45",
+      "x": 0,
+      "y": 45,
+      "sha256": "713e83dbd005359927335904af3f95d7c558a99909a1826ae4c692652118ad3e"
+    },
+    {
+      "id": "0_46",
+      "x": 0,
+      "y": 46,
+      "sha256": "6039b1739016e451748a567edbb8c28881b35022dc3e7a7f944d8796292e4ade"
+    },
+    {
+      "id": "0_47",
+      "x": 0,
+      "y": 47,
+      "sha256": "7a819cbbf08ebd0528805eb734badcdab728cc68a7efe08805012cff8b6d24d1"
+    },
+    {
+      "id": "0_48",
+      "x": 0,
+      "y": 48,
+      "sha256": "7688fa372ed57ee146aee3f2a2e5404763a2bea26871193e62642acc6a97dde2"
+    },
+    {
+      "id": "1_44",
+      "x": 1,
+      "y": 44,
+      "sha256": "734fc43f01364cb867ed8f24a424b194f79af6db8f281581e762d95b2d0fdf33"
+    },
+    {
+      "id": "1_45",
+      "x": 1,
+      "y": 45,
+      "sha256": "f3315c3ac05d28954ad9074c31d82880f173a1b17f616ff47f2abf73c9086e16"
+    },
+    {
+      "id": "1_46",
+      "x": 1,
+      "y": 46,
+      "sha256": "55c524e3b018fe0ac41d154b8f644a461996d4ffbb9ed143a7edb526e347dd08"
+    },
+    {
+      "id": "1_47",
+      "x": 1,
+      "y": 47,
+      "sha256": "7baa3a271f00063c4c5c8d774638c0732400a868aebe79bc864ac0cfa2963fb6"
+    },
+    {
+      "id": "1_48",
+      "x": 1,
+      "y": 48,
+      "sha256": "064853d3b41f77da4aee3608b9a78e0f7df0490c1fc5869b37d1f618a6ccf85e"
+    },
+    {
+      "id": "2_44",
+      "x": 2,
+      "y": 44,
+      "sha256": "e8d11ec76275c1fbbe6c1654359e47986931bd236585f1e9f7db11413c738bb5"
+    },
+    {
+      "id": "2_45",
+      "x": 2,
+      "y": 45,
+      "sha256": "4e9618989244797936e43b984a916303bf3e462d7a46921561f0b51164a0315b"
+    },
+    {
+      "id": "2_46",
+      "x": 2,
+      "y": 46,
+      "sha256": "13a2b516582c2711c872c47b9d8a07d23803a4e8346d5f183f50f8b37c059c0a"
+    },
+    {
+      "id": "2_47",
+      "x": 2,
+      "y": 47,
+      "sha256": "3a1979fc7a156dfed44ce186eab425152ffc8b18a6abb925011ad5f2c71e372a"
+    },
+    {
+      "id": "2_48",
+      "x": 2,
+      "y": 48,
+      "sha256": "cacf71d0634ea8ad0758056db001753e8bb94e7a71b294429e84843866a756a5"
+    },
+    {
+      "id": "3_44",
+      "x": 3,
+      "y": 44,
+      "sha256": "7d433b466bd4f9797024d9b5be037a90425902b473f3a89249902e87347ae1f8"
+    },
+    {
+      "id": "3_45",
+      "x": 3,
+      "y": 45,
+      "sha256": "2be521dbb4d5304744b51b7909cbfe1da688e63351245e0bdca3ee290caffd35"
+    },
+    {
+      "id": "3_46",
+      "x": 3,
+      "y": 46,
+      "sha256": "48a7970292f2a72cfb3c1b2ce94bc6a7b43e24c1e395c85d1c27dc5885e82237"
+    },
+    {
+      "id": "3_47",
+      "x": 3,
+      "y": 47,
+      "sha256": "71c2764d3c7f2e3afa94b7e7315a7f97730831850cc164618640d97b57324960"
+    },
+    {
+      "id": "3_48",
+      "x": 3,
+      "y": 48,
+      "sha256": "2b3f9edb7d031d7337bc2787428a02cb50e41880e9e8058815682e31dbdb8ea1"
+    }
+  ],
+  "bounds": [
+    -75.16117180434549,
+    39.989525691699605,
+    -75.15531278261807,
+    39.99401724757456
+  ],
+  "longitude": -75.1588,
+  "latitude": 39.9914,
+  "reference": {
+    "id": "north",
+    "name": "North Philadelphia",
+    "longitude": -75.1588,
+    "latitude": 39.9914,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99250/76343",
+    "image": "/data/neighborhoods/north.jpg",
+    "bounds": [
+      -75.15884399414062,
+      39.99079933583802,
+      -75.157470703125,
+      39.991851471423466
+    ],
+    "sha256": "b731e1bdb1dfa93aa55606a79743c3e0554b7589040140370f7122077efa6b02",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  },
+  "buildingSource": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Building_Footprints/FeatureServer/0/query",
+  "buildingCount": 1267,
+  "buildingSha256": "10d7b30a9266092767723f7a9fc337828277a6a00d05fd4a77b04a57c836ce5d",
+  "retrieved": "2026-09-13T19:23:37.834Z",
+  "classification": "Retained public source observations; native conversion and visual acceptance pending"
+}

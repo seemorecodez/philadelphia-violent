@@ -1,0 +1,5 @@
+--- a/Unreal/Philadelphia/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
++++ b/Unreal/Philadelphia/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+@@ -66 +66 @@
+-AutoReimportDirectorySettings=(SourceDirectory="/Game/",MountPoint="",Wildcards=((Wildcard="Localization/*")))
++AutoReimportDirectorySettings=(SourceDirectory="/Game/",MountPoint="",Wildcards=((Wildcard="Localization/*"),(Wildcard="SourceData/*.json",bInclude=False)))

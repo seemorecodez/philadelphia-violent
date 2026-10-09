@@ -1,0 +1,185 @@
+{
+  "pack": "fairmount",
+  "name": "East Fairmount Park",
+  "cells": [
+    {
+      "id": "-33_40",
+      "x": -33,
+      "y": 40,
+      "sha256": "ec649dd32d8082b5532af47481e93a094fbc6be23874a79306999828299f33dd"
+    },
+    {
+      "id": "-33_41",
+      "x": -33,
+      "y": 41,
+      "sha256": "10c62bcf5faf9def6c23c85eeb6929624edb17101d86a81570bae3c1af9f1ba1"
+    },
+    {
+      "id": "-33_42",
+      "x": -33,
+      "y": 42,
+      "sha256": "5623ff7ff086a5b9e04c407e968d40e43d45de21f93f05cb08afa9d93e1952fd"
+    },
+    {
+      "id": "-33_43",
+      "x": -33,
+      "y": 43,
+      "sha256": "d3de29f8424e31f9da5e293458db4e3840c74ab9fcca1ada5d8e79adf0425e55"
+    },
+    {
+      "id": "-33_44",
+      "x": -33,
+      "y": 44,
+      "sha256": "deeba663c53a3fe544d2c669d2e68bb9e603977c386337b914cd1a63c9cdb313"
+    },
+    {
+      "id": "-32_40",
+      "x": -32,
+      "y": 40,
+      "sha256": "8d3cb601e8bac805e31745c92ced4bb0c0d87fccdda34acf658cc799acfb1bd1"
+    },
+    {
+      "id": "-32_41",
+      "x": -32,
+      "y": 41,
+      "sha256": "e8e08d851df52f9739ae4c9a6f0905d909564338558f8b9c551b6f1c39f6f616"
+    },
+    {
+      "id": "-32_42",
+      "x": -32,
+      "y": 42,
+      "sha256": "920f23f68c991533a2778c75e71425dca8c48ad738d34ad4f9ddcac02eaa647c"
+    },
+    {
+      "id": "-32_43",
+      "x": -32,
+      "y": 43,
+      "sha256": "0ae0637de9d96f13b7a5f0998648211bc4e27e957a3f224e1708d88288a4333f"
+    },
+    {
+      "id": "-32_44",
+      "x": -32,
+      "y": 44,
+      "sha256": "00bda84a7856461fb1522a50c290ef700448c2d6e0bfe9232b2eebe231263efd"
+    },
+    {
+      "id": "-31_40",
+      "x": -31,
+      "y": 40,
+      "sha256": "967037d91971660ee198397b49fd3605e17ab967acd5c60755852ddec44bc924"
+    },
+    {
+      "id": "-31_41",
+      "x": -31,
+      "y": 41,
+      "sha256": "9acf8752ccd5061c2e17a98a11459e0295903ad570c7d2f887c7dec0586ee27f"
+    },
+    {
+      "id": "-31_42",
+      "x": -31,
+      "y": 42,
+      "sha256": "57571778da903e4b65e23ecb52fec95df8964d6a68fae17e6ba88a478e36ff00"
+    },
+    {
+      "id": "-31_43",
+      "x": -31,
+      "y": 43,
+      "sha256": "2ac3b565f38d8390a4871fb959bc40841ddee39b28fe866275f578ad6a989922"
+    },
+    {
+      "id": "-31_44",
+      "x": -31,
+      "y": 44,
+      "sha256": "05890985ec3be99079c74fd17f6f9ab362468f1a73cbddf56980a49f60f83028"
+    },
+    {
+      "id": "-30_40",
+      "x": -30,
+      "y": 40,
+      "sha256": "6a2379c3fbe1b7367c95becdca74ddc19bf5d68b19ac55cd2b5443e87826e1bf"
+    },
+    {
+      "id": "-30_41",
+      "x": -30,
+      "y": 41,
+      "sha256": "0f1d8ca7b81fae704189f41af2e249d632b3c8cd02eef53cedf34449674665a6"
+    },
+    {
+      "id": "-30_42",
+      "x": -30,
+      "y": 42,
+      "sha256": "7126f2a77d8a06ea8df7f326fa7bbd8996e1cf1887a7fc3eee6de6a4a46dca20"
+    },
+    {
+      "id": "-30_43",
+      "x": -30,
+      "y": 43,
+      "sha256": "071cc0d7a5495d039d7cf5e23d85a1565b5d804a48c7e3119c12400f0a762513"
+    },
+    {
+      "id": "-30_44",
+      "x": -30,
+      "y": 44,
+      "sha256": "8bbe20ec1675457227d45dc782aff85ceb6ddf94329651acedb9ddf13d240c85"
+    },
+    {
+      "id": "-29_40",
+      "x": -29,
+      "y": 40,
+      "sha256": "14ec7e279572e6fa38a0f031302bb164362d76f767ea6ed08ece1a4bc0590c1f"
+    },
+    {
+      "id": "-29_41",
+      "x": -29,
+      "y": 41,
+      "sha256": "574ffb7264bccedf9c86482e2cc8075ff7da567061f1bc90d7e7db24bf7cddf1"
+    },
+    {
+      "id": "-29_42",
+      "x": -29,
+      "y": 42,
+      "sha256": "d4e777badb18fdfb65c921e7c00e990640382b3c6b85eda906e7a1e4fa7123ce"
+    },
+    {
+      "id": "-29_43",
+      "x": -29,
+      "y": 43,
+      "sha256": "5a3cf663fdb21019a4479d4d43f5e9f512d47fda4ad867b1d7a8ca6458ad614d"
+    },
+    {
+      "id": "-29_44",
+      "x": -29,
+      "y": 44,
+      "sha256": "3909c027624896e219b8534916c7ef03d28005e532f35f53ea862a96aaebda19"
+    }
+  ],
+  "bounds": [
+    -75.19866954340091,
+    39.98593244699964,
+    -75.1928105216735,
+    39.9904240028746
+  ],
+  "longitude": -75.1955,
+  "latitude": 39.9884,
+  "reference": {
+    "id": "fairmount",
+    "name": "East Fairmount Park",
+    "longitude": -75.1955,
+    "latitude": 39.9884,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99253/76316",
+    "image": "/data/neighborhoods/fairmount.jpg",
+    "bounds": [
+      -75.1959228515625,
+      39.987642831840844,
+      -75.19454956054688,
+      39.98869501604661
+    ],
+    "sha256": "84aa3b69939db433b5b2eb674a241c0c15ed0f1885a06424431f172c042d6820",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  },
+  "buildingSource": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Building_Footprints/FeatureServer/0/query",
+  "buildingCount": 1,
+  "buildingSha256": "e2fd70796d85a5dc8e7d7a4965eb02c3e3f8c77adbd89a4aae4bbe48c85bb0b0",
+  "retrieved": "2026-09-13T19:23:42.552Z",
+  "classification": "Retained public source observations; native conversion and visual acceptance pending"
+}

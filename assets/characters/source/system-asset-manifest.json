@@ -1,0 +1,2587 @@
+[
+  {
+    "name": "skins/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/old_african_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/old_african_female/old_african_female.mhmat",
+    "bytes": 1451,
+    "compressedBytes": 701
+  },
+  {
+    "name": "skins/old_african_female/old_african_female.thumb",
+    "bytes": 77565,
+    "compressedBytes": 77357
+  },
+  {
+    "name": "skins/old_african_female/old_darkskinned_female_diffuse.png",
+    "bytes": 4229797,
+    "compressedBytes": 4230025
+  },
+  {
+    "name": "skins/young_caucasian_male_special_suit/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_caucasian_male_special_suit/young_caucasian_male_special_suit.mhmat",
+    "bytes": 1478,
+    "compressedBytes": 702
+  },
+  {
+    "name": "skins/young_caucasian_male_special_suit/young_caucasian_male_special_suit.png",
+    "bytes": 4367336,
+    "compressedBytes": 4360216
+  },
+  {
+    "name": "skins/young_caucasian_male_special_suit/young_caucasian_male_special_suit.thumb",
+    "bytes": 83891,
+    "compressedBytes": 83702
+  },
+  {
+    "name": "skins/young_african_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_african_male/young_african_male.thumb",
+    "bytes": 78682,
+    "compressedBytes": 78504
+  },
+  {
+    "name": "skins/young_african_male/young_darkskinned_male_diffuse.png",
+    "bytes": 2976491,
+    "compressedBytes": 2972845
+  },
+  {
+    "name": "skins/young_african_male/young_african_male.mhmat",
+    "bytes": 1453,
+    "compressedBytes": 697
+  },
+  {
+    "name": "skins/middleage_asian_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/middleage_asian_male/middleage_asian_male.thumb",
+    "bytes": 80426,
+    "compressedBytes": 80258
+  },
+  {
+    "name": "skins/middleage_asian_male/middleage_asian_male.mhmat",
+    "bytes": 1463,
+    "compressedBytes": 704
+  },
+  {
+    "name": "skins/middleage_asian_male/middleage_lightskinned_male_diffuse2.png",
+    "bytes": 3730636,
+    "compressedBytes": 3726706
+  },
+  {
+    "name": "skins/middleage_asian_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/middleage_asian_female/middleage_asian_female.mhmat",
+    "bytes": 1468,
+    "compressedBytes": 705
+  },
+  {
+    "name": "skins/middleage_asian_female/middleage_asian_female.thumb",
+    "bytes": 80500,
+    "compressedBytes": 80279
+  },
+  {
+    "name": "skins/middleage_asian_female/middleage_lightskinned_female_diffuse2.png",
+    "bytes": 3810424,
+    "compressedBytes": 3808476
+  },
+  {
+    "name": "skins/toon01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/toon01/toon01.thumb",
+    "bytes": 86805,
+    "compressedBytes": 86649
+  },
+  {
+    "name": "skins/toon01/toon01.mhmat",
+    "bytes": 1155,
+    "compressedBytes": 582
+  },
+  {
+    "name": "skins/young_caucasian_female2/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_caucasian_female2/young_caucasian_female2.mhmat",
+    "bytes": 1465,
+    "compressedBytes": 706
+  },
+  {
+    "name": "skins/young_caucasian_female2/young_lightskinned_female_diffuse2.png",
+    "bytes": 3724137,
+    "compressedBytes": 3724586
+  },
+  {
+    "name": "skins/young_caucasian_female2/young_caucasian_female2.thumb",
+    "bytes": 77592,
+    "compressedBytes": 77405
+  },
+  {
+    "name": "skins/young_caucasian_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_caucasian_male/young_lightskinned_male_diffuse.png",
+    "bytes": 3693828,
+    "compressedBytes": 3690012
+  },
+  {
+    "name": "skins/young_caucasian_male/young_caucasian_male.thumb",
+    "bytes": 79031,
+    "compressedBytes": 78826
+  },
+  {
+    "name": "skins/young_caucasian_male/young_caucasian_male.mhmat",
+    "bytes": 1462,
+    "compressedBytes": 703
+  },
+  {
+    "name": "skins/young_african_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_african_female/young_african_female.thumb",
+    "bytes": 74156,
+    "compressedBytes": 73926
+  },
+  {
+    "name": "skins/young_african_female/young_african_female.mhmat",
+    "bytes": 1457,
+    "compressedBytes": 699
+  },
+  {
+    "name": "skins/young_african_female/young_darkskinned_female_diffuse.png",
+    "bytes": 4427634,
+    "compressedBytes": 4427955
+  },
+  {
+    "name": "skins/young_asian_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_asian_female/young_asian_female.mhmat",
+    "bytes": 1459,
+    "compressedBytes": 708
+  },
+  {
+    "name": "skins/young_asian_female/young_asian_female.thumb",
+    "bytes": 79011,
+    "compressedBytes": 78823
+  },
+  {
+    "name": "skins/young_asian_female/young_lightskinned_female_diffuse3.png",
+    "bytes": 3884420,
+    "compressedBytes": 3884836
+  },
+  {
+    "name": "skins/young_caucasian_male2/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_caucasian_male2/young_lightskinned_male_diffuse2.png",
+    "bytes": 3595270,
+    "compressedBytes": 3591956
+  },
+  {
+    "name": "skins/young_caucasian_male2/young_caucasian_male2.mhmat",
+    "bytes": 1464,
+    "compressedBytes": 705
+  },
+  {
+    "name": "skins/young_caucasian_male2/young_caucasian_male2.thumb",
+    "bytes": 81183,
+    "compressedBytes": 80967
+  },
+  {
+    "name": "skins/old_asian_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/old_asian_male/old_lightskinned_male_diffuse2.png",
+    "bytes": 4485072,
+    "compressedBytes": 4480595
+  },
+  {
+    "name": "skins/old_asian_male/old_asian_male.mhmat",
+    "bytes": 1442,
+    "compressedBytes": 691
+  },
+  {
+    "name": "skins/old_asian_male/old_asian_male.thumb",
+    "bytes": 80465,
+    "compressedBytes": 80267
+  },
+  {
+    "name": "skins/middleage_caucasian_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/middleage_caucasian_male/middleage_lightskinned_male_diffuse.png",
+    "bytes": 3668589,
+    "compressedBytes": 3664897
+  },
+  {
+    "name": "skins/middleage_caucasian_male/middleage_caucasian_male.thumb",
+    "bytes": 81315,
+    "compressedBytes": 81110
+  },
+  {
+    "name": "skins/middleage_caucasian_male/middleage_caucasian_male.mhmat",
+    "bytes": 1469,
+    "compressedBytes": 707
+  },
+  {
+    "name": "skins/middleage_african_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/middleage_african_female/middleage_african_female.mhmat",
+    "bytes": 1472,
+    "compressedBytes": 709
+  },
+  {
+    "name": "skins/middleage_african_female/middleage_african_female.thumb",
+    "bytes": 76080,
+    "compressedBytes": 75890
+  },
+  {
+    "name": "skins/middleage_african_female/middleage_darkskinned_female_diffuse.png",
+    "bytes": 4197671,
+    "compressedBytes": 4197913
+  },
+  {
+    "name": "skins/middleage_african_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/middleage_african_male/middleage_darkskinned_male_diffuse.png",
+    "bytes": 3046762,
+    "compressedBytes": 3043083
+  },
+  {
+    "name": "skins/middleage_african_male/middleage_african_male.thumb",
+    "bytes": 79294,
+    "compressedBytes": 79098
+  },
+  {
+    "name": "skins/middleage_african_male/middleage_african_male.mhmat",
+    "bytes": 1465,
+    "compressedBytes": 704
+  },
+  {
+    "name": "skins/young_asian_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_asian_male/young_asian_male.mhmat",
+    "bytes": 1452,
+    "compressedBytes": 700
+  },
+  {
+    "name": "skins/young_asian_male/young_asian_male.thumb",
+    "bytes": 79327,
+    "compressedBytes": 79134
+  },
+  {
+    "name": "skins/young_asian_male/young_lightskinned_male_diffuse3.png",
+    "bytes": 3593099,
+    "compressedBytes": 3589718
+  },
+  {
+    "name": "skins/young_caucasian_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_caucasian_female/young_caucasian_female.mhmat",
+    "bytes": 1464,
+    "compressedBytes": 704
+  },
+  {
+    "name": "skins/young_caucasian_female/young_caucasian_female.thumb",
+    "bytes": 78304,
+    "compressedBytes": 78139
+  },
+  {
+    "name": "skins/young_caucasian_female/young_lightskinned_female_diffuse.png",
+    "bytes": 4391156,
+    "compressedBytes": 4391823
+  },
+  {
+    "name": "skins/old_african_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/old_african_male/old_african_male.mhmat",
+    "bytes": 1444,
+    "compressedBytes": 692
+  },
+  {
+    "name": "skins/old_african_male/old_african_male.thumb",
+    "bytes": 81929,
+    "compressedBytes": 81751
+  },
+  {
+    "name": "skins/old_african_male/old_darkskinned_male_diffuse.png",
+    "bytes": 3336963,
+    "compressedBytes": 3332979
+  },
+  {
+    "name": "skins/old_asian_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/old_asian_female/old_asian_female.thumb",
+    "bytes": 81888,
+    "compressedBytes": 81708
+  },
+  {
+    "name": "skins/old_asian_female/old_asian_female.mhmat",
+    "bytes": 1450,
+    "compressedBytes": 700
+  },
+  {
+    "name": "skins/old_asian_female/old_lightskinned_female_diffuse2.png",
+    "bytes": 4766265,
+    "compressedBytes": 4762680
+  },
+  {
+    "name": "skins/old_caucasian_male/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/old_caucasian_male/old_caucasian_male.mhmat",
+    "bytes": 1449,
+    "compressedBytes": 694
+  },
+  {
+    "name": "skins/old_caucasian_male/old_caucasian_male.thumb",
+    "bytes": 82772,
+    "compressedBytes": 82571
+  },
+  {
+    "name": "skins/old_caucasian_male/old_lightskinned_male_diffuse.png",
+    "bytes": 4306141,
+    "compressedBytes": 4301174
+  },
+  {
+    "name": "skins/old_caucasian_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/old_caucasian_female/old_caucasian_female.mhmat",
+    "bytes": 1457,
+    "compressedBytes": 702
+  },
+  {
+    "name": "skins/old_caucasian_female/old_lightskinned_female_diffuse.png",
+    "bytes": 4716109,
+    "compressedBytes": 4712799
+  },
+  {
+    "name": "skins/old_caucasian_female/old_caucasian_female.thumb",
+    "bytes": 81695,
+    "compressedBytes": 81484
+  },
+  {
+    "name": "skins/young_caucasian_female_special_suit/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/young_caucasian_female_special_suit/young_caucasian_female_special_suit.png",
+    "bytes": 3680870,
+    "compressedBytes": 3680862
+  },
+  {
+    "name": "skins/young_caucasian_female_special_suit/young_caucasian_female_special_suit.mhmat",
+    "bytes": 1482,
+    "compressedBytes": 706
+  },
+  {
+    "name": "skins/young_caucasian_female_special_suit/young_caucasian_female_special_suit.thumb",
+    "bytes": 81249,
+    "compressedBytes": 81040
+  },
+  {
+    "name": "skins/middleage_caucasian_female/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "skins/middleage_caucasian_female/middleage_caucasian_female.mhmat",
+    "bytes": 1475,
+    "compressedBytes": 705
+  },
+  {
+    "name": "skins/middleage_caucasian_female/middleage_caucasian_female.thumb",
+    "bytes": 78480,
+    "compressedBytes": 78280
+  },
+  {
+    "name": "skins/middleage_caucasian_female/middleage_lightskinned_female_diffuse.png",
+    "bytes": 4363877,
+    "compressedBytes": 4364342
+  },
+  {
+    "name": "clothes/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/fedora_cocked/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/fedora_cocked/fedora_cocked.thumb",
+    "bytes": 32211,
+    "compressedBytes": 31078
+  },
+  {
+    "name": "clothes/fedora_cocked/fedora.mhmat",
+    "bytes": 1394,
+    "compressedBytes": 626
+  },
+  {
+    "name": "clothes/fedora_cocked/fedora_cocked.obj",
+    "bytes": 47872,
+    "compressedBytes": 17213
+  },
+  {
+    "name": "clothes/fedora_cocked/fedora_normal.png",
+    "bytes": 158434,
+    "compressedBytes": 158135
+  },
+  {
+    "name": "clothes/fedora_cocked/fedora_diffuse.png",
+    "bytes": 7418240,
+    "compressedBytes": 7397906
+  },
+  {
+    "name": "clothes/fedora_cocked/fedora_cocked.mhclo",
+    "bytes": 43504,
+    "compressedBytes": 15704
+  },
+  {
+    "name": "clothes/shoes04/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/shoes04/shoes04.obj",
+    "bytes": 136910,
+    "compressedBytes": 37631
+  },
+  {
+    "name": "clothes/shoes04/shoes04.mhmat",
+    "bytes": 1161,
+    "compressedBytes": 556
+  },
+  {
+    "name": "clothes/shoes04/shoes04_diffuse.png",
+    "bytes": 714208,
+    "compressedBytes": 712627
+  },
+  {
+    "name": "clothes/shoes04/shoes04_normal.png",
+    "bytes": 875473,
+    "compressedBytes": 875242
+  },
+  {
+    "name": "clothes/shoes04/shoes04.thumb",
+    "bytes": 37350,
+    "compressedBytes": 36498
+  },
+  {
+    "name": "clothes/shoes04/shoes04.mhclo",
+    "bytes": 119049,
+    "compressedBytes": 37559
+  },
+  {
+    "name": "clothes/shoes04/shoes04.mhw",
+    "bytes": 324727,
+    "compressedBytes": 25130
+  },
+  {
+    "name": "clothes/male_casualsuit04/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_casualsuit04/male_casualsuit04_normal.png",
+    "bytes": 6112410,
+    "compressedBytes": 6053909
+  },
+  {
+    "name": "clothes/male_casualsuit04/male_casualsuit04.thumb",
+    "bytes": 32838,
+    "compressedBytes": 32258
+  },
+  {
+    "name": "clothes/male_casualsuit04/male_casualsuit04.obj",
+    "bytes": 133848,
+    "compressedBytes": 43117
+  },
+  {
+    "name": "clothes/male_casualsuit04/male_casualsuit04_diffuse.png",
+    "bytes": 2742499,
+    "compressedBytes": 2732840
+  },
+  {
+    "name": "clothes/male_casualsuit04/male_casualsuit04.mhclo",
+    "bytes": 116682,
+    "compressedBytes": 42767
+  },
+  {
+    "name": "clothes/male_casualsuit04/male_casualsuit04_ao.png",
+    "bytes": 1755179,
+    "compressedBytes": 1740944
+  },
+  {
+    "name": "clothes/male_casualsuit04/male_casualsuit04.mhmat",
+    "bytes": 1396,
+    "compressedBytes": 634
+  },
+  {
+    "name": "clothes/shoes05/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/shoes05/shoes05.mhmat",
+    "bytes": 1184,
+    "compressedBytes": 586
+  },
+  {
+    "name": "clothes/shoes05/shoes05_diffuse.png",
+    "bytes": 1291907,
+    "compressedBytes": 1289694
+  },
+  {
+    "name": "clothes/shoes05/shoes05.thumb",
+    "bytes": 41218,
+    "compressedBytes": 40368
+  },
+  {
+    "name": "clothes/shoes05/shoes05.obj",
+    "bytes": 125457,
+    "compressedBytes": 34275
+  },
+  {
+    "name": "clothes/shoes05/shoes05.mhw",
+    "bytes": 309023,
+    "compressedBytes": 24109
+  },
+  {
+    "name": "clothes/shoes05/shoes05.mhclo",
+    "bytes": 110217,
+    "compressedBytes": 25723
+  },
+  {
+    "name": "clothes/male_casualsuit02/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_casualsuit02/male_casualsuit02.mhclo",
+    "bytes": 145975,
+    "compressedBytes": 55662
+  },
+  {
+    "name": "clothes/male_casualsuit02/male_casualsuit02_diffuse.png",
+    "bytes": 3094130,
+    "compressedBytes": 3090328
+  },
+  {
+    "name": "clothes/male_casualsuit02/male_casualsuit02.mhmat",
+    "bytes": 1396,
+    "compressedBytes": 633
+  },
+  {
+    "name": "clothes/male_casualsuit02/male_casualsuit02.thumb",
+    "bytes": 37906,
+    "compressedBytes": 37451
+  },
+  {
+    "name": "clothes/male_casualsuit02/male_casualsuit02_normal.png",
+    "bytes": 6036834,
+    "compressedBytes": 5977953
+  },
+  {
+    "name": "clothes/male_casualsuit02/male_casualsuit02_ao.png",
+    "bytes": 722980,
+    "compressedBytes": 717238
+  },
+  {
+    "name": "clothes/male_casualsuit02/male_casualsuit02.obj",
+    "bytes": 170324,
+    "compressedBytes": 53781
+  },
+  {
+    "name": "clothes/female_casualsuit02/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/female_casualsuit02/female_casualsuit02_diffuse.png",
+    "bytes": 4340869,
+    "compressedBytes": 4338517
+  },
+  {
+    "name": "clothes/female_casualsuit02/female_casualsuit02.mhmat",
+    "bytes": 1404,
+    "compressedBytes": 634
+  },
+  {
+    "name": "clothes/female_casualsuit02/female_casualsuit02_ao.png",
+    "bytes": 1653679,
+    "compressedBytes": 1638936
+  },
+  {
+    "name": "clothes/female_casualsuit02/female_casualsuit02.mhclo",
+    "bytes": 196616,
+    "compressedBytes": 68634
+  },
+  {
+    "name": "clothes/female_casualsuit02/female_casualsuit02.thumb",
+    "bytes": 52518,
+    "compressedBytes": 52031
+  },
+  {
+    "name": "clothes/female_casualsuit02/female_casualsuit02.obj",
+    "bytes": 231599,
+    "compressedBytes": 77272
+  },
+  {
+    "name": "clothes/female_casualsuit02/female_casualsuit02_normal.png",
+    "bytes": 1646961,
+    "compressedBytes": 1589189
+  },
+  {
+    "name": "clothes/male_casualsuit05/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_casualsuit05/male_casualsuit05.mhclo",
+    "bytes": 217422,
+    "compressedBytes": 78965
+  },
+  {
+    "name": "clothes/male_casualsuit05/male_casualsuit05.thumb",
+    "bytes": 39378,
+    "compressedBytes": 38934
+  },
+  {
+    "name": "clothes/male_casualsuit05/male_casualsuit05.mhmat",
+    "bytes": 1396,
+    "compressedBytes": 634
+  },
+  {
+    "name": "clothes/male_casualsuit05/male_casualsuit05_ao.png",
+    "bytes": 1724222,
+    "compressedBytes": 1710818
+  },
+  {
+    "name": "clothes/male_casualsuit05/male_casualsuit05.obj",
+    "bytes": 261223,
+    "compressedBytes": 85137
+  },
+  {
+    "name": "clothes/male_casualsuit05/male_casualsuit05_normal.png",
+    "bytes": 9295328,
+    "compressedBytes": 9260982
+  },
+  {
+    "name": "clothes/male_casualsuit05/male_casualsuit05_diffuse.png",
+    "bytes": 3345738,
+    "compressedBytes": 3336906
+  },
+  {
+    "name": "clothes/male_worksuit01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_worksuit01/male_worksuit01.obj",
+    "bytes": 302272,
+    "compressedBytes": 99631
+  },
+  {
+    "name": "clothes/male_worksuit01/male_worksuit01.thumb",
+    "bytes": 33917,
+    "compressedBytes": 33376
+  },
+  {
+    "name": "clothes/male_worksuit01/male_worksuit01_diffuse.png",
+    "bytes": 3230491,
+    "compressedBytes": 3223344
+  },
+  {
+    "name": "clothes/male_worksuit01/male_worksuit01_normal.png",
+    "bytes": 7345267,
+    "compressedBytes": 7339643
+  },
+  {
+    "name": "clothes/male_worksuit01/male_worksuit01.mhmat",
+    "bytes": 1389,
+    "compressedBytes": 633
+  },
+  {
+    "name": "clothes/male_worksuit01/male_worksuit01.mhclo",
+    "bytes": 254911,
+    "compressedBytes": 93877
+  },
+  {
+    "name": "clothes/male_worksuit01/male_worksuit01_ao.png",
+    "bytes": 1205288,
+    "compressedBytes": 1203092
+  },
+  {
+    "name": "clothes/male_casualsuit03/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_casualsuit03/male_casualsuit03.obj",
+    "bytes": 200956,
+    "compressedBytes": 66669
+  },
+  {
+    "name": "clothes/male_casualsuit03/male_casualsuit03_normal.png",
+    "bytes": 9610278,
+    "compressedBytes": 9574331
+  },
+  {
+    "name": "clothes/male_casualsuit03/male_casualsuit03_ao.png",
+    "bytes": 2214964,
+    "compressedBytes": 2202083
+  },
+  {
+    "name": "clothes/male_casualsuit03/male_casualsuit03_diffuse.png",
+    "bytes": 3439064,
+    "compressedBytes": 3435986
+  },
+  {
+    "name": "clothes/male_casualsuit03/male_casualsuit03.mhclo",
+    "bytes": 170546,
+    "compressedBytes": 65267
+  },
+  {
+    "name": "clothes/male_casualsuit03/male_casualsuit03.thumb",
+    "bytes": 40578,
+    "compressedBytes": 40108
+  },
+  {
+    "name": "clothes/male_casualsuit03/male_casualsuit03.mhmat",
+    "bytes": 1396,
+    "compressedBytes": 634
+  },
+  {
+    "name": "clothes/shoes01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/shoes01/shoes01.mhclo",
+    "bytes": 119049,
+    "compressedBytes": 37561
+  },
+  {
+    "name": "clothes/shoes01/shoes01_diffuse.png",
+    "bytes": 1335772,
+    "compressedBytes": 1331187
+  },
+  {
+    "name": "clothes/shoes01/shoes01.thumb",
+    "bytes": 40319,
+    "compressedBytes": 39421
+  },
+  {
+    "name": "clothes/shoes01/shoes01_normal.png",
+    "bytes": 875473,
+    "compressedBytes": 875242
+  },
+  {
+    "name": "clothes/shoes01/shoes01.mhw",
+    "bytes": 324727,
+    "compressedBytes": 25130
+  },
+  {
+    "name": "clothes/shoes01/shoes01.mhmat",
+    "bytes": 1161,
+    "compressedBytes": 556
+  },
+  {
+    "name": "clothes/shoes01/shoes01.obj",
+    "bytes": 136910,
+    "compressedBytes": 37631
+  },
+  {
+    "name": "clothes/male_casualsuit06/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_casualsuit06/male_casualsuit06.thumb",
+    "bytes": 31691,
+    "compressedBytes": 31116
+  },
+  {
+    "name": "clothes/male_casualsuit06/male_casualsuit06.obj",
+    "bytes": 300507,
+    "compressedBytes": 100775
+  },
+  {
+    "name": "clothes/male_casualsuit06/male_casualsuit06.mhmat",
+    "bytes": 1396,
+    "compressedBytes": 634
+  },
+  {
+    "name": "clothes/male_casualsuit06/male_casualsuit06_ao.png",
+    "bytes": 1663549,
+    "compressedBytes": 1648980
+  },
+  {
+    "name": "clothes/male_casualsuit06/male_casualsuit06.mhclo",
+    "bytes": 252642,
+    "compressedBytes": 96135
+  },
+  {
+    "name": "clothes/male_casualsuit06/male_casualsuit06_normal.png",
+    "bytes": 2235477,
+    "compressedBytes": 2227595
+  },
+  {
+    "name": "clothes/male_casualsuit06/male_casualsuit06_diffuse.png",
+    "bytes": 1923464,
+    "compressedBytes": 1913786
+  },
+  {
+    "name": "clothes/shoes03/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/shoes03/shoes03_diffuse.png",
+    "bytes": 309009,
+    "compressedBytes": 305551
+  },
+  {
+    "name": "clothes/shoes03/shoes03.obj",
+    "bytes": 177420,
+    "compressedBytes": 49614
+  },
+  {
+    "name": "clothes/shoes03/shoes03.thumb",
+    "bytes": 37720,
+    "compressedBytes": 36927
+  },
+  {
+    "name": "clothes/shoes03/shoes03.mhmat",
+    "bytes": 1184,
+    "compressedBytes": 583
+  },
+  {
+    "name": "clothes/shoes03/shoes03.mhclo",
+    "bytes": 152873,
+    "compressedBytes": 48615
+  },
+  {
+    "name": "clothes/shoes03/shoes03.mhw",
+    "bytes": 410069,
+    "compressedBytes": 31210
+  },
+  {
+    "name": "clothes/shoes06/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/shoes06/shoes06_diffuse.png",
+    "bytes": 1463398,
+    "compressedBytes": 1461229
+  },
+  {
+    "name": "clothes/shoes06/shoes06.obj",
+    "bytes": 125457,
+    "compressedBytes": 34275
+  },
+  {
+    "name": "clothes/shoes06/shoes06.mhclo",
+    "bytes": 110217,
+    "compressedBytes": 25724
+  },
+  {
+    "name": "clothes/shoes06/shoes06.mhw",
+    "bytes": 309023,
+    "compressedBytes": 24109
+  },
+  {
+    "name": "clothes/shoes06/shoes06.mhmat",
+    "bytes": 1184,
+    "compressedBytes": 587
+  },
+  {
+    "name": "clothes/shoes06/shoes06.thumb",
+    "bytes": 43267,
+    "compressedBytes": 42429
+  },
+  {
+    "name": "clothes/fedora01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/fedora01/fedora01.thumb",
+    "bytes": 27659,
+    "compressedBytes": 26357
+  },
+  {
+    "name": "clothes/fedora01/fedora.obj",
+    "bytes": 47959,
+    "compressedBytes": 16808
+  },
+  {
+    "name": "clothes/fedora01/fedora01.mhclo",
+    "bytes": 43570,
+    "compressedBytes": 15642
+  },
+  {
+    "name": "clothes/fedora01/fedora.mhmat",
+    "bytes": 1394,
+    "compressedBytes": 626
+  },
+  {
+    "name": "clothes/fedora01/fedora_normal.png",
+    "bytes": 158434,
+    "compressedBytes": 158135
+  },
+  {
+    "name": "clothes/fedora01/fedora_diffuse.png",
+    "bytes": 7418240,
+    "compressedBytes": 7397906
+  },
+  {
+    "name": "clothes/female_sportsuit01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/female_sportsuit01/female_sportsuit01_ao.png",
+    "bytes": 1692805,
+    "compressedBytes": 1676641
+  },
+  {
+    "name": "clothes/female_sportsuit01/female_sportsuit01.mhclo",
+    "bytes": 124049,
+    "compressedBytes": 46737
+  },
+  {
+    "name": "clothes/female_sportsuit01/female_sportsuit01.thumb",
+    "bytes": 25816,
+    "compressedBytes": 24995
+  },
+  {
+    "name": "clothes/female_sportsuit01/female_sportsuit01.mhmat",
+    "bytes": 1400,
+    "compressedBytes": 633
+  },
+  {
+    "name": "clothes/female_sportsuit01/female_sportsuit01_normal.png",
+    "bytes": 250945,
+    "compressedBytes": 249312
+  },
+  {
+    "name": "clothes/female_sportsuit01/female_sportsuit01_diffuse.png",
+    "bytes": 1396429,
+    "compressedBytes": 1386038
+  },
+  {
+    "name": "clothes/female_sportsuit01/female_sportsuit01.obj",
+    "bytes": 142064,
+    "compressedBytes": 48797
+  },
+  {
+    "name": "clothes/female_casualsuit01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/female_casualsuit01/female_casualsuit01.mhmat",
+    "bytes": 1404,
+    "compressedBytes": 634
+  },
+  {
+    "name": "clothes/female_casualsuit01/female_casualsuit01_ao.png",
+    "bytes": 2153148,
+    "compressedBytes": 2140214
+  },
+  {
+    "name": "clothes/female_casualsuit01/female_casualsuit01_diffuse.png",
+    "bytes": 3019656,
+    "compressedBytes": 3013925
+  },
+  {
+    "name": "clothes/female_casualsuit01/female_casualsuit01.thumb",
+    "bytes": 31184,
+    "compressedBytes": 30658
+  },
+  {
+    "name": "clothes/female_casualsuit01/female_casualsuit01.mhclo",
+    "bytes": 150568,
+    "compressedBytes": 56690
+  },
+  {
+    "name": "clothes/female_casualsuit01/female_casualsuit01.obj",
+    "bytes": 175427,
+    "compressedBytes": 59617
+  },
+  {
+    "name": "clothes/female_casualsuit01/female_casualsuit01_normal.png",
+    "bytes": 5744103,
+    "compressedBytes": 5682822
+  },
+  {
+    "name": "clothes/male_elegantsuit01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_elegantsuit01/male_elegantsuit01.mhclo",
+    "bytes": 515810,
+    "compressedBytes": 183353
+  },
+  {
+    "name": "clothes/male_elegantsuit01/male_elegantsuit01.thumb",
+    "bytes": 36659,
+    "compressedBytes": 36222
+  },
+  {
+    "name": "clothes/male_elegantsuit01/male_elegantsuit01.mhmat",
+    "bytes": 1293,
+    "compressedBytes": 614
+  },
+  {
+    "name": "clothes/male_elegantsuit01/male_elegantsuit01_diffuse.png",
+    "bytes": 1945326,
+    "compressedBytes": 1924154
+  },
+  {
+    "name": "clothes/male_elegantsuit01/male_elegantsuit01.obj",
+    "bytes": 633330,
+    "compressedBytes": 210399
+  },
+  {
+    "name": "clothes/shoes02/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/shoes02/shoes02.mhw",
+    "bytes": 309023,
+    "compressedBytes": 24109
+  },
+  {
+    "name": "clothes/shoes02/shoes02.mhclo",
+    "bytes": 110217,
+    "compressedBytes": 25726
+  },
+  {
+    "name": "clothes/shoes02/shoes02.mhmat",
+    "bytes": 1184,
+    "compressedBytes": 586
+  },
+  {
+    "name": "clothes/shoes02/shoes02_diffuse.png",
+    "bytes": 1282057,
+    "compressedBytes": 1280653
+  },
+  {
+    "name": "clothes/shoes02/shoes02.obj",
+    "bytes": 125457,
+    "compressedBytes": 34275
+  },
+  {
+    "name": "clothes/shoes02/shoes02.thumb",
+    "bytes": 43978,
+    "compressedBytes": 43142
+  },
+  {
+    "name": "clothes/male_casualsuit01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/male_casualsuit01/male_casualsuit01_diffuse.png",
+    "bytes": 5531728,
+    "compressedBytes": 5525333
+  },
+  {
+    "name": "clothes/male_casualsuit01/male_casualsuit01_normal.png",
+    "bytes": 1738660,
+    "compressedBytes": 1729674
+  },
+  {
+    "name": "clothes/male_casualsuit01/male_casualsuit01.thumb",
+    "bytes": 39401,
+    "compressedBytes": 38960
+  },
+  {
+    "name": "clothes/male_casualsuit01/male_casualsuit01.mhmat",
+    "bytes": 1345,
+    "compressedBytes": 606
+  },
+  {
+    "name": "clothes/male_casualsuit01/male_casualsuit01.mhclo",
+    "bytes": 570419,
+    "compressedBytes": 199174
+  },
+  {
+    "name": "clothes/male_casualsuit01/male_casualsuit01_ao.png",
+    "bytes": 785596,
+    "compressedBytes": 753676
+  },
+  {
+    "name": "clothes/male_casualsuit01/male_casualsuit01.obj",
+    "bytes": 699545,
+    "compressedBytes": 232791
+  },
+  {
+    "name": "clothes/female_elegantsuit01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "clothes/female_elegantsuit01/female_elegantsuit01_ao.png",
+    "bytes": 1350953,
+    "compressedBytes": 1342328
+  },
+  {
+    "name": "clothes/female_elegantsuit01/female_elegantsuit01.mhmat",
+    "bytes": 1408,
+    "compressedBytes": 633
+  },
+  {
+    "name": "clothes/female_elegantsuit01/female_elegantsuit01_diffuse.png",
+    "bytes": 1996561,
+    "compressedBytes": 1969155
+  },
+  {
+    "name": "clothes/female_elegantsuit01/female_elegantsuit01.obj",
+    "bytes": 174924,
+    "compressedBytes": 58815
+  },
+  {
+    "name": "clothes/female_elegantsuit01/female_elegantsuit01_normal.png",
+    "bytes": 1549042,
+    "compressedBytes": 1523337
+  },
+  {
+    "name": "clothes/female_elegantsuit01/female_elegantsuit01.thumb",
+    "bytes": 50008,
+    "compressedBytes": 49463
+  },
+  {
+    "name": "clothes/female_elegantsuit01/female_elegantsuit01.mhclo",
+    "bytes": 151008,
+    "compressedBytes": 55164
+  },
+  {
+    "name": "teeth/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "teeth/teeth_shape02/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "teeth/teeth_shape02/teeth_shape02.thumb",
+    "bytes": 52201,
+    "compressedBytes": 51284
+  },
+  {
+    "name": "teeth/teeth_shape02/teeth_shape02.mhclo",
+    "bytes": 263309,
+    "compressedBytes": 70038
+  },
+  {
+    "name": "teeth/teeth_shape02/teeth.mhmat",
+    "bytes": 1086,
+    "compressedBytes": 531
+  },
+  {
+    "name": "teeth/teeth_shape02/teeth.png",
+    "bytes": 1799930,
+    "compressedBytes": 1791924
+  },
+  {
+    "name": "teeth/teeth_shape02/teeth_shape02.obj",
+    "bytes": 313139,
+    "compressedBytes": 92273
+  },
+  {
+    "name": "teeth/teeth_shape01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "teeth/teeth_shape01/teeth_shape01.mhclo",
+    "bytes": 263298,
+    "compressedBytes": 69652
+  },
+  {
+    "name": "teeth/teeth_shape01/teeth_shape01.obj",
+    "bytes": 313110,
+    "compressedBytes": 92330
+  },
+  {
+    "name": "teeth/teeth_shape01/teeth.mhmat",
+    "bytes": 1086,
+    "compressedBytes": 531
+  },
+  {
+    "name": "teeth/teeth_shape01/teeth.png",
+    "bytes": 1799930,
+    "compressedBytes": 1791924
+  },
+  {
+    "name": "teeth/teeth_shape01/teeth_shape01.thumb",
+    "bytes": 50417,
+    "compressedBytes": 49489
+  },
+  {
+    "name": "teeth/teeth_base/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "teeth/teeth_base/teeth_base.obj",
+    "bytes": 313110,
+    "compressedBytes": 92301
+  },
+  {
+    "name": "teeth/teeth_base/teeth_base.mhclo",
+    "bytes": 263220,
+    "compressedBytes": 69749
+  },
+  {
+    "name": "teeth/teeth_base/teeth.mhmat",
+    "bytes": 1086,
+    "compressedBytes": 531
+  },
+  {
+    "name": "teeth/teeth_base/teeth.png",
+    "bytes": 1799930,
+    "compressedBytes": 1791924
+  },
+  {
+    "name": "teeth/teeth_base/teeth_base.thumb",
+    "bytes": 50147,
+    "compressedBytes": 49218
+  },
+  {
+    "name": "teeth/teeth_shape05/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "teeth/teeth_shape05/teeth_shape05.thumb",
+    "bytes": 50387,
+    "compressedBytes": 49464
+  },
+  {
+    "name": "teeth/teeth_shape05/teeth_shape05.mhclo",
+    "bytes": 263247,
+    "compressedBytes": 69725
+  },
+  {
+    "name": "teeth/teeth_shape05/teeth.mhmat",
+    "bytes": 1086,
+    "compressedBytes": 531
+  },
+  {
+    "name": "teeth/teeth_shape05/teeth_shape05.obj",
+    "bytes": 313110,
+    "compressedBytes": 92301
+  },
+  {
+    "name": "teeth/teeth_shape05/teeth.png",
+    "bytes": 1799930,
+    "compressedBytes": 1791924
+  },
+  {
+    "name": "teeth/teeth_shape03/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "teeth/teeth_shape03/teeth_shape03.thumb",
+    "bytes": 50360,
+    "compressedBytes": 49437
+  },
+  {
+    "name": "teeth/teeth_shape03/teeth_shape03.mhclo",
+    "bytes": 263281,
+    "compressedBytes": 69727
+  },
+  {
+    "name": "teeth/teeth_shape03/teeth.mhmat",
+    "bytes": 1086,
+    "compressedBytes": 531
+  },
+  {
+    "name": "teeth/teeth_shape03/teeth.png",
+    "bytes": 1799930,
+    "compressedBytes": 1791924
+  },
+  {
+    "name": "teeth/teeth_shape03/teeth_shape03.obj",
+    "bytes": 313140,
+    "compressedBytes": 92339
+  },
+  {
+    "name": "teeth/teeth_shape04/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "teeth/teeth_shape04/teeth_shape04.thumb",
+    "bytes": 51052,
+    "compressedBytes": 50121
+  },
+  {
+    "name": "teeth/teeth_shape04/teeth_shape04.mhclo",
+    "bytes": 263244,
+    "compressedBytes": 69771
+  },
+  {
+    "name": "teeth/teeth_shape04/teeth.mhmat",
+    "bytes": 1086,
+    "compressedBytes": 531
+  },
+  {
+    "name": "teeth/teeth_shape04/teeth.png",
+    "bytes": 1799930,
+    "compressedBytes": 1791924
+  },
+  {
+    "name": "teeth/teeth_shape04/teeth_shape04.obj",
+    "bytes": 313110,
+    "compressedBytes": 92315
+  },
+  {
+    "name": "eyelashes/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyelashes/eyelashes01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyelashes/eyelashes01/eyelashes01.obj",
+    "bytes": 18832,
+    "compressedBytes": 6080
+  },
+  {
+    "name": "eyelashes/eyelashes01/eyelashes01.mhclo",
+    "bytes": 2265,
+    "compressedBytes": 952
+  },
+  {
+    "name": "eyelashes/eyelashes01/eyelashes01.png",
+    "bytes": 91600,
+    "compressedBytes": 90109
+  },
+  {
+    "name": "eyelashes/eyelashes01/eyelashes01.mhmat",
+    "bytes": 1074,
+    "compressedBytes": 553
+  },
+  {
+    "name": "eyelashes/eyelashes01/eyelashes01.thumb",
+    "bytes": 140641,
+    "compressedBytes": 140570
+  },
+  {
+    "name": "eyelashes/eyelashes03/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyelashes/eyelashes03/eyelashes03.png",
+    "bytes": 132260,
+    "compressedBytes": 131286
+  },
+  {
+    "name": "eyelashes/eyelashes03/eyelashes03.mhmat",
+    "bytes": 1074,
+    "compressedBytes": 553
+  },
+  {
+    "name": "eyelashes/eyelashes03/eyelashes03.thumb",
+    "bytes": 141232,
+    "compressedBytes": 141160
+  },
+  {
+    "name": "eyelashes/eyelashes03/eyelashes03.mhclo",
+    "bytes": 8191,
+    "compressedBytes": 2341
+  },
+  {
+    "name": "eyelashes/eyelashes03/eyelashes03.obj",
+    "bytes": 18836,
+    "compressedBytes": 6092
+  },
+  {
+    "name": "eyelashes/eyelashes02/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyelashes/eyelashes02/eyelashes02.png",
+    "bytes": 132278,
+    "compressedBytes": 131313
+  },
+  {
+    "name": "eyelashes/eyelashes02/eyelashes02.mhclo",
+    "bytes": 6717,
+    "compressedBytes": 2093
+  },
+  {
+    "name": "eyelashes/eyelashes02/eyelashes02.thumb",
+    "bytes": 140984,
+    "compressedBytes": 140911
+  },
+  {
+    "name": "eyelashes/eyelashes02/eyelashes02.mhmat",
+    "bytes": 1074,
+    "compressedBytes": 553
+  },
+  {
+    "name": "eyelashes/eyelashes02/eyelashes02.obj",
+    "bytes": 18832,
+    "compressedBytes": 6079
+  },
+  {
+    "name": "eyelashes/eyelashes04/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyelashes/eyelashes04/eyelashes04.png",
+    "bytes": 93914,
+    "compressedBytes": 93083
+  },
+  {
+    "name": "eyelashes/eyelashes04/eyelashes04.mhclo",
+    "bytes": 8271,
+    "compressedBytes": 2893
+  },
+  {
+    "name": "eyelashes/eyelashes04/eyelashes04.obj",
+    "bytes": 16389,
+    "compressedBytes": 5451
+  },
+  {
+    "name": "eyelashes/eyelashes04/eyelashes04.mhmat",
+    "bytes": 1072,
+    "compressedBytes": 551
+  },
+  {
+    "name": "eyelashes/eyelashes04/eyelashes04.thumb",
+    "bytes": 140585,
+    "compressedBytes": 140519
+  },
+  {
+    "name": "hair/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/bob02/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/bob02/bob02.mhclo",
+    "bytes": 112326,
+    "compressedBytes": 42079
+  },
+  {
+    "name": "hair/bob02/bob02_diffuse.png",
+    "bytes": 3373723,
+    "compressedBytes": 3363284
+  },
+  {
+    "name": "hair/bob02/bob02.thumb",
+    "bytes": 54657,
+    "compressedBytes": 53958
+  },
+  {
+    "name": "hair/bob02/bob02.obj",
+    "bytes": 109498,
+    "compressedBytes": 40254
+  },
+  {
+    "name": "hair/bob02/bob02.mhmat",
+    "bytes": 1319,
+    "compressedBytes": 644
+  },
+  {
+    "name": "hair/short01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/short01/short01.thumb",
+    "bytes": 35055,
+    "compressedBytes": 34218
+  },
+  {
+    "name": "hair/short01/short01.mhclo",
+    "bytes": 201588,
+    "compressedBytes": 68368
+  },
+  {
+    "name": "hair/short01/short01.mhmat",
+    "bytes": 1314,
+    "compressedBytes": 642
+  },
+  {
+    "name": "hair/short01/short01.obj",
+    "bytes": 194450,
+    "compressedBytes": 67065
+  },
+  {
+    "name": "hair/short01/short01_diffuse.png",
+    "bytes": 2354146,
+    "compressedBytes": 2338834
+  },
+  {
+    "name": "hair/afro01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/afro01/afro01.thumb",
+    "bytes": 47414,
+    "compressedBytes": 46616
+  },
+  {
+    "name": "hair/afro01/afro01.mhclo",
+    "bytes": 149574,
+    "compressedBytes": 51632
+  },
+  {
+    "name": "hair/afro01/afro01.mhmat",
+    "bytes": 1030,
+    "compressedBytes": 531
+  },
+  {
+    "name": "hair/afro01/afro01.obj",
+    "bytes": 130040,
+    "compressedBytes": 34735
+  },
+  {
+    "name": "hair/afro01/afro_diffuse.png",
+    "bytes": 4817185,
+    "compressedBytes": 4807104
+  },
+  {
+    "name": "hair/short03/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/short03/short03.thumb",
+    "bytes": 39414,
+    "compressedBytes": 38550
+  },
+  {
+    "name": "hair/short03/short03_diffuse.png",
+    "bytes": 2392930,
+    "compressedBytes": 2379485
+  },
+  {
+    "name": "hair/short03/short03.obj",
+    "bytes": 74766,
+    "compressedBytes": 27104
+  },
+  {
+    "name": "hair/short03/short03.mhclo",
+    "bytes": 69048,
+    "compressedBytes": 25622
+  },
+  {
+    "name": "hair/short03/short03.mhmat",
+    "bytes": 1309,
+    "compressedBytes": 634
+  },
+  {
+    "name": "hair/bob01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/bob01/bob01.thumb",
+    "bytes": 53628,
+    "compressedBytes": 52918
+  },
+  {
+    "name": "hair/bob01/bob01.mhclo",
+    "bytes": 352019,
+    "compressedBytes": 116992
+  },
+  {
+    "name": "hair/bob01/bob01.mhmat",
+    "bytes": 1312,
+    "compressedBytes": 640
+  },
+  {
+    "name": "hair/bob01/bob01_diffuse.png",
+    "bytes": 4243598,
+    "compressedBytes": 4241081
+  },
+  {
+    "name": "hair/bob01/bob01.obj",
+    "bytes": 396190,
+    "compressedBytes": 136544
+  },
+  {
+    "name": "hair/ponytail01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/ponytail01/ponytail01.obj",
+    "bytes": 264384,
+    "compressedBytes": 87120
+  },
+  {
+    "name": "hair/ponytail01/ponytail01_diffuse.png",
+    "bytes": 3910782,
+    "compressedBytes": 3906581
+  },
+  {
+    "name": "hair/ponytail01/ponytail01.mhclo",
+    "bytes": 252080,
+    "compressedBytes": 82028
+  },
+  {
+    "name": "hair/ponytail01/ponytail01.thumb",
+    "bytes": 47981,
+    "compressedBytes": 47809
+  },
+  {
+    "name": "hair/ponytail01/ponytail01.mhmat",
+    "bytes": 1305,
+    "compressedBytes": 631
+  },
+  {
+    "name": "hair/short02/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/short02/short02.thumb",
+    "bytes": 41127,
+    "compressedBytes": 40255
+  },
+  {
+    "name": "hair/short02/short02.obj",
+    "bytes": 139742,
+    "compressedBytes": 50161
+  },
+  {
+    "name": "hair/short02/short02.mhclo",
+    "bytes": 119240,
+    "compressedBytes": 43333
+  },
+  {
+    "name": "hair/short02/short02.mhmat",
+    "bytes": 1323,
+    "compressedBytes": 644
+  },
+  {
+    "name": "hair/short02/short02_diffuse.png",
+    "bytes": 3553543,
+    "compressedBytes": 3526253
+  },
+  {
+    "name": "hair/short02/short02_normal.png",
+    "bytes": 1626745,
+    "compressedBytes": 1608604
+  },
+  {
+    "name": "hair/braid01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/braid01/braid01.obj",
+    "bytes": 302165,
+    "compressedBytes": 101271
+  },
+  {
+    "name": "hair/braid01/braid01.mhclo",
+    "bytes": 305086,
+    "compressedBytes": 94741
+  },
+  {
+    "name": "hair/braid01/braid01.thumb",
+    "bytes": 28768,
+    "compressedBytes": 28475
+  },
+  {
+    "name": "hair/braid01/braid01.mhmat",
+    "bytes": 1299,
+    "compressedBytes": 630
+  },
+  {
+    "name": "hair/braid01/braid01_diffuse.png",
+    "bytes": 2615248,
+    "compressedBytes": 2604367
+  },
+  {
+    "name": "hair/long01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/long01/long01_diffuse.png",
+    "bytes": 2915253,
+    "compressedBytes": 2906544
+  },
+  {
+    "name": "hair/long01/long01.mhmat",
+    "bytes": 1297,
+    "compressedBytes": 629
+  },
+  {
+    "name": "hair/long01/long01.obj",
+    "bytes": 215324,
+    "compressedBytes": 72272
+  },
+  {
+    "name": "hair/long01/long01.mhclo",
+    "bytes": 220891,
+    "compressedBytes": 73147
+  },
+  {
+    "name": "hair/long01/long01.thumb",
+    "bytes": 35530,
+    "compressedBytes": 35140
+  },
+  {
+    "name": "hair/short04/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "hair/short04/short04.mhmat",
+    "bytes": 1316,
+    "compressedBytes": 641
+  },
+  {
+    "name": "hair/short04/short04.obj",
+    "bytes": 55152,
+    "compressedBytes": 20042
+  },
+  {
+    "name": "hair/short04/short04.mhclo",
+    "bytes": 59195,
+    "compressedBytes": 20793
+  },
+  {
+    "name": "hair/short04/short04_diffuse.png",
+    "bytes": 2308132,
+    "compressedBytes": 2294596
+  },
+  {
+    "name": "hair/short04/short04.thumb",
+    "bytes": 41792,
+    "compressedBytes": 40914
+  },
+  {
+    "name": "tongue/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "tongue/tongue01/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "tongue/tongue01/tongue01.thumb",
+    "bytes": 49815,
+    "compressedBytes": 49112
+  },
+  {
+    "name": "tongue/tongue01/tongue01.obj",
+    "bytes": 17155,
+    "compressedBytes": 5666
+  },
+  {
+    "name": "tongue/tongue01/tongue01.mhmat",
+    "bytes": 1261,
+    "compressedBytes": 599
+  },
+  {
+    "name": "tongue/tongue01/tongue01_diffuse.png",
+    "bytes": 625419,
+    "compressedBytes": 621916
+  },
+  {
+    "name": "tongue/tongue01/tongue01.mhclo",
+    "bytes": 2113,
+    "compressedBytes": 906
+  },
+  {
+    "name": "packs/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "packs/makehuman_system_assets.json",
+    "bytes": 39220,
+    "compressedBytes": 1219
+  },
+  {
+    "name": "proxymeshes/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/female_muscle_13442/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/female_muscle_13442/female_muscle_13442.obj",
+    "bytes": 1300679,
+    "compressedBytes": 419591
+  },
+  {
+    "name": "proxymeshes/female_muscle_13442/female_muscle_13442.proxy",
+    "bytes": 323533,
+    "compressedBytes": 115517
+  },
+  {
+    "name": "proxymeshes/female_muscle_13442/female_muscle_13442.thumb",
+    "bytes": 70929,
+    "compressedBytes": 70695
+  },
+  {
+    "name": "proxymeshes/male_generic/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/male_generic/male_generic.thumb",
+    "bytes": 72166,
+    "compressedBytes": 71961
+  },
+  {
+    "name": "proxymeshes/male_generic/male_generic.proxy",
+    "bytes": 233465,
+    "compressedBytes": 81452
+  },
+  {
+    "name": "proxymeshes/male_generic/male_generic.obj",
+    "bytes": 1315832,
+    "compressedBytes": 394846
+  },
+  {
+    "name": "proxymeshes/male_muscle_13290/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/male_muscle_13290/male_muscle_13290.thumb",
+    "bytes": 72231,
+    "compressedBytes": 72046
+  },
+  {
+    "name": "proxymeshes/male_muscle_13290/male_muscle_13290.proxy",
+    "bytes": 324446,
+    "compressedBytes": 118105
+  },
+  {
+    "name": "proxymeshes/male_muscle_13290/male_muscle_13290.obj",
+    "bytes": 1168318,
+    "compressedBytes": 367157
+  },
+  {
+    "name": "proxymeshes/female_generic/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/female_generic/female_generic.thumb",
+    "bytes": 70139,
+    "compressedBytes": 69904
+  },
+  {
+    "name": "proxymeshes/female_generic/female_generic.obj",
+    "bytes": 1216200,
+    "compressedBytes": 376758
+  },
+  {
+    "name": "proxymeshes/female_generic/female_generic.proxy",
+    "bytes": 208044,
+    "compressedBytes": 73204
+  },
+  {
+    "name": "proxymeshes/female1605/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/female1605/female1605.thumb",
+    "bytes": 61202,
+    "compressedBytes": 60989
+  },
+  {
+    "name": "proxymeshes/female1605/female1605.obj",
+    "bytes": 131067,
+    "compressedBytes": 41213
+  },
+  {
+    "name": "proxymeshes/female1605/female1605.proxy",
+    "bytes": 109182,
+    "compressedBytes": 41559
+  },
+  {
+    "name": "proxymeshes/male1591/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/male1591/male1591.thumb",
+    "bytes": 62851,
+    "compressedBytes": 62636
+  },
+  {
+    "name": "proxymeshes/male1591/male1591.proxy",
+    "bytes": 108133,
+    "compressedBytes": 39038
+  },
+  {
+    "name": "proxymeshes/male1591/male1591.obj",
+    "bytes": 129940,
+    "compressedBytes": 40247
+  },
+  {
+    "name": "proxymeshes/proxy741/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "proxymeshes/proxy741/proxy741.obj",
+    "bytes": 58768,
+    "compressedBytes": 19339
+  },
+  {
+    "name": "proxymeshes/proxy741/proxy741.proxy",
+    "bytes": 50775,
+    "compressedBytes": 18148
+  },
+  {
+    "name": "proxymeshes/proxy741/proxy741.thumb",
+    "bytes": 58430,
+    "compressedBytes": 58204
+  },
+  {
+    "name": "eyebrows/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow001/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow001/eyebrow001.obj",
+    "bytes": 8227,
+    "compressedBytes": 2873
+  },
+  {
+    "name": "eyebrows/eyebrow001/eyebrow001.png",
+    "bytes": 89619,
+    "compressedBytes": 88049
+  },
+  {
+    "name": "eyebrows/eyebrow001/eyebrow001.mhclo",
+    "bytes": 9141,
+    "compressedBytes": 3038
+  },
+  {
+    "name": "eyebrows/eyebrow001/eyebrow001.thumb",
+    "bytes": 137534,
+    "compressedBytes": 137464
+  },
+  {
+    "name": "eyebrows/eyebrow001/eyebrow001.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow005/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow005/eyebrow005.obj",
+    "bytes": 8227,
+    "compressedBytes": 2836
+  },
+  {
+    "name": "eyebrows/eyebrow005/eyebrow005.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow005/eyebrow005.png",
+    "bytes": 75733,
+    "compressedBytes": 74340
+  },
+  {
+    "name": "eyebrows/eyebrow005/eyebrow005.thumb",
+    "bytes": 136820,
+    "compressedBytes": 136748
+  },
+  {
+    "name": "eyebrows/eyebrow005/eyebrow005.mhclo",
+    "bytes": 9120,
+    "compressedBytes": 2950
+  },
+  {
+    "name": "eyebrows/eyebrow009/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow009/eyebrow009.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 556
+  },
+  {
+    "name": "eyebrows/eyebrow009/eyebrow009.png",
+    "bytes": 230800,
+    "compressedBytes": 229383
+  },
+  {
+    "name": "eyebrows/eyebrow009/eyebrow009.mhclo",
+    "bytes": 9122,
+    "compressedBytes": 3173
+  },
+  {
+    "name": "eyebrows/eyebrow009/eyebrow009.thumb",
+    "bytes": 137369,
+    "compressedBytes": 137295
+  },
+  {
+    "name": "eyebrows/eyebrow009/eyebrow009.obj",
+    "bytes": 8227,
+    "compressedBytes": 2894
+  },
+  {
+    "name": "eyebrows/eyebrow007/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow007/eyebrow007.thumb",
+    "bytes": 136558,
+    "compressedBytes": 136486
+  },
+  {
+    "name": "eyebrows/eyebrow007/eyebrow007.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow007/eyebrow007.mhclo",
+    "bytes": 9134,
+    "compressedBytes": 2859
+  },
+  {
+    "name": "eyebrows/eyebrow007/eyebrow007.obj",
+    "bytes": 8227,
+    "compressedBytes": 2797
+  },
+  {
+    "name": "eyebrows/eyebrow007/eyebrow007.png",
+    "bytes": 18685,
+    "compressedBytes": 17410
+  },
+  {
+    "name": "eyebrows/eyebrow011/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow011/eyebrow011.png",
+    "bytes": 42634,
+    "compressedBytes": 41078
+  },
+  {
+    "name": "eyebrows/eyebrow011/eyebrow011.mhclo",
+    "bytes": 9156,
+    "compressedBytes": 3058
+  },
+  {
+    "name": "eyebrows/eyebrow011/eyebrow011.obj",
+    "bytes": 8227,
+    "compressedBytes": 2885
+  },
+  {
+    "name": "eyebrows/eyebrow011/eyebrow011.thumb",
+    "bytes": 137113,
+    "compressedBytes": 137037
+  },
+  {
+    "name": "eyebrows/eyebrow011/eyebrow011.mhmat",
+    "bytes": 1099,
+    "compressedBytes": 556
+  },
+  {
+    "name": "eyebrows/eyebrow010/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow010/eyebrow010.mhmat",
+    "bytes": 1099,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow010/eyebrow010.obj",
+    "bytes": 8227,
+    "compressedBytes": 2877
+  },
+  {
+    "name": "eyebrows/eyebrow010/eyebrow010.thumb",
+    "bytes": 137287,
+    "compressedBytes": 137215
+  },
+  {
+    "name": "eyebrows/eyebrow010/eyebrow010.png",
+    "bytes": 72383,
+    "compressedBytes": 70491
+  },
+  {
+    "name": "eyebrows/eyebrow010/eyebrow010.mhclo",
+    "bytes": 9142,
+    "compressedBytes": 3031
+  },
+  {
+    "name": "eyebrows/eyebrow002/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow002/eyebrow002.thumb",
+    "bytes": 137855,
+    "compressedBytes": 137774
+  },
+  {
+    "name": "eyebrows/eyebrow002/eyebrow002.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow002/eyebrow002.mhclo",
+    "bytes": 9132,
+    "compressedBytes": 2993
+  },
+  {
+    "name": "eyebrows/eyebrow002/eyebrow002.png",
+    "bytes": 96277,
+    "compressedBytes": 94747
+  },
+  {
+    "name": "eyebrows/eyebrow002/eyebrow002.obj",
+    "bytes": 8227,
+    "compressedBytes": 2874
+  },
+  {
+    "name": "eyebrows/eyebrow012/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow012/eyebrow012.thumb",
+    "bytes": 136682,
+    "compressedBytes": 136606
+  },
+  {
+    "name": "eyebrows/eyebrow012/eyebrow012.png",
+    "bytes": 94186,
+    "compressedBytes": 92558
+  },
+  {
+    "name": "eyebrows/eyebrow012/eyebrow012.obj",
+    "bytes": 8227,
+    "compressedBytes": 2881
+  },
+  {
+    "name": "eyebrows/eyebrow012/eyebrow012.mhmat",
+    "bytes": 1099,
+    "compressedBytes": 556
+  },
+  {
+    "name": "eyebrows/eyebrow012/eyebrow012.mhclo",
+    "bytes": 9158,
+    "compressedBytes": 3196
+  },
+  {
+    "name": "eyebrows/eyebrow006/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow006/eyebrow006.png",
+    "bytes": 19381,
+    "compressedBytes": 18324
+  },
+  {
+    "name": "eyebrows/eyebrow006/eyebrow006.thumb",
+    "bytes": 136833,
+    "compressedBytes": 136766
+  },
+  {
+    "name": "eyebrows/eyebrow006/eyebrow006.obj",
+    "bytes": 8227,
+    "compressedBytes": 2845
+  },
+  {
+    "name": "eyebrows/eyebrow006/eyebrow006.mhclo",
+    "bytes": 9142,
+    "compressedBytes": 2898
+  },
+  {
+    "name": "eyebrows/eyebrow006/eyebrow006.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 556
+  },
+  {
+    "name": "eyebrows/eyebrow004/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow004/eyebrow004.png",
+    "bytes": 88931,
+    "compressedBytes": 87675
+  },
+  {
+    "name": "eyebrows/eyebrow004/eyebrow004.obj",
+    "bytes": 8227,
+    "compressedBytes": 2828
+  },
+  {
+    "name": "eyebrows/eyebrow004/eyebrow004.mhclo",
+    "bytes": 9147,
+    "compressedBytes": 3013
+  },
+  {
+    "name": "eyebrows/eyebrow004/eyebrow004.thumb",
+    "bytes": 136616,
+    "compressedBytes": 136548
+  },
+  {
+    "name": "eyebrows/eyebrow004/eyebrow004.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow008/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow008/eyebrow008.png",
+    "bytes": 100364,
+    "compressedBytes": 98981
+  },
+  {
+    "name": "eyebrows/eyebrow008/eyebrow008.mhclo",
+    "bytes": 9142,
+    "compressedBytes": 3033
+  },
+  {
+    "name": "eyebrows/eyebrow008/eyebrow008.obj",
+    "bytes": 8227,
+    "compressedBytes": 2862
+  },
+  {
+    "name": "eyebrows/eyebrow008/eyebrow008.thumb",
+    "bytes": 137457,
+    "compressedBytes": 137378
+  },
+  {
+    "name": "eyebrows/eyebrow008/eyebrow008.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow003/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyebrows/eyebrow003/eyebrow003.mhmat",
+    "bytes": 1098,
+    "compressedBytes": 555
+  },
+  {
+    "name": "eyebrows/eyebrow003/eyebrow003.mhclo",
+    "bytes": 9148,
+    "compressedBytes": 2997
+  },
+  {
+    "name": "eyebrows/eyebrow003/eyebrow003.thumb",
+    "bytes": 137706,
+    "compressedBytes": 137629
+  },
+  {
+    "name": "eyebrows/eyebrow003/eyebrow003.png",
+    "bytes": 92174,
+    "compressedBytes": 90809
+  },
+  {
+    "name": "eyebrows/eyebrow003/eyebrow003.obj",
+    "bytes": 8227,
+    "compressedBytes": 2848
+  },
+  {
+    "name": "eyes/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyes/materials/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyes/materials/brown.thumb",
+    "bytes": 29627,
+    "compressedBytes": 29627
+  },
+  {
+    "name": "eyes/materials/brownlight.thumb",
+    "bytes": 34947,
+    "compressedBytes": 34957
+  },
+  {
+    "name": "eyes/materials/brownlight.mhmat",
+    "bytes": 1256,
+    "compressedBytes": 598
+  },
+  {
+    "name": "eyes/materials/bluegreen_eye.png",
+    "bytes": 697879,
+    "compressedBytes": 695142
+  },
+  {
+    "name": "eyes/materials/ice.mhmat",
+    "bytes": 1242,
+    "compressedBytes": 593
+  },
+  {
+    "name": "eyes/materials/brown.mhmat",
+    "bytes": 1247,
+    "compressedBytes": 595
+  },
+  {
+    "name": "eyes/materials/deepblue_eye.png",
+    "bytes": 658984,
+    "compressedBytes": 656033
+  },
+  {
+    "name": "eyes/materials/grey_eye.png",
+    "bytes": 669883,
+    "compressedBytes": 666778
+  },
+  {
+    "name": "eyes/materials/grey.thumb",
+    "bytes": 32862,
+    "compressedBytes": 32862
+  },
+  {
+    "name": "eyes/materials/bluegreen.thumb",
+    "bytes": 36549,
+    "compressedBytes": 36559
+  },
+  {
+    "name": "eyes/materials/green.thumb",
+    "bytes": 32775,
+    "compressedBytes": 32775
+  },
+  {
+    "name": "eyes/materials/green_eye.png",
+    "bytes": 662241,
+    "compressedBytes": 659403
+  },
+  {
+    "name": "eyes/materials/bluegreen.mhmat",
+    "bytes": 1250,
+    "compressedBytes": 595
+  },
+  {
+    "name": "eyes/materials/brown_eye.png",
+    "bytes": 610817,
+    "compressedBytes": 607878
+  },
+  {
+    "name": "eyes/materials/deepblue.thumb",
+    "bytes": 32356,
+    "compressedBytes": 32356
+  },
+  {
+    "name": "eyes/materials/green.mhmat",
+    "bytes": 1246,
+    "compressedBytes": 596
+  },
+  {
+    "name": "eyes/materials/lightblue.thumb",
+    "bytes": 36919,
+    "compressedBytes": 36929
+  },
+  {
+    "name": "eyes/materials/lightblue_eye.png",
+    "bytes": 701486,
+    "compressedBytes": 698750
+  },
+  {
+    "name": "eyes/materials/lightblue.mhmat",
+    "bytes": 1254,
+    "compressedBytes": 597
+  },
+  {
+    "name": "eyes/materials/ice.thumb",
+    "bytes": 34110,
+    "compressedBytes": 34120
+  },
+  {
+    "name": "eyes/materials/blue.thumb",
+    "bytes": 33300,
+    "compressedBytes": 33310
+  },
+  {
+    "name": "eyes/materials/blue.mhmat",
+    "bytes": 1243,
+    "compressedBytes": 593
+  },
+  {
+    "name": "eyes/materials/deepblue.mhmat",
+    "bytes": 1252,
+    "compressedBytes": 596
+  },
+  {
+    "name": "eyes/materials/brownlight_eye.png",
+    "bytes": 680577,
+    "compressedBytes": 677796
+  },
+  {
+    "name": "eyes/materials/blue_eye.png",
+    "bytes": 666029,
+    "compressedBytes": 663267
+  },
+  {
+    "name": "eyes/materials/ice_eye.png",
+    "bytes": 676501,
+    "compressedBytes": 673628
+  },
+  {
+    "name": "eyes/materials/grey.mhmat",
+    "bytes": 1244,
+    "compressedBytes": 593
+  },
+  {
+    "name": "eyes/high-poly/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyes/high-poly/high-poly.obj",
+    "bytes": 100882,
+    "compressedBytes": 29513
+  },
+  {
+    "name": "eyes/high-poly/high-poly.thumb",
+    "bytes": 21076,
+    "compressedBytes": 20161
+  },
+  {
+    "name": "eyes/high-poly/high-poly.mhclo",
+    "bytes": 72490,
+    "compressedBytes": 21322
+  },
+  {
+    "name": "eyes/low-poly/",
+    "bytes": 0,
+    "compressedBytes": 0
+  },
+  {
+    "name": "eyes/low-poly/low-poly.thumb",
+    "bytes": 15938,
+    "compressedBytes": 15539
+  },
+  {
+    "name": "eyes/low-poly/low-poly.mhclo",
+    "bytes": 1344,
+    "compressedBytes": 673
+  },
+  {
+    "name": "eyes/low-poly/low-poly.obj",
+    "bytes": 6604,
+    "compressedBytes": 2161
+  }
+]

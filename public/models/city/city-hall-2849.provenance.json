@@ -1,0 +1,45 @@
+{
+  "source": "https://tiles.arcgis.com/tiles/z2tnIkrLQ2BRzr6P/arcgis/rest/services/philadelphia_Bldgs_text_untex/SceneServer/layers/0",
+  "objectId": 2849,
+  "nodeIndex": 641,
+  "resource": 640,
+  "sourceVersion": "661CEFCA-6729-484D-8D30-2AFC7F274213",
+  "originalGeometrySha256": "7617c002fcacc46123e41687bb17fae5f7c2eb3ed498859bc3bc871098a69f0b",
+  "originalAtlasSha256": "5b568f694eda62d37f46f54e6921a2027c5711f6d1af35f9580f87095b368355",
+  "outputSha256": "f566765ba85680fe2e8e3f6dc9dc686f2f31d80a365c85f679d5fb5a97216047",
+  "output": "public/models/city/city-hall-2849.glb",
+  "bytes": 2860616,
+  "triangles": 6960,
+  "origin": [
+    -75.16352595809857,
+    39.952655848260356,
+    95.25236157141626
+  ],
+  "localBounds": {
+    "min": [
+      -68.47921752929688,
+      -84.73416137695312,
+      -47.15318298339844
+    ],
+    "max": [
+      71.14134216308594,
+      85.03864288330078,
+      49.40928268432617
+    ]
+  },
+  "maxFloatStorageErrors": [
+    0.000003812834620475769,
+    3.76484670105981e-8,
+    0,
+    0
+  ],
+  "originalJpegBytesPreserved": true,
+  "sourceTriangleOrderPreserved": true,
+  "UV": "Original UVs cropped by per-vertex UInt16 atlas region exactly as Cesium; no V flip",
+  "verification": "Read-back passed; rendered verification pending",
+  "limitations": [
+    "Historical photographed lighting, vegetation and occlusion remain",
+    "No interiors or gameplay collision authoring",
+    "Height datum follows existing browser convention; not survey corrected"
+  ]
+}

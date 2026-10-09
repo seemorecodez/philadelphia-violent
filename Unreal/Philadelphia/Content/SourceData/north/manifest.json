@@ -1,0 +1,370 @@
+{
+  "schema": 1,
+  "units": "centimetres",
+  "axes": "X east, Y south, Z up",
+  "origin": [
+    -75.16,
+    39.95
+  ],
+  "originHeight": 11.501941601038554,
+  "terrain": "Shared 10m piecewise-planar grid from Terrarium z15 observations",
+  "surfaceConformance": {
+    "gridMeters": 10,
+    "sourceTriangles": 110352,
+    "outputTriangles": 432814,
+    "maxOriginalVertexHeightAdjustmentM": 0.46659358179906363
+  },
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60
+  },
+  "cells": [
+    {
+      "id": "-1_44",
+      "x": -5000,
+      "y": -445000,
+      "sourceSha256": "fd6fa3309017dd7df861124b0792bbc275d3f8b9009e4f57489d96e24bff5c69"
+    },
+    {
+      "id": "-1_45",
+      "x": -5000,
+      "y": -455000,
+      "sourceSha256": "f68b161ed8fae4cb3a9e26c7d8e8157ab46f1bc4e3e3beecc89630cf5d9f7e74"
+    },
+    {
+      "id": "-1_46",
+      "x": -5000,
+      "y": -465000,
+      "sourceSha256": "640e7f39cce0bf534c03db3c447b044b3edbf506d9302495f564446b551b470b"
+    },
+    {
+      "id": "-1_47",
+      "x": -5000,
+      "y": -475000,
+      "sourceSha256": "afc0d66e83a51a6b8c9fc083fcb780fc06280bf24df17a73e3be8b4ff4ed26ac"
+    },
+    {
+      "id": "-1_48",
+      "x": -5000,
+      "y": -485000,
+      "sourceSha256": "327c3506a551af933e4e09c38b01692c0444240aa2876f0b638f2695d314d569"
+    },
+    {
+      "id": "0_44",
+      "x": 5000,
+      "y": -445000,
+      "sourceSha256": "4acea681a97d2388a7561ad37eeeb7b9421d5457e0387570f4e0b03776ab2760"
+    },
+    {
+      "id": "0_45",
+      "x": 5000,
+      "y": -455000,
+      "sourceSha256": "713e83dbd005359927335904af3f95d7c558a99909a1826ae4c692652118ad3e"
+    },
+    {
+      "id": "0_46",
+      "x": 5000,
+      "y": -465000,
+      "sourceSha256": "6039b1739016e451748a567edbb8c28881b35022dc3e7a7f944d8796292e4ade"
+    },
+    {
+      "id": "0_47",
+      "x": 5000,
+      "y": -475000,
+      "sourceSha256": "7a819cbbf08ebd0528805eb734badcdab728cc68a7efe08805012cff8b6d24d1"
+    },
+    {
+      "id": "0_48",
+      "x": 5000,
+      "y": -485000,
+      "sourceSha256": "7688fa372ed57ee146aee3f2a2e5404763a2bea26871193e62642acc6a97dde2"
+    },
+    {
+      "id": "1_44",
+      "x": 15000,
+      "y": -445000,
+      "sourceSha256": "734fc43f01364cb867ed8f24a424b194f79af6db8f281581e762d95b2d0fdf33"
+    },
+    {
+      "id": "1_45",
+      "x": 15000,
+      "y": -455000,
+      "sourceSha256": "f3315c3ac05d28954ad9074c31d82880f173a1b17f616ff47f2abf73c9086e16"
+    },
+    {
+      "id": "1_46",
+      "x": 15000,
+      "y": -465000,
+      "sourceSha256": "55c524e3b018fe0ac41d154b8f644a461996d4ffbb9ed143a7edb526e347dd08"
+    },
+    {
+      "id": "1_47",
+      "x": 15000,
+      "y": -475000,
+      "sourceSha256": "7baa3a271f00063c4c5c8d774638c0732400a868aebe79bc864ac0cfa2963fb6"
+    },
+    {
+      "id": "1_48",
+      "x": 15000,
+      "y": -485000,
+      "sourceSha256": "064853d3b41f77da4aee3608b9a78e0f7df0490c1fc5869b37d1f618a6ccf85e"
+    },
+    {
+      "id": "2_44",
+      "x": 25000,
+      "y": -445000,
+      "sourceSha256": "e8d11ec76275c1fbbe6c1654359e47986931bd236585f1e9f7db11413c738bb5"
+    },
+    {
+      "id": "2_45",
+      "x": 25000,
+      "y": -455000,
+      "sourceSha256": "4e9618989244797936e43b984a916303bf3e462d7a46921561f0b51164a0315b"
+    },
+    {
+      "id": "2_46",
+      "x": 25000,
+      "y": -465000,
+      "sourceSha256": "13a2b516582c2711c872c47b9d8a07d23803a4e8346d5f183f50f8b37c059c0a"
+    },
+    {
+      "id": "2_47",
+      "x": 25000,
+      "y": -475000,
+      "sourceSha256": "3a1979fc7a156dfed44ce186eab425152ffc8b18a6abb925011ad5f2c71e372a"
+    },
+    {
+      "id": "2_48",
+      "x": 25000,
+      "y": -485000,
+      "sourceSha256": "cacf71d0634ea8ad0758056db001753e8bb94e7a71b294429e84843866a756a5"
+    },
+    {
+      "id": "3_44",
+      "x": 35000,
+      "y": -445000,
+      "sourceSha256": "7d433b466bd4f9797024d9b5be037a90425902b473f3a89249902e87347ae1f8"
+    },
+    {
+      "id": "3_45",
+      "x": 35000,
+      "y": -455000,
+      "sourceSha256": "2be521dbb4d5304744b51b7909cbfe1da688e63351245e0bdca3ee290caffd35"
+    },
+    {
+      "id": "3_46",
+      "x": 35000,
+      "y": -465000,
+      "sourceSha256": "48a7970292f2a72cfb3c1b2ce94bc6a7b43e24c1e395c85d1c27dc5885e82237"
+    },
+    {
+      "id": "3_47",
+      "x": 35000,
+      "y": -475000,
+      "sourceSha256": "71c2764d3c7f2e3afa94b7e7315a7f97730831850cc164618640d97b57324960"
+    },
+    {
+      "id": "3_48",
+      "x": 35000,
+      "y": -485000,
+      "sourceSha256": "2b3f9edb7d031d7337bc2787428a02cb50e41880e9e8058815682e31dbdb8ea1"
+    }
+  ],
+  "spawn": [
+    8508.733333333334,
+    -460908.60000000003,
+    2021.103041877021
+  ],
+  "landmark": [
+    41141.68050818046,
+    -62695.423999983606,
+    16.21516173149562
+  ],
+  "sourceManifestSha256": "676e395a3e2d723990213f74ee56a48625839ef2425103f674838339cabcba78",
+  "terrainSources": {
+    "artifacts\\unreal\\terrain\\15-9543-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12410.png",
+      "sha256": "ce9292d64c5d947488d6223c414829dd3a8b69e3801921b37e1d8dfd19afdaf9"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12411.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12411.png",
+      "sha256": "bed53c45535ef1f1496107738ca9c1fb64402f84590c0090b131896be0fe5aa2"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12410.png",
+      "sha256": "7d95b03c3f134f5bc413621fd867f456567bd367829f9ea009bbbdb990a05772"
+    },
+    "artifacts\\unreal\\terrain\\15-9542-12406.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9542/12406.png",
+      "sha256": "e0131803280b8bdd57db7e6801cc93cec57d79e34c0f0cedffea7765a0a1d302"
+    },
+    "artifacts\\unreal\\terrain\\15-9542-12405.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9542/12405.png",
+      "sha256": "99c49aa25bfdeeb8828986382e2f6b5bfebe7d5a2262ef6249d076661de74c21"
+    },
+    "artifacts\\unreal\\terrain\\15-9543-12406.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12406.png",
+      "sha256": "8845550da07bb836bf885c77bca016dcef85bd9c97c72232ca63930e2bb8b0c0"
+    },
+    "artifacts\\unreal\\terrain\\15-9543-12405.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12405.png",
+      "sha256": "fd5d58c9edd35d4c71ddbf3ea6dd5277c605aa672a93c8cd71ee23a7beba913a"
+    }
+  },
+  "limitations": [
+    "Historical source geometry is not final architecture.",
+    "Terrain source is not a surveyed road or bridge deck."
+  ],
+  "yawDegrees": -80.5,
+  "name": "North Philadelphia",
+  "houseCount": 1191,
+  "houseTriangles": 716748,
+  "skippedBuildings": [
+    {
+      "id": "188589",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "192539",
+      "name": "Edwin M. Stanton Middle School",
+      "height": 15.5448
+    },
+    {
+      "id": "195273",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "195640",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "196553",
+      "name": "New Hope Christian Academy",
+      "height": 11.277600000000001
+    },
+    {
+      "id": "198535",
+      "name": "Emmanuel United Methodist Church",
+      "height": 15.24
+    },
+    {
+      "id": "202708",
+      "name": "Zoe Bible Fellowship Baptist Church",
+      "height": 7.010400000000001
+    },
+    {
+      "id": "202844",
+      "name": "",
+      "height": 5.486400000000001
+    },
+    {
+      "id": "204954",
+      "name": "Calvary Fellowship",
+      "height": 6.7056000000000004
+    },
+    {
+      "id": "205818",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "207953",
+      "name": "",
+      "height": 11.277600000000001
+    },
+    {
+      "id": "208135",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "208380",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "208505",
+      "name": "",
+      "height": 13.411200000000001
+    },
+    {
+      "id": "208899",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "210220",
+      "name": "",
+      "height": 0.6096
+    },
+    {
+      "id": "210466",
+      "name": "",
+      "height": 0.6096
+    },
+    {
+      "id": "211736",
+      "name": "Jubilee Commandment Keepers",
+      "height": 10.3632
+    },
+    {
+      "id": "212916",
+      "name": "",
+      "height": 0.6096
+    },
+    {
+      "id": "214144",
+      "name": "House of God Church",
+      "height": 10.668000000000001
+    },
+    {
+      "id": "220775",
+      "name": "",
+      "height": 0.6096
+    },
+    {
+      "id": "223981",
+      "name": "",
+      "height": 0.3048
+    },
+    {
+      "id": "411550",
+      "name": "",
+      "height": 6.096
+    },
+    {
+      "id": "412367",
+      "name": "LT International Beauty School, Inc",
+      "height": 8.5344
+    },
+    {
+      "id": "480266",
+      "name": "",
+      "height": 12.8016
+    },
+    {
+      "id": "480673",
+      "name": "North Philadelphia West Post Office",
+      "height": 12.192
+    },
+    {
+      "id": "481770",
+      "name": "Kidz Kingdom Learning Center",
+      "height": 7.9248
+    },
+    {
+      "id": "501979",
+      "name": "",
+      "height": 9.144
+    },
+    {
+      "id": "515161",
+      "name": "",
+      "height": 9.144
+    }
+  ]
+}

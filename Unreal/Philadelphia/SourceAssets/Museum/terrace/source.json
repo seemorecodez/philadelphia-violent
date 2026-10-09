@@ -1,0 +1,116 @@
+{
+  "sourceSha256": "bfec34ce9fe3f767f2cf655ee891d3c8def3831ca5198195ed8340fbe02b7de6",
+  "sourceImageDimensions": [
+    4096,
+    2048
+  ],
+  "outlineAtlasPixels": [
+    [
+      508,
+      1492
+    ],
+    [
+      508,
+      1042
+    ],
+    [
+      648,
+      902
+    ],
+    [
+      901,
+      902
+    ],
+    [
+      1078,
+      1042
+    ],
+    [
+      1078,
+      1492
+    ]
+  ],
+  "octagonAtlasPixels": [
+    [
+      737,
+      1057
+    ],
+    [
+      850,
+      1059
+    ],
+    [
+      931,
+      1144
+    ],
+    [
+      931,
+      1257
+    ],
+    [
+      852,
+      1345
+    ],
+    [
+      740,
+      1345
+    ],
+    [
+      652,
+      1264
+    ],
+    [
+      652,
+      1149
+    ]
+  ],
+  "fountainCenterAtlasPixels": [
+    792,
+    1202
+  ],
+  "fountainOuterRadiusAtlasPixels": 82,
+  "poolVerticalProfileMeters": {
+    "rimAboveSourceCenter": 0.24,
+    "waterAboveSourceCenter": 0.1,
+    "bottomBelowSourceCenter": 0.5,
+    "measured": false
+  },
+  "partialSourceCuts": [
+    {
+      "triangle": 2343,
+      "removedAtlasPixelArea": 19928.426465641707,
+      "outsideAtlasPixelArea": 833809.1992594367
+    },
+    {
+      "triangle": 2344,
+      "removedAtlasPixelArea": 294181.5735343583,
+      "outsideAtlasPixelArea": 335287.87672948075
+    }
+  ],
+  "allOutsideFacesAndOriginalPhotoPreserved": true,
+  "sourceGroundAreaReplacedM2": 4632.608058813775,
+  "retained": {
+    "file": "museum-terrace-retained.glb",
+    "sha256": "c2e7927d3630b8800ccb0f12553042d0d76824a6f4acc463ceb7a0fe35ff577c",
+    "triangles": 2545
+  },
+  "meshes": [
+    {
+      "file": "museum-terrace.glb",
+      "sha256": "424df73f6b61223324def878f392b5e4647142819d1063d40941bd98af52a99c",
+      "triangles": 2549
+    },
+    {
+      "file": "museum-fountain-water.glb",
+      "sha256": "fd4177c2b9b79f799c7093e25d97c1622a47626ad03d4a312a12230416916372",
+      "triangles": 126
+    }
+  ],
+  "limits": [
+    "Photographic plan traced; material microstructure, meander simplification and basin height interpreted",
+    "No claim of surveyed fountain rim height",
+    "Central fountain fixture and jets not reconstructed",
+    "Facade and surrounding landscape remain unfinished",
+    "Native visual, collision and performance checks required"
+  ]
+}

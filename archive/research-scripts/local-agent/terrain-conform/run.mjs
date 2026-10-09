@@ -1,0 +1,12 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+const out='artifacts/local-agent/terrain-conform';await mkdir(out,{recursive:true});
+const prompt='Implement a pure Python function clip_triangle(subject, boundary) for terrain-conforming Philadelphia road meshes. subject is a triangle or convex polygon of (x,y) meter coordinates, in either winding. boundary is exactly 3 counterclockwise points. Return a new list of (x,y) pairs for their convex intersection, preserving subject winding; [] for empty or zero-area intersections. Do not mutate input. Use Sutherland-Hodgman clipping with tolerance around 1e-10; handle a boundary-crossing edge using its signed distances. Remove consecutive duplicate points, including a duplicate closing point. Require finite coordinates and reject malformed input with ValueError. No dependency except optional math. No files, networking, classes, I/O, recursion or execution helpers. Typical coordinates range -500 to 1500 meters; thin real clipped road triangles must survive. Return ONLY the complete Python module, without markdown or explanation. The host will inspect it before copying it to terrain_clip.py and run independent geometric tests. Do not claim tests have run.';
+const request={model:'qwen3-coder:30b',stream:false,keep_alive:0,messages:[{role:'user',content:prompt}],options:{num_gpu:0,num_thread:6,num_ctx:4096,num_predict:1400,temperature:0}};
+await writeFile(out+'/request.json',JSON.stringify(request,null,2));
+const started=Date.now();
+const response=await fetch('http://127.0.0.1:11434/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(request),signal:AbortSignal.timeout(420000)});
+if(!response.ok)throw new Error('Ollama HTTP '+response.status);
+const result=await response.json();
+await writeFile(out+'/response.json',JSON.stringify(result,null,2));
+await writeFile(out+'/candidate.txt',result.message.content);
+console.log(JSON.stringify({elapsedSeconds:(Date.now()-started)/1000,promptTokens:result.prompt_eval_count,outputTokens:result.eval_count,doneReason:result.done_reason}));

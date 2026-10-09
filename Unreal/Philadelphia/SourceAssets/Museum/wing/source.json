@@ -1,0 +1,820 @@
+{
+  "sourceSha256": "bfec34ce9fe3f767f2cf655ee891d3c8def3831ca5198195ed8340fbe02b7de6",
+  "terraceRetainedSha256": "c2e7927d3630b8800ccb0f12553042d0d76824a6f4acc463ceb7a0fe35ff577c",
+  "sourceFaces": [
+    2415,
+    2416
+  ],
+  "windows": [
+    {
+      "bay": 0,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1052
+        ],
+        [
+          2467,
+          1052
+        ],
+        [
+          2467,
+          1066
+        ],
+        [
+          2444,
+          1066
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 0,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1052
+        ],
+        [
+          2523,
+          1052
+        ],
+        [
+          2523,
+          1066
+        ],
+        [
+          2489,
+          1066
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 0,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1052
+        ],
+        [
+          2567,
+          1052
+        ],
+        [
+          2567,
+          1066
+        ],
+        [
+          2552,
+          1066
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 1,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1091
+        ],
+        [
+          2467,
+          1091
+        ],
+        [
+          2467,
+          1105
+        ],
+        [
+          2444,
+          1105
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 1,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1091
+        ],
+        [
+          2523,
+          1091
+        ],
+        [
+          2523,
+          1105
+        ],
+        [
+          2489,
+          1105
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 1,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1091
+        ],
+        [
+          2567,
+          1091
+        ],
+        [
+          2567,
+          1105
+        ],
+        [
+          2552,
+          1105
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 2,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1130
+        ],
+        [
+          2467,
+          1130
+        ],
+        [
+          2467,
+          1144
+        ],
+        [
+          2444,
+          1144
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 2,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1130
+        ],
+        [
+          2523,
+          1130
+        ],
+        [
+          2523,
+          1144
+        ],
+        [
+          2489,
+          1144
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 2,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1130
+        ],
+        [
+          2567,
+          1130
+        ],
+        [
+          2567,
+          1144
+        ],
+        [
+          2552,
+          1144
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 3,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1169
+        ],
+        [
+          2467,
+          1169
+        ],
+        [
+          2467,
+          1183
+        ],
+        [
+          2444,
+          1183
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 3,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1169
+        ],
+        [
+          2523,
+          1169
+        ],
+        [
+          2523,
+          1183
+        ],
+        [
+          2489,
+          1183
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 3,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1169
+        ],
+        [
+          2567,
+          1169
+        ],
+        [
+          2567,
+          1183
+        ],
+        [
+          2552,
+          1183
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 4,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1207
+        ],
+        [
+          2467,
+          1207
+        ],
+        [
+          2467,
+          1221
+        ],
+        [
+          2444,
+          1221
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 4,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1207
+        ],
+        [
+          2523,
+          1207
+        ],
+        [
+          2523,
+          1221
+        ],
+        [
+          2489,
+          1221
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 4,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1207
+        ],
+        [
+          2567,
+          1207
+        ],
+        [
+          2567,
+          1221
+        ],
+        [
+          2552,
+          1221
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 5,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1246
+        ],
+        [
+          2467,
+          1246
+        ],
+        [
+          2467,
+          1260
+        ],
+        [
+          2444,
+          1260
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 5,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1246
+        ],
+        [
+          2523,
+          1246
+        ],
+        [
+          2523,
+          1260
+        ],
+        [
+          2489,
+          1260
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 5,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1246
+        ],
+        [
+          2567,
+          1246
+        ],
+        [
+          2567,
+          1260
+        ],
+        [
+          2552,
+          1260
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 6,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1285
+        ],
+        [
+          2467,
+          1285
+        ],
+        [
+          2467,
+          1299
+        ],
+        [
+          2444,
+          1299
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 6,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1285
+        ],
+        [
+          2523,
+          1285
+        ],
+        [
+          2523,
+          1299
+        ],
+        [
+          2489,
+          1299
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 6,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1285
+        ],
+        [
+          2567,
+          1285
+        ],
+        [
+          2567,
+          1299
+        ],
+        [
+          2552,
+          1299
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 7,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1324
+        ],
+        [
+          2467,
+          1324
+        ],
+        [
+          2467,
+          1338
+        ],
+        [
+          2444,
+          1338
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 7,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1324
+        ],
+        [
+          2523,
+          1324
+        ],
+        [
+          2523,
+          1338
+        ],
+        [
+          2489,
+          1338
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 7,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1324
+        ],
+        [
+          2567,
+          1324
+        ],
+        [
+          2567,
+          1338
+        ],
+        [
+          2552,
+          1338
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 8,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1362
+        ],
+        [
+          2467,
+          1362
+        ],
+        [
+          2467,
+          1376
+        ],
+        [
+          2444,
+          1376
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 8,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1362
+        ],
+        [
+          2523,
+          1362
+        ],
+        [
+          2523,
+          1376
+        ],
+        [
+          2489,
+          1376
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 8,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1362
+        ],
+        [
+          2567,
+          1362
+        ],
+        [
+          2567,
+          1376
+        ],
+        [
+          2552,
+          1376
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": true
+    },
+    {
+      "bay": 9,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1401
+        ],
+        [
+          2467,
+          1401
+        ],
+        [
+          2467,
+          1415
+        ],
+        [
+          2444,
+          1415
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 9,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1401
+        ],
+        [
+          2523,
+          1401
+        ],
+        [
+          2523,
+          1415
+        ],
+        [
+          2489,
+          1415
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 9,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1401
+        ],
+        [
+          2567,
+          1401
+        ],
+        [
+          2567,
+          1415
+        ],
+        [
+          2552,
+          1415
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 10,
+      "row": 0,
+      "rect": [
+        [
+          2444,
+          1440
+        ],
+        [
+          2467,
+          1440
+        ],
+        [
+          2467,
+          1454
+        ],
+        [
+          2444,
+          1454
+        ]
+      ],
+      "paneRows": 3,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 10,
+      "row": 1,
+      "rect": [
+        [
+          2489,
+          1440
+        ],
+        [
+          2523,
+          1440
+        ],
+        [
+          2523,
+          1454
+        ],
+        [
+          2489,
+          1454
+        ]
+      ],
+      "paneRows": 4,
+      "occludedInPhoto": false
+    },
+    {
+      "bay": 10,
+      "row": 2,
+      "rect": [
+        [
+          2552,
+          1440
+        ],
+        [
+          2567,
+          1440
+        ],
+        [
+          2567,
+          1454
+        ],
+        [
+          2552,
+          1454
+        ]
+      ],
+      "paneRows": 2,
+      "occludedInPhoto": false
+    }
+  ],
+  "windowCount": 33,
+  "recessMeters": 0.22,
+  "retained": {
+    "file": "museum-wing-retained.glb",
+    "sha256": "587b2b0ed509929a386ca3a6fa8f4b9b9673e7ad7b45723303419c7761ec0b82",
+    "triangles": 2543
+  },
+  "mesh": {
+    "file": "museum-courtyard-wing.glb",
+    "sha256": "8a2380bff6589ebbf3a6311be2ee8be5f1df76b07643a0a0a733d612666ca9af",
+    "triangles": 2330
+  },
+  "limits": [
+    "Source window layout traced; tree-obscured bays interpreted from adjacent repeated bays",
+    "Reveal depth, moulding projection and material microstructure interpreted, not surveyed",
+    "Opaque reflective glazing; no building interior",
+    "Only source courtyard wing faces 2415/2416 replaced; other facade remains unfinished"
+  ]
+}

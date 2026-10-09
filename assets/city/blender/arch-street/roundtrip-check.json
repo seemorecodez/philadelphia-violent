@@ -1,0 +1,42 @@
+{
+  "source": {
+    "triangles": 29924,
+    "min": [
+      0.40138877300112913,
+      -19.39892239715322,
+      -48.07296757656752
+    ],
+    "max": [
+      27.002676317015432,
+      16.855997141256683,
+      -43.278991047089754
+    ],
+    "nodes": [
+      {
+        "name": "Source 2740 north facade physical detail",
+        "mesh": 0
+      }
+    ]
+  },
+  "blender_export": {
+    "triangles": 29924,
+    "min": [
+      0.4013887643814087,
+      -19.398921966552734,
+      -48.072967529296875
+    ],
+    "max": [
+      27.002676010131836,
+      16.85599708557129,
+      -43.27899169921875
+    ],
+    "nodes": [
+      {
+        "mesh": 0,
+        "name": "Source 2740 north facade physical detail"
+      }
+    ]
+  },
+  "max_bounds_error_metres": 6.521289961369803e-07,
+  "scope": "Triangle count and identity-transform bounds only; not native visual acceptance"
+}

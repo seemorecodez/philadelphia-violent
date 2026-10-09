@@ -1,0 +1,52 @@
+{
+  "title": "Footsteps",
+  "author": "GboxMikeFozzy",
+  "source": "https://opengameart.org/content/footsteps-0",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source_description": "Author recorded their footsteps while walking through a subway, then normalized and reduced noise.",
+  "conversion": "Decoded from original OGG to mono 44.1kHz 16-bit PCM WAV with ffmpeg; no pitch shift, synthesis, added effects, or gain processing.",
+  "listening_review": "Unverified: current tool session cannot ingest audio.",
+  "files": [
+    {
+      "file": "01-footstep.wav",
+      "source_url": "https://opengameart.org/sites/default/files/01-footstep_0.ogg",
+      "source_sha256": "33c9bef5e8aeb1069455699a34a0c5e1ef1787fd3f61594b0859d7e6bb9f9dec",
+      "sha256": "9e9969a61d8ebc3919970b9fd78a86351075da4becfa3ae28bfca95d18c931ce",
+      "bytes": 13654,
+      "duration_seconds": 0.15392290249433108,
+      "peak_dbfs": -22.006191655276904,
+      "rms_dbfs": -42.76283117404297
+    },
+    {
+      "file": "02-footstep.wav",
+      "source_url": "https://opengameart.org/sites/default/files/02-footstep.ogg",
+      "source_sha256": "f05396c807eb8eaecffb2a1ead611ec971c5a7914d1d081c91d7796e852692a2",
+      "sha256": "267c30896dfc99efcf6fab5e619c3a5c1a07adaaeeba3487f7224a46e8467afb",
+      "bytes": 14960,
+      "duration_seconds": 0.16873015873015873,
+      "peak_dbfs": -21.031138919476213,
+      "rms_dbfs": -45.455344006657725
+    },
+    {
+      "file": "03-footstep.wav",
+      "source_url": "https://opengameart.org/sites/default/files/03-footstep.ogg",
+      "source_sha256": "9817cc93897ed1de5da87675b26be4196bfda3daa6f1de9dc4398a68d250cdb9",
+      "sha256": "9ba05403281096ddba765ab7930f7c69bc7b5ab5a89461d5d9910f358e59d6af",
+      "bytes": 28012,
+      "duration_seconds": 0.3167120181405896,
+      "peak_dbfs": -21.959564835128496,
+      "rms_dbfs": -40.43305950117605
+    },
+    {
+      "file": "04-footstep.wav",
+      "source_url": "https://opengameart.org/sites/default/files/04-footstep.ogg",
+      "source_sha256": "b373ff981e44d6f7ba2291225a4803078771029615ed81606136fdb9599906d5",
+      "sha256": "b81d6cc07ed859511156f10d792755cb5efd301c327f9bb341863e16e7ad22d6",
+      "bytes": 29450,
+      "duration_seconds": 0.33301587301587304,
+      "peak_dbfs": -16.640852716552462,
+      "rms_dbfs": -39.53705587011992
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "url": "https://arcgis.dvrpc.org/portal/rest/services/transportation/pedestriannetwork_lines/FeatureServer/0/query?f=geojson&where=1%3D1&geometry=-75.1625%2C39.951%2C-75.148%2C39.9605&geometryType=esriGeometryEnvelope&inSR=4326&outSR=4326&outFields=%2A&returnGeometry=true&resultRecordCount=2000",
+  "count": 1033,
+  "interpretation": "Source pedestrian paths; actor movement and density are authored game behavior"
+}

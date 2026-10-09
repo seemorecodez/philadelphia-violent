@@ -1,0 +1,169 @@
+{
+  "classification": "Authored neighborhood furniture, interpreted rather than surveyed",
+  "units": "metres; GLB importer converts to Unreal centimetres",
+  "assets": [
+    {
+      "kind": "lamp",
+      "file": "assets/city/blender/neighborhood-street-kit/lamp.glb",
+      "triangles": 1012,
+      "bounds_m": [
+        [
+          -0.2199999988079071,
+          -0.2199999988079071,
+          0.0
+        ],
+        [
+          2.1600000858306885,
+          0.2199999988079071,
+          6.636968612670898
+        ]
+      ],
+      "sha256": "dac2125b746800d0e9abaf0bec4e64efd23a58be13fe029b2740817fa3f1c2c7"
+    },
+    {
+      "kind": "hydrant",
+      "file": "assets/city/blender/neighborhood-street-kit/hydrant.glb",
+      "triangles": 964,
+      "bounds_m": [
+        [
+          -0.20000000298023224,
+          -0.20200002193450928,
+          0.0
+        ],
+        [
+          0.25999999046325684,
+          0.20200000703334808,
+          0.8904999494552612
+        ]
+      ],
+      "sha256": "15d75019e09033c07cb1750e2517e6806c23f7eb1d2d4ab4950c8defa9082ff7"
+    },
+    {
+      "kind": "bin",
+      "file": "assets/city/blender/neighborhood-street-kit/bin.glb",
+      "triangles": 1160,
+      "bounds_m": [
+        [
+          -0.2849999964237213,
+          -0.3199999928474426,
+          0.004999995231628418
+        ],
+        [
+          0.2849999964237213,
+          0.3199999928474426,
+          0.9424999952316284
+        ]
+      ],
+      "sha256": "6d2f010a211a990f816be627553cae28152bc3c053071da07b1b303efd4d41ac"
+    },
+    {
+      "kind": "utility-pole",
+      "file": "assets/city/blender/neighborhood-street-kit/utility-pole.glb",
+      "triangles": 928,
+      "bounds_m": [
+        [
+          -0.15199999511241913,
+          -0.7749999761581421,
+          0.0
+        ],
+        [
+          0.15199999511241913,
+          0.7749999761581421,
+          8.699999809265137
+        ]
+      ],
+      "sha256": "0bf6253d9d4052dbf554441d2a79a420e96156b19a51a3040b329eb1010cc1eb"
+    },
+    {
+      "kind": "parking-sign",
+      "file": "assets/city/blender/neighborhood-street-kit/parking-sign.glb",
+      "triangles": 796,
+      "bounds_m": [
+        [
+          -0.02199999988079071,
+          -0.20000000298023224,
+          0.0
+        ],
+        [
+          0.05299999937415123,
+          0.20000000298023224,
+          2.940000057220459
+        ]
+      ],
+      "sha256": "3bacc9e16ee94252c9e38efdd73802e870d23242b0a74a58aa79286a442b6895"
+    },
+    {
+      "kind": "planter",
+      "file": "assets/city/blender/neighborhood-street-kit/planter.glb",
+      "triangles": 3944,
+      "bounds_m": [
+        [
+          -0.375,
+          -0.3725000023841858,
+          0.0
+        ],
+        [
+          0.375,
+          0.3725000023841858,
+          0.8489065170288086
+        ]
+      ],
+      "sha256": "9e4ff89a20bb63fb51ecc494729f92b446c4e84fa6e766231b79ddb16c395af3"
+    },
+    {
+      "kind": "garden-fence",
+      "file": "assets/city/blender/neighborhood-street-kit/garden-fence.glb",
+      "triangles": 1926,
+      "bounds_m": [
+        [
+          -0.7940000295639038,
+          -0.04399999976158142,
+          0.0
+        ],
+        [
+          0.7940000295639038,
+          0.04399999976158142,
+          1.124000072479248
+        ]
+      ],
+      "sha256": "d51f832e4e7d479a3dced1bbf6eb6a086e205d67874367698fbfd9ef12339991"
+    },
+    {
+      "kind": "mailbox",
+      "file": "assets/city/blender/neighborhood-street-kit/mailbox.glb",
+      "triangles": 324,
+      "bounds_m": [
+        [
+          -0.05000000074505806,
+          -0.14249999821186066,
+          0.0
+        ],
+        [
+          0.07450000196695328,
+          0.14249999821186066,
+          0.24249999225139618
+        ]
+      ],
+      "sha256": "1066a4d2ae454a00aec3650ce97a93dc59dcbfc3667280846929d0c43089830f"
+    },
+    {
+      "kind": "cable",
+      "file": "assets/city/blender/neighborhood-street-kit/cable.glb",
+      "triangles": 20,
+      "bounds_m": [
+        [
+          -5.373958500420883e-10,
+          -0.007794250268489122,
+          -0.0090000219643116
+        ],
+        [
+          1.0,
+          0.007794250268489122,
+          0.009000021032989025
+        ]
+      ],
+      "sha256": "cd87ccaa57942b32792bece9d7fee2653214303d789b2b353165b8483981bfa5"
+    }
+  ],
+  "shared_material": "StreetKit_VertexPaint"
+}

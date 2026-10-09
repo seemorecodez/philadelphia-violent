@@ -1,0 +1,7 @@
+--- /dev/null
++++ b/Unreal/Philadelphia/Config/DefaultEditorPerProjectUserSettings.ini
+@@ -0,0 +1,4 @@
++; SourceData JSON is read directly by PhillyDistrict, not imported as DataTables.
++[/Script/UnrealEd.EditorLoadingSavingSettings]
++-AutoReimportDirectorySettings=(SourceDirectory="/Game/",MountPoint=,Wildcards=((Wildcard="Localization/*")))
+++AutoReimportDirectorySettings=(SourceDirectory="/Game/",MountPoint=,Wildcards=((Wildcard="Localization/*"),(Wildcard="SourceData/*.json",bInclude=False)))

@@ -1,0 +1,21 @@
+{
+  "sourceBlend": "assets\\characters\\human-adult.blend",
+  "sourceBlendSha256": "b134060840484928fc1091128628c809ae346da41b613b360ee588fafcd77af0",
+  "sourceLicense": "CC0-1.0 MakeHuman system assets",
+  "authoredAnimationLicense": "MIT SeemoreCodez",
+  "animations": [
+    "Idle",
+    "Run",
+    "Walk"
+  ],
+  "outputBytes": 17439780,
+  "derivedSha256": "57350f4cb3ec61a82864baf17e6947858823ae871ac57898c09681edcc470361",
+  "preserved": "Same anatomical mesh, source skin weights, packed skin/clothes/eye materials, alpha-masked hair, Idle and Walk.",
+  "runDurationSeconds": 0.6666666666666666,
+  "runStrideEstimateMetres": 2.5037397467261577,
+  "walkStrideEstimateMetres": 0.9408476736610265,
+  "minimumRunSoleZ": 0.002299189567565918,
+  "contactValidation": "Actual deformed shoe mesh sampled every 1/120 second for a complete Run cycle.",
+  "limits": "Authored in-place FK cycle, not motion capture. No foot IK, turning, start/stop or slope adaptation. Requires visual review and live-game cadence/transition testing; not AAA acceptance.",
+  "status": "complete"
+}

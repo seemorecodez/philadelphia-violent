@@ -1,0 +1,34 @@
+{
+  "district": "Chinatown / Reading Terminal",
+  "bounds": [
+    -75.1625,
+    39.951,
+    -75.148,
+    39.9605
+  ],
+  "downloadedAt": "2026-09-12T08:31:25.631Z",
+  "sources": {
+    "surfaces": {
+      "url": "https://mapservices.pasda.psu.edu/server/rest/services/pasda/CityPhilly/MapServer/11",
+      "queries": [
+        "https://mapservices.pasda.psu.edu/server/rest/services/pasda/CityPhilly/MapServer/11/query?f=geojson&where=1%3D1&geometry=-75.1625%2C39.951%2C-75.148%2C39.9605&geometryType=esriGeometryEnvelope&inSR=4326&outSR=4326&spatialRel=esriSpatialRelIntersects&outFields=*&returnGeometry=true&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID_1&geometryPrecision=8",
+        "https://mapservices.pasda.psu.edu/server/rest/services/pasda/CityPhilly/MapServer/11/query?f=geojson&where=1%3D1&geometry=-75.1625%2C39.951%2C-75.148%2C39.9605&geometryType=esriGeometryEnvelope&inSR=4326&outSR=4326&spatialRel=esriSpatialRelIntersects&outFields=*&returnGeometry=true&resultOffset=1000&resultRecordCount=1000&orderByFields=OBJECTID_1&geometryPrecision=8",
+        "https://mapservices.pasda.psu.edu/server/rest/services/pasda/CityPhilly/MapServer/11/query?f=geojson&where=1%3D1&geometry=-75.1625%2C39.951%2C-75.148%2C39.9605&geometryType=esriGeometryEnvelope&inSR=4326&outSR=4326&spatialRel=esriSpatialRelIntersects&outFields=*&returnGeometry=true&resultOffset=2000&resultRecordCount=1000&orderByFields=OBJECTID_1&geometryPrecision=8"
+      ],
+      "count": 2079,
+      "bytes": 3173377,
+      "sha256": "96a98c8cccc4274dc08441c46230ecdf776fb6556dbfc8b3f149b8ab39ba97b2",
+      "copyright": "Pictometry Intelligent Images, Intergraph Services Company (ISC), and Sanborn Mapping Services"
+    },
+    "streets": {
+      "url": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Street_Centerline/FeatureServer/0",
+      "queries": [
+        "https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services/Street_Centerline/FeatureServer/0/query?f=geojson&where=1%3D1&geometry=-75.1625%2C39.951%2C-75.148%2C39.9605&geometryType=esriGeometryEnvelope&inSR=4326&outSR=4326&spatialRel=esriSpatialRelIntersects&outFields=*&returnGeometry=true&resultOffset=0&resultRecordCount=1000&orderByFields=objectid&geometryPrecision=8"
+      ],
+      "count": 360,
+      "bytes": 249931,
+      "sha256": "dbf93b8331181bac25a03110e0420aec7091d3616a6c181a749ca30f76e50fb1",
+      "copyright": ""
+    }
+  }
+}

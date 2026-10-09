@@ -1,0 +1,82 @@
+[
+  {
+    "id": "south",
+    "name": "South Philadelphia",
+    "longitude": -75.1661,
+    "latitude": 39.9317,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99307/76337",
+    "image": "/data/neighborhoods/south.jpg",
+    "bounds": [
+      -75.16708374023438,
+      39.93080082075276,
+      -75.16571044921875,
+      39.93185387996174
+    ],
+    "sha256": "15047f2aa86cfebde2dc3ca7fe206943f4565246305d53beab7332d4ed258ab9",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  },
+  {
+    "id": "west",
+    "name": "West Philadelphia",
+    "longitude": -75.2182,
+    "latitude": 39.9508,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99289/76299",
+    "image": "/data/neighborhoods/west.jpg",
+    "bounds": [
+      -75.21926879882812,
+      39.94975340768179,
+      -75.2178955078125,
+      39.95080617525735
+    ],
+    "sha256": "1916b88c84beaf05915ce42b163b0b5165407ae019747ecc115dd172850f24b9",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  },
+  {
+    "id": "north",
+    "name": "North Philadelphia",
+    "longitude": -75.1588,
+    "latitude": 39.9914,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99250/76343",
+    "image": "/data/neighborhoods/north.jpg",
+    "bounds": [
+      -75.15884399414062,
+      39.99079933583802,
+      -75.157470703125,
+      39.991851471423466
+    ],
+    "sha256": "b731e1bdb1dfa93aa55606a79743c3e0554b7589040140370f7122077efa6b02",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  },
+  {
+    "id": "river",
+    "name": "Delaware waterfront / Penn Treaty Park",
+    "longitude": -75.128,
+    "latitude": 39.9662,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99274/76365",
+    "image": "/data/neighborhoods/river.jpg",
+    "bounds": [
+      -75.12863159179688,
+      39.965543219966044,
+      -75.12725830078125,
+      39.9665957444875
+    ],
+    "sha256": "b151016a8df997bfcd23d80482d084ff3617c250c3a070b2d93741e734b40b88",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  },
+  {
+    "id": "fairmount",
+    "name": "East Fairmount Park",
+    "longitude": -75.1955,
+    "latitude": 39.9884,
+    "url": "https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2023/MapServer/tile/18/99253/76316",
+    "image": "/data/neighborhoods/fairmount.jpg",
+    "bounds": [
+      -75.1959228515625,
+      39.987642831840844,
+      -75.19454956054688,
+      39.98869501604661
+    ],
+    "sha256": "84aa3b69939db433b5b2eb674a241c0c15ed0f1885a06424431f172c042d6820",
+    "basis": "2023 overhead photograph; does not establish unseen facades"
+  }
+]

@@ -1,0 +1,242 @@
+{
+  "schema": 1,
+  "units": "centimetres",
+  "axes": "X east, Y south, Z up",
+  "origin": [
+    -75.16,
+    39.95
+  ],
+  "originHeight": 11.501941601038554,
+  "terrain": "Shared 10m piecewise-planar grid from Terrarium z15 observations",
+  "surfaceConformance": {
+    "gridMeters": 10,
+    "sourceTriangles": 77433,
+    "outputTriangles": 298342,
+    "maxOriginalVertexHeightAdjustmentM": 1.7562117219329885
+  },
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60
+  },
+  "cells": [
+    {
+      "id": "-33_40",
+      "x": -325000,
+      "y": -405000,
+      "sourceSha256": "ec649dd32d8082b5532af47481e93a094fbc6be23874a79306999828299f33dd"
+    },
+    {
+      "id": "-33_41",
+      "x": -325000,
+      "y": -415000,
+      "sourceSha256": "10c62bcf5faf9def6c23c85eeb6929624edb17101d86a81570bae3c1af9f1ba1"
+    },
+    {
+      "id": "-33_42",
+      "x": -325000,
+      "y": -425000,
+      "sourceSha256": "5623ff7ff086a5b9e04c407e968d40e43d45de21f93f05cb08afa9d93e1952fd"
+    },
+    {
+      "id": "-33_43",
+      "x": -325000,
+      "y": -435000,
+      "sourceSha256": "d3de29f8424e31f9da5e293458db4e3840c74ab9fcca1ada5d8e79adf0425e55"
+    },
+    {
+      "id": "-33_44",
+      "x": -325000,
+      "y": -445000,
+      "sourceSha256": "deeba663c53a3fe544d2c669d2e68bb9e603977c386337b914cd1a63c9cdb313"
+    },
+    {
+      "id": "-32_40",
+      "x": -315000,
+      "y": -405000,
+      "sourceSha256": "8d3cb601e8bac805e31745c92ced4bb0c0d87fccdda34acf658cc799acfb1bd1"
+    },
+    {
+      "id": "-32_41",
+      "x": -315000,
+      "y": -415000,
+      "sourceSha256": "e8e08d851df52f9739ae4c9a6f0905d909564338558f8b9c551b6f1c39f6f616"
+    },
+    {
+      "id": "-32_42",
+      "x": -315000,
+      "y": -425000,
+      "sourceSha256": "920f23f68c991533a2778c75e71425dca8c48ad738d34ad4f9ddcac02eaa647c"
+    },
+    {
+      "id": "-32_43",
+      "x": -315000,
+      "y": -435000,
+      "sourceSha256": "0ae0637de9d96f13b7a5f0998648211bc4e27e957a3f224e1708d88288a4333f"
+    },
+    {
+      "id": "-32_44",
+      "x": -315000,
+      "y": -445000,
+      "sourceSha256": "00bda84a7856461fb1522a50c290ef700448c2d6e0bfe9232b2eebe231263efd"
+    },
+    {
+      "id": "-31_40",
+      "x": -305000,
+      "y": -405000,
+      "sourceSha256": "967037d91971660ee198397b49fd3605e17ab967acd5c60755852ddec44bc924"
+    },
+    {
+      "id": "-31_41",
+      "x": -305000,
+      "y": -415000,
+      "sourceSha256": "9acf8752ccd5061c2e17a98a11459e0295903ad570c7d2f887c7dec0586ee27f"
+    },
+    {
+      "id": "-31_42",
+      "x": -305000,
+      "y": -425000,
+      "sourceSha256": "57571778da903e4b65e23ecb52fec95df8964d6a68fae17e6ba88a478e36ff00"
+    },
+    {
+      "id": "-31_43",
+      "x": -305000,
+      "y": -435000,
+      "sourceSha256": "2ac3b565f38d8390a4871fb959bc40841ddee39b28fe866275f578ad6a989922"
+    },
+    {
+      "id": "-31_44",
+      "x": -305000,
+      "y": -445000,
+      "sourceSha256": "05890985ec3be99079c74fd17f6f9ab362468f1a73cbddf56980a49f60f83028"
+    },
+    {
+      "id": "-30_40",
+      "x": -295000,
+      "y": -405000,
+      "sourceSha256": "6a2379c3fbe1b7367c95becdca74ddc19bf5d68b19ac55cd2b5443e87826e1bf"
+    },
+    {
+      "id": "-30_41",
+      "x": -295000,
+      "y": -415000,
+      "sourceSha256": "0f1d8ca7b81fae704189f41af2e249d632b3c8cd02eef53cedf34449674665a6"
+    },
+    {
+      "id": "-30_42",
+      "x": -295000,
+      "y": -425000,
+      "sourceSha256": "7126f2a77d8a06ea8df7f326fa7bbd8996e1cf1887a7fc3eee6de6a4a46dca20"
+    },
+    {
+      "id": "-30_43",
+      "x": -295000,
+      "y": -435000,
+      "sourceSha256": "071cc0d7a5495d039d7cf5e23d85a1565b5d804a48c7e3119c12400f0a762513"
+    },
+    {
+      "id": "-30_44",
+      "x": -295000,
+      "y": -445000,
+      "sourceSha256": "8bbe20ec1675457227d45dc782aff85ceb6ddf94329651acedb9ddf13d240c85"
+    },
+    {
+      "id": "-29_40",
+      "x": -285000,
+      "y": -405000,
+      "sourceSha256": "14ec7e279572e6fa38a0f031302bb164362d76f767ea6ed08ece1a4bc0590c1f"
+    },
+    {
+      "id": "-29_41",
+      "x": -285000,
+      "y": -415000,
+      "sourceSha256": "574ffb7264bccedf9c86482e2cc8075ff7da567061f1bc90d7e7db24bf7cddf1"
+    },
+    {
+      "id": "-29_42",
+      "x": -285000,
+      "y": -425000,
+      "sourceSha256": "d4e777badb18fdfb65c921e7c00e990640382b3c6b85eda906e7a1e4fa7123ce"
+    },
+    {
+      "id": "-29_43",
+      "x": -285000,
+      "y": -435000,
+      "sourceSha256": "5a3cf663fdb21019a4479d4d43f5e9f512d47fda4ad867b1d7a8ca6458ad614d"
+    },
+    {
+      "id": "-29_44",
+      "x": -285000,
+      "y": -445000,
+      "sourceSha256": "3909c027624896e219b8534916c7ef03d28005e532f35f53ea862a96aaebda19"
+    }
+  ],
+  "spawn": [
+    -312465.9666666667,
+    -419656.16666666674,
+    2514.0962997395773
+  ],
+  "landmark": [
+    41141.68050818046,
+    -62695.423999983606,
+    16.21516173149562
+  ],
+  "sourceManifestSha256": "92453a6f4445900ae304f0f2fd376e7c02b11eb969bfb1d09d7db87c7fb7ac32",
+  "terrainSources": {
+    "artifacts\\unreal\\terrain\\15-9543-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12410.png",
+      "sha256": "ce9292d64c5d947488d6223c414829dd3a8b69e3801921b37e1d8dfd19afdaf9"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12411.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12411.png",
+      "sha256": "bed53c45535ef1f1496107738ca9c1fb64402f84590c0090b131896be0fe5aa2"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12410.png",
+      "sha256": "7d95b03c3f134f5bc413621fd867f456567bd367829f9ea009bbbdb990a05772"
+    },
+    "artifacts\\unreal\\terrain\\15-9542-12406.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9542/12406.png",
+      "sha256": "e0131803280b8bdd57db7e6801cc93cec57d79e34c0f0cedffea7765a0a1d302"
+    },
+    "artifacts\\unreal\\terrain\\15-9542-12405.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9542/12405.png",
+      "sha256": "99c49aa25bfdeeb8828986382e2f6b5bfebe7d5a2262ef6249d076661de74c21"
+    },
+    "artifacts\\unreal\\terrain\\15-9543-12406.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12406.png",
+      "sha256": "8845550da07bb836bf885c77bca016dcef85bd9c97c72232ca63930e2bb8b0c0"
+    },
+    "artifacts\\unreal\\terrain\\15-9543-12405.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12405.png",
+      "sha256": "fd5d58c9edd35d4c71ddbf3ea6dd5277c605aa672a93c8cd71ee23a7beba913a"
+    },
+    "artifacts\\unreal\\terrain\\15-9545-12409.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9545/12409.png",
+      "sha256": "981dd8a7f990c5b721b6a7aee07c78070e13a8ae45ef80b3427e9641e1141272"
+    },
+    "artifacts\\unreal\\terrain\\15-9545-12408.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9545/12408.png",
+      "sha256": "1e2cde43943af7605ceb068ba971e7a19ba19cc80349f381565749d142c862ee"
+    },
+    "artifacts\\unreal\\terrain\\15-9539-12406.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9539/12406.png",
+      "sha256": "f88f8c4756e3d6366c39eda2edc8eca6a2997cba305ce91b3f4a32ff5f228ef8"
+    }
+  },
+  "limitations": [
+    "Historical source geometry is not final architecture.",
+    "Terrain source is not a surveyed road or bridge deck."
+  ],
+  "yawDegrees": -80.5,
+  "name": "East Fairmount Park",
+  "houseCount": 0,
+  "houseTriangles": 0,
+  "skippedBuildings": [
+    {
+      "id": "210763",
+      "name": "Ormiston Mansion",
+      "height": 12.4968
+    }
+  ]
+}

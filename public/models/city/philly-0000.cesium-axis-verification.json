@@ -1,0 +1,16 @@
+{
+  "file": "public/models/city/philly-0000.glb",
+  "sha256": "18861dae8a55044d7dc1f100308f440d28fc41e07def8ed3395f43e667f7c399",
+  "cesiumVersion": "1.145.0",
+  "axisImplementation": "@cesium/engine/Source/Scene/Model/ModelUtility.js:getAxisCorrectionMatrix",
+  "upAxis": "Axis.Y",
+  "forwardAxis": "Axis.X",
+  "checkedGltfVertices": 2709,
+  "maxAxisRecoveryErrorMetres": 0,
+  "sourceAxesRecovered": true,
+  "geographicOrigin": [
+    -75.155179,
+    39.955632
+  ],
+  "anchor": "ENU at loaded terrain height; no source absolute elevation was verified"
+}

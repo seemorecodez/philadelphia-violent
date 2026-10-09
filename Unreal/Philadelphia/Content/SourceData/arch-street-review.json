@@ -1,0 +1,31 @@
+{
+  "scope": "Source-derived Arch Street player-camera review, not gameplay acceptance",
+  "sourceRoadObjectId": 13636,
+  "streetDataSha256": "dbf93b8331181bac25a03110e0420aec7091d3616a6c181a749ca30f76e50fb1",
+  "sourceMeshSha256": "db91dd489556a445d66fe2f9ebdf887877480b3f896aeb1c070bd8b0611f4e3c",
+  "segmentFraction": 0.3781487980349084,
+  "roadHits": [
+    {
+      "cell": "2_4",
+      "triangle": 5327,
+      "heightCm": 122.90146629379541,
+      "cellSha256": "82618f88855d1694fd7c0e05bd2b9e48be15b7c5f3bffd9480d279184c489e6c"
+    }
+  ],
+  "pawnCm": [
+    26555.12653619865,
+    -40430.32397084271,
+    216.9014662937954
+  ],
+  "yawDegrees": 99.51484165655685,
+  "pitchDegrees": 6,
+  "browserEyeLonLatHeight": [
+    -75.156888258733,
+    39.95363190118315,
+    14.380956263976508
+  ],
+  "limits": [
+    "Browser eye and third-person player camera are different views",
+    "Height follows retained road geometry, not surveyed street elevation"
+  ]
+}

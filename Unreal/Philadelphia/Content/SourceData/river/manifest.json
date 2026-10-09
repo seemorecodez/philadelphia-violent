@@ -1,0 +1,268 @@
+{
+  "schema": 1,
+  "units": "centimetres",
+  "axes": "X east, Y south, Z up",
+  "origin": [
+    -75.16,
+    39.95
+  ],
+  "originHeight": 11.501941601038554,
+  "terrain": "Shared 10m piecewise-planar grid from Terrarium z15 observations",
+  "surfaceConformance": {
+    "gridMeters": 10,
+    "sourceTriangles": 47412,
+    "outputTriangles": 197044,
+    "maxOriginalVertexHeightAdjustmentM": 2.159938064489146
+  },
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60
+  },
+  "cells": [
+    {
+      "id": "25_16",
+      "x": 255000,
+      "y": -165000,
+      "sourceSha256": "512812f38e66735c5172864726ebcdb67f18acf132d00c862cffacf5b012ec4d"
+    },
+    {
+      "id": "25_17",
+      "x": 255000,
+      "y": -175000,
+      "sourceSha256": "454b1da7db6aad17bf852bef119e3fbbeaa1e5774196fbd13e6935a6ec23425d"
+    },
+    {
+      "id": "25_18",
+      "x": 255000,
+      "y": -185000,
+      "sourceSha256": "0a738bc094c408c5a145f3488eceba8842eaed98c99b3838e424e9db17a015c8"
+    },
+    {
+      "id": "25_19",
+      "x": 255000,
+      "y": -195000,
+      "sourceSha256": "f76d37189caddce305904b772603a5adce79eb8d0e86dfc919bc11267f585315"
+    },
+    {
+      "id": "25_20",
+      "x": 255000,
+      "y": -205000,
+      "sourceSha256": "99ba5bd3341ef2a8faf48c2fd3eba7eabdf68896638cd329f98f28c49111b67d"
+    },
+    {
+      "id": "26_16",
+      "x": 265000,
+      "y": -165000,
+      "sourceSha256": "9808b19e4c5c924e5e119635381bdb1d95b9db9c3c18083ac030e4be3703bff4"
+    },
+    {
+      "id": "26_17",
+      "x": 265000,
+      "y": -175000,
+      "sourceSha256": "2d8612c7f776aee7fb2c59d16df66853096a7760a9007b7c0fac951921eaefab"
+    },
+    {
+      "id": "26_18",
+      "x": 265000,
+      "y": -185000,
+      "sourceSha256": "08a78764c4a025dc1b6a141070d5ae81eacee20c42c3adb8ed2936a7b3794067"
+    },
+    {
+      "id": "26_19",
+      "x": 265000,
+      "y": -195000,
+      "sourceSha256": "e6043429601c2deab5e5667c052a1eceeeb6b286c562dc35544d2b1b5bcb9e7f"
+    },
+    {
+      "id": "26_20",
+      "x": 265000,
+      "y": -205000,
+      "sourceSha256": "ab967eca30faefaea8550f91df101774ffaca0011d3840967b36a83a78390b65"
+    },
+    {
+      "id": "27_16",
+      "x": 275000,
+      "y": -165000,
+      "sourceSha256": "298d29d8b92dbaad3870846ad2f21131635748474ba629909a5ab6fb3e7823ea"
+    },
+    {
+      "id": "27_17",
+      "x": 275000,
+      "y": -175000,
+      "sourceSha256": "029d8043f54fd2a5256f9225eab48b68ebf62714fd39825f6361f7e5c9fe1b63"
+    },
+    {
+      "id": "27_18",
+      "x": 275000,
+      "y": -185000,
+      "sourceSha256": "3fec7a38178f3c7f80fa887d6e0a90e83f7e8763d79a3356f053ba43c56d5b70"
+    },
+    {
+      "id": "27_19",
+      "x": 275000,
+      "y": -195000,
+      "sourceSha256": "45f428bd381cbafa4e7bad10438f76c300c3d295504381a20ca744f1e0cc105e"
+    },
+    {
+      "id": "27_20",
+      "x": 275000,
+      "y": -205000,
+      "sourceSha256": "c2bae5d77e2a735f72fd844ef03cc67b8c7fa1fc49a5b94a8902f9f0da0c2f22"
+    },
+    {
+      "id": "28_16",
+      "x": 285000,
+      "y": -165000,
+      "sourceSha256": "3729d09476b67453bb2e0cdacf5e98bbd52735d772bd222058f669b245425fd8"
+    },
+    {
+      "id": "28_17",
+      "x": 285000,
+      "y": -175000,
+      "sourceSha256": "1be8ed4b8d25290a05c10cd017f8d89e77dd126c40d071930f670a8c34954cd3"
+    },
+    {
+      "id": "28_18",
+      "x": 285000,
+      "y": -185000,
+      "sourceSha256": "f9cebc10e6c91476ac45b1183683a1148aeaedc914133963a79d497d79f27e13"
+    },
+    {
+      "id": "28_19",
+      "x": 285000,
+      "y": -195000,
+      "sourceSha256": "dbd78e4894a86058a944ef3333ee11ce36b5561abb628defa69d9c7d9449339e"
+    },
+    {
+      "id": "28_20",
+      "x": 285000,
+      "y": -205000,
+      "sourceSha256": "daa59b63cb0f697904abd12bcaca75511a3d1dfd9f4492ecc75ec4407557e34e"
+    },
+    {
+      "id": "29_16",
+      "x": 295000,
+      "y": -165000,
+      "sourceSha256": "0fb4c4d031811c73289bb52007492e573513452498f1543a8ca4e32f2c1232d2"
+    },
+    {
+      "id": "29_17",
+      "x": 295000,
+      "y": -175000,
+      "sourceSha256": "54b211e937a38d634424138eee98f0a665803f44896a70429ceaa944593ab73e"
+    },
+    {
+      "id": "29_18",
+      "x": 295000,
+      "y": -185000,
+      "sourceSha256": "9726308a5cca9b7f0d6e20eee49d62aaf4b1a0bc9b6eac2e0d6134a000788c8e"
+    },
+    {
+      "id": "29_19",
+      "x": 295000,
+      "y": -195000,
+      "sourceSha256": "bf9ac5ff62de357f0d49a71787262e2b48ce6e7851fd60754a9710ba9007a5d0"
+    },
+    {
+      "id": "29_20",
+      "x": 295000,
+      "y": -205000,
+      "sourceSha256": "79b9b30e31880efccd90ca0ac687713ecb223fca7338d480e1f8240be9f3f442"
+    }
+  ],
+  "spawn": [
+    265725.23333333334,
+    -191809.99999999997,
+    -672.6769788159183
+  ],
+  "landmark": [
+    41141.68050818046,
+    -62695.423999983606,
+    16.21516173149562
+  ],
+  "sourceManifestSha256": "ea314780448569dc48fea95f87629cdc9c53738b529497961afc94c38318b708",
+  "terrainSources": {
+    "artifacts\\unreal\\terrain\\15-9543-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12410.png",
+      "sha256": "ce9292d64c5d947488d6223c414829dd3a8b69e3801921b37e1d8dfd19afdaf9"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12411.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12411.png",
+      "sha256": "bed53c45535ef1f1496107738ca9c1fb64402f84590c0090b131896be0fe5aa2"
+    },
+    "artifacts\\unreal\\terrain\\15-9537-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9537/12410.png",
+      "sha256": "7d95b03c3f134f5bc413621fd867f456567bd367829f9ea009bbbdb990a05772"
+    },
+    "artifacts\\unreal\\terrain\\15-9542-12406.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9542/12406.png",
+      "sha256": "e0131803280b8bdd57db7e6801cc93cec57d79e34c0f0cedffea7765a0a1d302"
+    },
+    "artifacts\\unreal\\terrain\\15-9542-12405.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9542/12405.png",
+      "sha256": "99c49aa25bfdeeb8828986382e2f6b5bfebe7d5a2262ef6249d076661de74c21"
+    },
+    "artifacts\\unreal\\terrain\\15-9543-12406.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12406.png",
+      "sha256": "8845550da07bb836bf885c77bca016dcef85bd9c97c72232ca63930e2bb8b0c0"
+    },
+    "artifacts\\unreal\\terrain\\15-9543-12405.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12405.png",
+      "sha256": "fd5d58c9edd35d4c71ddbf3ea6dd5277c605aa672a93c8cd71ee23a7beba913a"
+    },
+    "artifacts\\unreal\\terrain\\15-9545-12409.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9545/12409.png",
+      "sha256": "981dd8a7f990c5b721b6a7aee07c78070e13a8ae45ef80b3427e9641e1141272"
+    },
+    "artifacts\\unreal\\terrain\\15-9545-12408.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9545/12408.png",
+      "sha256": "1e2cde43943af7605ceb068ba971e7a19ba19cc80349f381565749d142c862ee"
+    }
+  },
+  "limitations": [
+    "Historical source geometry is not final architecture.",
+    "Terrain source is not a surveyed road or bridge deck."
+  ],
+  "yawDegrees": -80.5,
+  "name": "Delaware waterfront / Penn Treaty Park",
+  "houseCount": 49,
+  "houseTriangles": 87896,
+  "skippedBuildings": [
+    {
+      "id": "264605",
+      "name": "Kensington Methodist Church",
+      "height": 18.8976
+    },
+    {
+      "id": "266800",
+      "name": "",
+      "height": 30.48
+    },
+    {
+      "id": "274475",
+      "name": "",
+      "height": 24.6888
+    },
+    {
+      "id": "279006",
+      "name": "",
+      "height": 8.8392
+    },
+    {
+      "id": "408322",
+      "name": "",
+      "height": 2.4384
+    },
+    {
+      "id": "485792",
+      "name": "Police Citywide Vice / Employee Assistance Program",
+      "height": 21.945600000000002
+    },
+    {
+      "id": "486596",
+      "name": "PECO Delaware Generating Station",
+      "height": 34.1376
+    }
+  ]
+}

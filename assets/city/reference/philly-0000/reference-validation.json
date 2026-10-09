@@ -1,0 +1,27 @@
+{
+  "status": "source reference only; not cleaned or integrated",
+  "source_files_sha256": {
+    "philly_0000.dae": "4d5774bd257c6424bf9684f11371176802af0d499bbfbc13c73958234c721bde",
+    "pphilly_0000-0.jpg": "feb9b4c910a4c5959c9055981d8619930e7576ed6954d9a4e15e34105853e28e",
+    "philly_0000.kml": "727194f6a4eec2290a41c1b2f9c98019d3330c3cbc00e46b1d32489ffacd0913"
+  },
+  "source_origin_lon_lat": [
+    -75.155179,
+    39.955632
+  ],
+  "source_units": "metres, Z_UP",
+  "vertices": 1172,
+  "triangles": 1492,
+  "max_position_roundoff_metres": 1.8920898412488896e-06,
+  "max_uv_roundoff": 2.9792785682936085e-08,
+  "triangle_order_preserved": true,
+  "packed_jpeg_identical": true,
+  "material_note": "Source photograph shown with emission for inspection; not final PBR or de-lit material.",
+  "limitations": [
+    "Historical capture",
+    "Building identity unverified",
+    "Baked cars, vegetation and shadows",
+    "Occluded and stretched facade areas",
+    "No new geometry or cleanup"
+  ]
+}

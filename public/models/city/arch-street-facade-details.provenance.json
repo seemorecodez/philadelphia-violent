@@ -1,0 +1,581 @@
+{
+  "output": "public\\models\\city\\arch-street-facade-details.glb",
+  "sha256": "9331a2a497c620dcc773207958faa6670e8e56c11e7016ade4091b762062384a",
+  "originalMeshSha256": "5b366bf92839824f91b608003bef99095e923b459f3c71e706b27e3575daa532",
+  "sourceObjectId": 2740,
+  "origin": [
+    -75.15699856224472,
+    39.953127397972096,
+    32.73661771975458
+  ],
+  "triangles": 29924,
+  "sourceAtlasSize": [
+    4096,
+    2048
+  ],
+  "details": [
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        95,
+        164,
+        136
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        95,
+        207,
+        136
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        95,
+        337,
+        136
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        95,
+        389,
+        136
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        95,
+        434,
+        136
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        164,
+        164,
+        208
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        164,
+        207,
+        208
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        164,
+        337,
+        208
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        164,
+        389,
+        208
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        164,
+        434,
+        208
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        237,
+        164,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        237,
+        207,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        237,
+        337,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        237,
+        389,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        237,
+        434,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        310,
+        164,
+        348
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        310,
+        207,
+        348
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        310,
+        337,
+        348
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        310,
+        389,
+        348
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        310,
+        434,
+        348
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        378,
+        164,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        378,
+        207,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        378,
+        337,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        378,
+        389,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        378,
+        434,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        452,
+        164,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        452,
+        207,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        452,
+        337,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        452,
+        389,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        452,
+        434,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        236,
+        113,
+        245,
+        137
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        251,
+        113,
+        260,
+        137
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        266,
+        113,
+        275,
+        137
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        236,
+        184,
+        245,
+        209
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        251,
+        184,
+        260,
+        209
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        266,
+        184,
+        275,
+        209
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        236,
+        256,
+        245,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        251,
+        256,
+        260,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        266,
+        256,
+        275,
+        279
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        236,
+        326,
+        245,
+        349
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        251,
+        326,
+        260,
+        349
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        266,
+        326,
+        275,
+        349
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        236,
+        396,
+        245,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        251,
+        396,
+        260,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        266,
+        396,
+        275,
+        427
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        236,
+        466,
+        245,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        251,
+        466,
+        260,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        266,
+        466,
+        275,
+        493
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        33,
+        164,
+        66
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        33,
+        207,
+        66
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        33,
+        337,
+        66
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        33,
+        389,
+        66
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        33,
+        434,
+        66
+      ]
+    },
+    {
+      "kind": "source-aligned north facade piers, window banks and cornice",
+      "basis": "Visible atlas north elevation; masonry joint spacing interpreted"
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        126,
+        527,
+        164,
+        636
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        174,
+        527,
+        207,
+        636
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        299,
+        527,
+        337,
+        636
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        352,
+        527,
+        389,
+        636
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        412,
+        527,
+        434,
+        636
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        240,
+        527,
+        268,
+        609
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        240,
+        615,
+        254,
+        638
+      ]
+    },
+    {
+      "kind": "photo-traced window surround",
+      "atlasRectangle": [
+        255,
+        615,
+        268,
+        638
+      ]
+    },
+    {
+      "kind": "interpreted ground-floor piers, lintel and glazing",
+      "basis": "Visible upper pier/bay alignment; lower source photo is obscured",
+      "notSurveyed": true
+    }
+  ],
+  "limits": [
+    "Separate additive geometry; original mesh and photographs unchanged",
+    "Ground-floor treatment is interpreted where the photo is obscured",
+    "No interiors or final surface texture maps; visual review required"
+  ]
+}

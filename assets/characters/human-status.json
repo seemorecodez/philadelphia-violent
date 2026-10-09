@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "sourceCommit": "a8bc2d54ff0ac92e78ff71431b1023eda42bf482",
+  "sourceLicense": "CC0-1.0",
+  "heightMetresInRestPose": 1.78,
+  "axes": {
+    "up": "+Y",
+    "forward": "+Z"
+  },
+  "meshObjects": 7,
+  "bones": 163,
+  "vertices": 22276,
+  "triangles": 41586,
+  "animations": [
+    "Idle",
+    "Walk"
+  ],
+  "outputBytes": 17334600,
+  "derivedHash": "be4b73a3740dc0408e2998921a93f4185ff36c93bdeb271a7df6eec20d037268",
+  "skinWeights": "Original default weights, barycentric transfer through source clothing mappings, normalized to strongest four influences per vertex.",
+  "animationLimits": "Simple authored in-place 1.067-second walk cycle; not motion capture. Contact corrected at keyed poses; interpolation/foot sliding requires visual review.",
+  "appearanceLimits": "Authored anatomical topology with source color textures, outfit and shoe normal maps. Skin subsurface detail and cloth ambient-occlusion maps are not fully reproduced by glTF.",
+  "visualStatus": "Prepared; face, clothes, rig deformation and animated GLB require visual review."
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://mapservices.pasda.psu.edu/server/rest/services/pasda/CityPhilly/MapServer/32/query?f=geojson&where=1%3D1&outFields=OBJECTID_1%2CNAME%2CSUBTYPE%2CBIN&outSR=4326&returnGeometry=true&resultRecordCount=1000&orderByFields=OBJECTID_1",
+  "count": 1147,
+  "retrieved": "2026-09-12T07:23:58.892Z",
+  "status": "Source point inventory; not proof of individual 3D model completion"
+}

@@ -1,0 +1,269 @@
+{
+  "schema": 1,
+  "units": "centimetres",
+  "axes": "X east, Y south, Z up",
+  "origin": [
+    -75.16,
+    39.95
+  ],
+  "originHeight": 11.501941601038554,
+  "terrain": "Shared 10m piecewise-planar grid from Terrarium z15 observations",
+  "surfaceConformance": {
+    "gridMeters": 10,
+    "sourceTriangles": 98466,
+    "outputTriangles": 394744,
+    "maxOriginalVertexHeightAdjustmentM": 0.4174851453377597
+  },
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60
+  },
+  "cells": [
+    {
+      "id": "-8_-23",
+      "x": -75000,
+      "y": 225000,
+      "sourceSha256": "ed0507ff69a31f93bae48255c23002a2f6d7f7bdf138940b4d9c801ac5d00536"
+    },
+    {
+      "id": "-8_-22",
+      "x": -75000,
+      "y": 215000,
+      "sourceSha256": "bd1db08771fc263519f242e40ff56a4fc7b919604078a009ef81566752160663"
+    },
+    {
+      "id": "-8_-21",
+      "x": -75000,
+      "y": 205000,
+      "sourceSha256": "6bd24794686fb5d7521e08ee74b694f6f9345e524b54693e3f8c96cc949f9149"
+    },
+    {
+      "id": "-8_-20",
+      "x": -75000,
+      "y": 195000,
+      "sourceSha256": "dba3d64f0d388c62c860119518d8f577b798d721bfd94dfdf0f88ad908f3d221"
+    },
+    {
+      "id": "-8_-19",
+      "x": -75000,
+      "y": 185000,
+      "sourceSha256": "f7d5306fe825e7846097285dfc44e05d855f71d71e508ef8c6370422c6947e3f"
+    },
+    {
+      "id": "-7_-23",
+      "x": -65000,
+      "y": 225000,
+      "sourceSha256": "d4dd9e665e1872acd472305c29519528759c42555a1d5d8aa8b41a284e8d1fcc"
+    },
+    {
+      "id": "-7_-22",
+      "x": -65000,
+      "y": 215000,
+      "sourceSha256": "27f86d7d7720b7db3fc70d5df31aecf8816f033bb72b95dd7908d458f0464984"
+    },
+    {
+      "id": "-7_-21",
+      "x": -65000,
+      "y": 205000,
+      "sourceSha256": "7e3c0252266f1988d555f5d428adc7d08a435dae6f5013765f00f8f7d9fa805a"
+    },
+    {
+      "id": "-7_-20",
+      "x": -65000,
+      "y": 195000,
+      "sourceSha256": "24936f1eb3b78883954daf0a6ccc87f09518c773519865489dca5d864c08bdf4"
+    },
+    {
+      "id": "-7_-19",
+      "x": -65000,
+      "y": 185000,
+      "sourceSha256": "54f1407586b5e24e3874574f1f2a6f996a48a58c127e2e44f182510a99548da7"
+    },
+    {
+      "id": "-6_-23",
+      "x": -55000,
+      "y": 225000,
+      "sourceSha256": "908940c70bcda450841a053d91b91dacee0c35c832b0571a08d8cf20590a0b4c"
+    },
+    {
+      "id": "-6_-22",
+      "x": -55000,
+      "y": 215000,
+      "sourceSha256": "d6514513b7cf526ecb9a5562cebe711d327afe545fdbf8ea736a9b8206e8c165"
+    },
+    {
+      "id": "-6_-21",
+      "x": -55000,
+      "y": 205000,
+      "sourceSha256": "de0e2fa020f5912e6fd4bacfc38649e868ac6b2e16b880663bf25ec70582dfc6"
+    },
+    {
+      "id": "-6_-20",
+      "x": -55000,
+      "y": 195000,
+      "sourceSha256": "788dcb6e038949f5584a60d222bc1b07eac8c5a455805bc40800f7c6199477c6"
+    },
+    {
+      "id": "-6_-19",
+      "x": -55000,
+      "y": 185000,
+      "sourceSha256": "c954f414183725630864f36d5ead39dfdd26f303cafb58c1e0c9565e0ea4cca8"
+    },
+    {
+      "id": "-5_-23",
+      "x": -45000,
+      "y": 225000,
+      "sourceSha256": "e64fdb04e82e8744e3d0e27e2d7aceeba2ff60f9230e549c3928a83a774a17a3"
+    },
+    {
+      "id": "-5_-22",
+      "x": -45000,
+      "y": 215000,
+      "sourceSha256": "a588edbb8dad94a8f022f619b5f8b5bf83e1135011fc0779ab58b51a8d26758a"
+    },
+    {
+      "id": "-5_-21",
+      "x": -45000,
+      "y": 205000,
+      "sourceSha256": "4b5114ebcf554adb536023ae16fe8647e6fa411a4968663b3b31bedfab383f74"
+    },
+    {
+      "id": "-5_-20",
+      "x": -45000,
+      "y": 195000,
+      "sourceSha256": "c79f89b80f485bfb7bf3a9792c1d628a1f48017f3e5b635e6bd4a1f167631d0f"
+    },
+    {
+      "id": "-5_-19",
+      "x": -45000,
+      "y": 185000,
+      "sourceSha256": "da1befd0b244b2f12ddca3683a2a58b9572b69617cf7abe2a443234a4f650091"
+    },
+    {
+      "id": "-4_-23",
+      "x": -35000,
+      "y": 225000,
+      "sourceSha256": "7d0be63d5ad9fc959ae8e39fd7a28b825af9f626c492c8996b4ac1c2f3dd5e85"
+    },
+    {
+      "id": "-4_-22",
+      "x": -35000,
+      "y": 215000,
+      "sourceSha256": "00a729303267afaf903ae90689d224101e9373568a052f7227741f0639c4700d"
+    },
+    {
+      "id": "-4_-21",
+      "x": -35000,
+      "y": 205000,
+      "sourceSha256": "97d97a5e84db7915bd6d8aea81b16f3d33bd4db1d62b6ef01e46dc926214115a"
+    },
+    {
+      "id": "-4_-20",
+      "x": -35000,
+      "y": 195000,
+      "sourceSha256": "d3a1e870052c6b698a3527552d2001d9781ac6446644244cff1ff352e9d7e65d"
+    },
+    {
+      "id": "-4_-19",
+      "x": -35000,
+      "y": 185000,
+      "sourceSha256": "852485ecdd9b9ac02976d8f7c5095b6b73cb15b21dc99349830bdc4f8a60fbb3"
+    }
+  ],
+  "spawn": [
+    -50767.666666666664,
+    203954.53333333335,
+    -393.45180978271713
+  ],
+  "landmark": [
+    41141.68050818046,
+    -62695.423999983606,
+    16.21516173149562
+  ],
+  "sourceManifestSha256": "5dfc677f4530e7fbbe4e0abef583118ff5c19c36077b7da9493ffa28b8dff189",
+  "terrainSources": {
+    "artifacts\\unreal\\terrain\\15-9543-12410.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9543/12410.png",
+      "sha256": "ce9292d64c5d947488d6223c414829dd3a8b69e3801921b37e1d8dfd19afdaf9"
+    },
+    "artifacts\\unreal\\terrain\\15-9541-12413.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9541/12413.png",
+      "sha256": "7c3dc0b7267d494a8baad1cacd68584ccc911cf7c2619c13fa7556a5c7a17318"
+    },
+    "artifacts\\unreal\\terrain\\15-9542-12413.png": {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/15/9542/12413.png",
+      "sha256": "ef3ca775697d566f429f004bf0a9dad975adb23e3ce4b18233bfab49884fae75"
+    }
+  },
+  "limitations": [
+    "Historical source geometry is not final architecture.",
+    "Terrain source is not a surveyed road or bridge deck."
+  ],
+  "yawDegrees": -80.5,
+  "name": "South Philadelphia",
+  "houseCount": 1355,
+  "houseTriangles": 963716,
+  "skippedBuildings": [
+    {
+      "id": "3341",
+      "name": "International Bethel Church",
+      "height": 9.144
+    },
+    {
+      "id": "317524",
+      "name": "Columbus-DiProspero Playground Building",
+      "height": 6.096
+    },
+    {
+      "id": "332168",
+      "name": "PGW South Philly Customer Service Center",
+      "height": 9.7536
+    },
+    {
+      "id": "340662",
+      "name": "Fire Engine 10/Ladder 11",
+      "height": 5.486400000000001
+    },
+    {
+      "id": "344513",
+      "name": "",
+      "height": 11.8872
+    },
+    {
+      "id": "344901",
+      "name": "House of Prayer Baptist Church",
+      "height": 10.3632
+    },
+    {
+      "id": "345361",
+      "name": "",
+      "height": 14.020800000000001
+    },
+    {
+      "id": "346908",
+      "name": "Animal Medical Clinic",
+      "height": 10.972800000000001
+    },
+    {
+      "id": "365153",
+      "name": "",
+      "height": 8.8392
+    },
+    {
+      "id": "368767",
+      "name": "",
+      "height": 1.524
+    },
+    {
+      "id": "391926",
+      "name": "Saint John's Baptist Church",
+      "height": 13.1064
+    },
+    {
+      "id": "495503",
+      "name": "",
+      "height": 9.144
+    }
+  ]
+}

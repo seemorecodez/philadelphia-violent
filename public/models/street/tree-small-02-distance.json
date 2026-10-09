@@ -1,0 +1,24 @@
+{
+  "source": "tree-small-02.glb",
+  "license": "CC0-1.0",
+  "author": "Rico Cilliers / Poly Haven",
+  "parts": [
+    {
+      "name": "tree_small_02_branches",
+      "sourceTriangles": 9999,
+      "distanceTriangles": 1799
+    },
+    {
+      "name": "tree_small_02_leaves",
+      "sourceTriangles": 109865,
+      "distanceTriangles": 18000
+    },
+    {
+      "name": "tree_small_02_trunk",
+      "sourceTriangles": 6999,
+      "distanceTriangles": 1400
+    }
+  ],
+  "bytes": 4748684,
+  "status": "Geometry reduction for distant trees; visual review required"
+}

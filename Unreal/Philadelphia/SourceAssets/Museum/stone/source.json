@@ -1,0 +1,29 @@
+{
+  "asset": "Granite Tile 04",
+  "creator": "Amal Kumar / Poly Haven",
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/granite_tile_04",
+  "licenseSource": "https://polyhaven.com/license",
+  "physicalSizeMeters": 2,
+  "files": [
+    {
+      "file": "granite_tile_04_diff_4k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/granite_tile_04/granite_tile_04_diff_4k.jpg",
+      "bytes": 14966095,
+      "sha256": "bdbc606f7f13fd422303e3a02d6d721b5980d0e531e7fe02ff0af9586e944def"
+    },
+    {
+      "file": "granite_tile_04_nor_dx_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/granite_tile_04/granite_tile_04_nor_dx_2k.jpg",
+      "bytes": 2889587,
+      "sha256": "4e030cdb81836fb13466773399b7c270bc45e8d18bb5279ccc9c31770ba30c41"
+    },
+    {
+      "file": "granite_tile_04_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/granite_tile_04/granite_tile_04_rough_2k.jpg",
+      "bytes": 3496072,
+      "sha256": "8a9de6fb7f1d91d7c2498814ea690b8c3685507cb18eb6c9029131c79fdd46c2"
+    }
+  ],
+  "scope": "Photographed material reference for authored stone; not a scan of Philadelphia Museum stairs"
+}

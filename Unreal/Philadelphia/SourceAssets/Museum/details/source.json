@@ -1,0 +1,157 @@
+{
+  "sourceSha256": "bfec34ce9fe3f767f2cf655ee891d3c8def3831ca5198195ed8340fbe02b7de6",
+  "removedTriangleIds": [
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    74,
+    75,
+    80,
+    81,
+    86,
+    87,
+    96,
+    97
+  ],
+  "untouchedAttributesAndPhotoBytesPreserved": true,
+  "retainedTriangles": 2531,
+  "detailTriangles": 57724,
+  "stoneBlocks": 5228,
+  "flights": [
+    {
+      "sourceRampTriangles": [
+        64,
+        65
+      ],
+      "sourceLandingTriangles": [
+        66,
+        67
+      ],
+      "lowerExtensionMeters": 3,
+      "treads": 14,
+      "riserMeters": 0.14650450434003556,
+      "treadDepthMeters": 0.5638040346638055,
+      "widthMeters": 36.768776762572855,
+      "heightMeters": [
+        -24.09158073425293,
+        -22.04051767349243
+      ]
+    },
+    {
+      "sourceRampTriangles": [
+        62,
+        63
+      ],
+      "sourceLandingTriangles": [
+        74,
+        75
+      ],
+      "lowerExtensionMeters": 0,
+      "treads": 12,
+      "riserMeters": 0.1576153834660848,
+      "treadDepthMeters": 0.40594891561147667,
+      "widthMeters": 37.29372350738147,
+      "heightMeters": [
+        -22.04051767349243,
+        -20.149133071899413
+      ]
+    },
+    {
+      "sourceRampTriangles": [
+        56,
+        57
+      ],
+      "sourceLandingTriangles": [
+        86,
+        87
+      ],
+      "lowerExtensionMeters": 0,
+      "treads": 13,
+      "riserMeters": 0.15838138873760516,
+      "treadDepthMeters": 0.35587786021470463,
+      "widthMeters": 37.194909336588324,
+      "heightMeters": [
+        -20.149133071899413,
+        -18.090175018310546
+      ]
+    },
+    {
+      "sourceRampTriangles": [
+        54,
+        55
+      ],
+      "sourceLandingTriangles": [
+        80,
+        81
+      ],
+      "lowerExtensionMeters": 0,
+      "treads": 12,
+      "riserMeters": 0.16025344530741373,
+      "treadDepthMeters": 0.42887635689761144,
+      "widthMeters": 36.86969531569299,
+      "heightMeters": [
+        -18.090175018310546,
+        -16.16713367462158
+      ]
+    },
+    {
+      "sourceRampTriangles": [
+        52,
+        53
+      ],
+      "sourceLandingTriangles": [
+        96,
+        97
+      ],
+      "lowerExtensionMeters": 0,
+      "treads": 14,
+      "riserMeters": 0.1534888403756278,
+      "treadDepthMeters": 0.3470479247342139,
+      "widthMeters": 37.42069902296317,
+      "heightMeters": [
+        -16.16713367462158,
+        -14.018289909362792
+      ]
+    },
+    {
+      "sourceRiseTriangles": [
+        1747,
+        1748
+      ],
+      "treads": 7,
+      "riserMeters": 0.1458238192967006,
+      "treadDepthMeters": 0.4,
+      "widthMeters": 35.3656494190261,
+      "heightMeters": [
+        -14.018289909362792,
+        -12.997523174285888
+      ],
+      "interpretation": "2.8 m stair run in front of measured terrace rise"
+    }
+  ],
+  "retainedSha256": "235e188de28bb1052fc8f28e2cb3deaf37437cb38ffa44138bfef092404ade32",
+  "detailSha256": "a61102f74acd3955b535ba9359d2e7074f0ae62e35455feba729e1bca3170eb3",
+  "limits": [
+    "Six reconstructed flights; tread count agrees with 72-step museum reference but individual spacing is not surveyed",
+    "Lowest and uppermost runs bridge source height discontinuities",
+    "Individual tread spacing and stone joints interpreted from measured ramp spans",
+    "Photographed CC0 granite is a material interpretation, not a museum stone scan",
+    "Remaining museum photography retains historical lighting and limited texel density"
+  ],
+  "collision": {
+    "file": "museum-stair-collision.glb",
+    "sha256": "934dc2b834e3cf4998b49125c1c6a064585fc8f17212afe3b4b81988332c6c21",
+    "triangles": 900,
+    "treadLevels": 72,
+    "scope": "Continuous horizontal tread collision at existing rendered heights; bridges decorative joints, no ramp"
+  }
+}

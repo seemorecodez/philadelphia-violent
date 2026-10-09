@@ -1,0 +1,108 @@
+--- a/Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h
++++ b/Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.h
+@@ -17,6 +17,8 @@
+     GENERATED_BODY()
+ public:
+     APhillyVehicle();
++    virtual void PossessedBy(AController* NewController) override;
++    virtual void UnPossessed() override;
+     virtual void BeginPlay() override;
+     virtual void Tick(float DeltaTime) override;
+     virtual void SetupPlayerInputComponent(UInputComponent* Input) override;
+@@ -35,6 +37,7 @@
+     float Throttle = 0, Steering = 0;
+     bool bHandbrake = false;
+     bool bGroundReady = false;
++    void ResetDriverInput();
+     void SetThrottle(float V) { Throttle = V; }
+     void SetSteering(float V) { Steering = V; }
+     void BrakeOn() { bHandbrake = true; }
+--- a/Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp
++++ b/Unreal/Philadelphia/Source/Philadelphia/PhillyGameplay.cpp
+@@ -68,6 +68,27 @@
+     Body->SetSimulatePhysics(false);
+ }
+ 
++void APhillyVehicle::ResetDriverInput()
++{
++    Throttle = 0;
++    Steering = 0;
++    bHandbrake = false;
++}
++
++void APhillyVehicle::PossessedBy(AController* NewController)
++{
++    ResetDriverInput();
++    Super::PossessedBy(NewController);
++}
++
++void APhillyVehicle::UnPossessed()
++{
++    // A key released while walking is delivered to the walker, not this pawn.
++    // Discard the outgoing driver's latched actions before another entry.
++    ResetDriverInput();
++    Super::UnPossessed();
++}
++
+ void APhillyVehicle::SetupPlayerInputComponent(UInputComponent* Input)
+ {
+     Super::SetupPlayerInputComponent(Input);
+--- a/Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp
++++ b/Unreal/Philadelphia/Source/Philadelphia/PhillyMechanicsProbe.cpp
+@@ -219,19 +219,51 @@
+     else if(Stage==7 && Age>3)
+     {
+         if(Vehicle->SpeedKmh()>2){Finish(false,TEXT("Handbrake did not stop vehicle"));return;}
+-        Key(EKeys::SpaceBar,false);Pulse(EKeys::F);Next(8,TEXT("Pressed F to exit stopped vehicle"));
++        // Deliberately hold Space across possession; its release reaches the walker.
++        Pulse(EKeys::F);Next(8,TEXT("Pressed F to exit stopped vehicle while holding handbrake"));
+     }
+     else if(Stage==8 && Age>.75)
+     {
+         if(PC->GetPawn()!=Walker || Walker->IsHidden() || !Walker->GetActorEnableCollision() || !Walker->GetCharacterMovement()->IsMovingOnGround())
+         {Finish(false,TEXT("Exit did not restore visible grounded walking pawn"));return;}
+-        Pulse(EKeys::F9);Next(9,TEXT("Exited onto source collision; restoring F5 state with F9"));
++        Key(EKeys::SpaceBar,false);
++        Next(10,TEXT("Released handbrake while walking; waiting before re-entry"));
++    }
++    else if(Stage==10 && Age>.25)
++    {
++        Pulse(EKeys::F);Next(11,TEXT("Pressed F to re-enter after releasing Space on foot"));
++    }
++    else if(Stage==11 && Age>.5)
++    {
++        if(PC->GetPawn()!=Vehicle){Finish(false,TEXT("Could not re-enter stopped vehicle"));return;}
++        DriveStart=Vehicle->GetActorLocation();
++        Key(EKeys::W,true);Next(12,TEXT("Driving again through W input after handbrake exit"));
++    }
++    else if(Stage==12 && Age>3)
++    {
++        Key(EKeys::W,false);Key(EKeys::SpaceBar,true);
++        const double Travel=FVector::DistXY(DriveStart,Vehicle->GetActorLocation());
++        Evidence+=FString::Printf(TEXT("reentry_drive_cm=%.1f speed_kmh=%.2f\n"),Travel,Vehicle->SpeedKmh());
++        if(Travel<200 || Vehicle->SpeedKmh()<2)
++        {Finish(false,TEXT("Vehicle could not drive after handbrake was released on foot"));return;}
++        Next(13,TEXT("Re-entry drive passed two metres; braking again"));
++    }
++    else if(Stage==13 && Age>3)
++    {
++        if(Vehicle->SpeedKmh()>2){Finish(false,TEXT("Handbrake did not stop re-entry drive"));return;}
++        Key(EKeys::SpaceBar,false);Pulse(EKeys::F);Next(14,TEXT("Exiting after re-entry drive"));
++    }
++    else if(Stage==14 && Age>.75)
++    {
++        if(PC->GetPawn()!=Walker || Walker->IsHidden() || !Walker->GetActorEnableCollision() || !Walker->GetCharacterMovement()->IsMovingOnGround())
++        {Finish(false,TEXT("Second exit did not restore visible grounded walking pawn"));return;}
++        Pulse(EKeys::F9);Next(9,TEXT("Restoring original F5 state after repeated drive/exit"));
+     }
+     else if(Stage==9 && Age>.75)
+     {
+         const double WalkError=FVector::Dist(Walker->GetActorLocation(),SavedWalker.GetLocation());
+         const double CarError=FVector::Dist(Vehicle->GetActorLocation(),SavedVehicle.GetLocation());
+         Evidence+=FString::Printf(TEXT("restore_walker_error_cm=%.2f restore_vehicle_error_cm=%.2f\n"),WalkError,CarError);
+-        Finish(PC->GetPawn()==Walker && WalkError<15 && CarError<30,TEXT("Short walk/drive/exit/save probe; multi-block and final-quality acceptance still required"));
+-    }
+-}
++        Finish(PC->GetPawn()==Walker && WalkError<15 && CarError<30,TEXT("Short walk/drive/handbrake-exit/re-entry/save probe; sustained driving, steering, reverse and final-quality acceptance still required"));
++    }
++}
